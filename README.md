@@ -1,0 +1,2 @@
+# Automated-Podcast-Transcription-and-Topic-Segmentation-Audio-Analysis-Project
+The goal is to develop an AI-powered system that automatically transcribes podcast audio  and segments it into distinct topical sections. Leveraging advances in speech-to-text technology  and NLP, the system will enable users to navigate podcasts efficiently by browsing  topics and key discussion points without listening to the entire episode.
