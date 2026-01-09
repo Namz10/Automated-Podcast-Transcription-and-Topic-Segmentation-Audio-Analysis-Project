@@ -1,36 +1,74 @@
 import whisper
 import json
 import os
-import librosa
+import glob
+import re
+from tqdm import tqdm
+from static_ffmpeg import add_paths
 
-def transcribe_audio(file_path, model_name="base", output_dir="data/transcripts"):
+# Add ffmpeg to the path
+add_paths()
+
+def clean_text(text):
+    """
+    Performs basic text cleaning:
+    - Removes filler words (um, uh, etc.) - simple regex
+    - Basic punctuation and spacing normalization
+    """
+    # Simple list of filler words
+    fillers = r'\b(um|uh|err|ah|like|you know|sort of|kind of)\b'
+    text = re.sub(fillers, '', text, flags=re.IGNORECASE)
+    # Remove extra spaces
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+def transcribe_chunks(chunks_dir, audio_id, model_name="base", output_dir="data/transcripts"):
+    """
+    Transcribes all chunks for a given audio_id and aggregates results.
+    """
     print(f"Loading Whisper model: {model_name}...")
     model = whisper.load_model(model_name)
     
-    print(f"Loading audio with librosa: {file_path}...")
-    # Whisper expects 16kHz mono audio
-    audio_array, _ = librosa.load(file_path, sr=16000, mono=True)
+    chunk_files = sorted(glob.glob(os.path.join(chunks_dir, str(audio_id), "*.wav")))
     
-    print(f"Transcribing array...")
-    # transcribe can accept a numpy array
-    result = model.transcribe(audio_array, verbose=False)
+    if not chunk_files:
+        print(f"No chunks found for audio_id: {audio_id}")
+        return
     
-    # Save the full result as JSON for further processing (timestamps, etc.)
     os.makedirs(output_dir, exist_ok=True)
-    base_name = os.path.basename(file_path).replace(".wav", ".json")
-    output_path = os.path.join(output_dir, base_name)
     
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(result, f, indent=4, ensure_ascii=False)
+    full_transcript = []
     
-    print(f"Transcription complete. Saved to: {output_path}")
-    
-    # Extract just the text for a quick look
-    text_path = output_path.replace(".json", ".txt")
-    with open(text_path, "w", encoding="utf-8") as f:
-        f.write(result["text"])
+    for chunk_file in tqdm(chunk_files, desc=f"Transcribing chunks of {audio_id}"):
+        # We can extract chunk index from filename if needed
+        # result = model.transcribe(chunk_file, verbose=False)
+        result = model.transcribe(chunk_file, verbose=False) # Whisper usually handles array or path
         
-    return result
+        # Each 'segment' in result['segments'] has start/end relative to the chunk
+        # We need to offset them by the chunk's global start time if we want a global transcript
+        # For Milestone 1, we just need to preserve them as is per chunk, or aggregate them.
+        
+        cleaned_text = clean_text(result["text"])
+        
+        chunk_data = {
+            "chunk_file": os.path.basename(chunk_file),
+            "text": cleaned_text,
+            "segments": result["segments"]
+        }
+        full_transcript.append(chunk_data)
+        
+    output_path = os.path.join(output_dir, f"{audio_id}_transcript.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(full_transcript, f, indent=4, ensure_ascii=False)
+        
+    print(f"Transcription for {audio_id} complete. Saved to: {output_path}")
+    return full_transcript
 
 if __name__ == "__main__":
-    transcribe_audio("data/processed/episode_sample_cleaned.wav", model_name="base")
+    # Test on the first processed audio_id
+    CHUNKS_DIR = "data/processed/chunks"
+    AUDIO_ID = 0
+    if os.path.exists(os.path.join(CHUNKS_DIR, str(AUDIO_ID))):
+        transcribe_chunks(CHUNKS_DIR, AUDIO_ID, model_name="base")
+    else:
+        print(f"No chunks to transcribe for ID {AUDIO_ID}")
