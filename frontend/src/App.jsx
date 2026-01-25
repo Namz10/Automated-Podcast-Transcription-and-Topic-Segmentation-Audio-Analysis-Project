@@ -92,20 +92,23 @@ const App = () => {
               <div className="p-2 bg-primary/20 rounded-xl">
                 <AudioLines className="text-primary" size={24} />
               </div>
-              <h1 className="text-xl font-bold tracking-tight">Antigravity Pods</h1>
+              <div>
+                <h1 className="text-xl font-bold tracking-tight">Lexara</h1>
+                <p className="text-[10px] text-accent font-medium leading-none mt-1">AI that understands conversations</p>
+              </div>
             </div>
 
             <div className="space-y-6">
               <div>
-                <h3 className="text-xs font-semibold text-accent uppercase tracking-widest mb-4 px-2">Episodes</h3>
+                <h3 className="text-xs font-semibold text-accent uppercase tracking-widest mb-4 px-2">Library</h3>
                 <div className="space-y-2">
                   {podcasts.map((pod) => (
                     <button
                       key={pod.id}
                       onClick={() => fetchPodcastDetails(pod.id)}
                       className={`w-full text-left p-3 rounded-xl transition-all flex items-center gap-3 group ${selectedPodcastId === pod.id
-                          ? 'bg-primary text-white shadow-lg shadow-primary/20'
-                          : 'hover:bg-secondary text-accent hover:text-foreground'
+                        ? 'bg-primary text-white shadow-lg shadow-primary/20'
+                        : 'hover:bg-secondary text-accent hover:text-foreground'
                         }`}
                     >
                       <Mic2 size={18} className={selectedPodcastId === pod.id ? 'text-white' : 'text-primary group-hover:scale-110 transition-transform'} />
@@ -120,19 +123,22 @@ const App = () => {
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                 >
-                  <h3 className="text-xs font-semibold text-accent uppercase tracking-widest mb-4 px-2">Topic Segments</h3>
+                  <h3 className="text-xs font-semibold text-accent uppercase tracking-widest mb-4 px-2">Chapters</h3>
                   <div className="space-y-1">
                     {segments.map((seg) => (
                       <button
                         key={seg.segment_id}
                         onClick={() => scrollToSegment(seg.segment_id)}
                         className={`w-full text-left p-2 rounded-lg text-sm transition-all flex items-start gap-2 group ${currentSegmentId === seg.segment_id
-                            ? 'bg-secondary text-primary border-l-2 border-primary pl-3'
-                            : 'text-accent hover:text-foreground hover:bg-secondary/50'
+                          ? 'bg-secondary text-primary border-l-2 border-primary pl-3'
+                          : 'text-accent hover:text-foreground hover:bg-secondary/50'
                           }`}
                       >
                         <span className="mt-1 flex-shrink-0 text-[10px] font-mono opacity-50">#{seg.segment_id}</span>
-                        <span className="line-clamp-2 leading-snug">{seg.summary}</span>
+                        <div className="flex flex-col gap-0.5">
+                          <span className="font-bold text-xs line-clamp-1 group-hover:text-primary transition-colors">{seg.title}</span>
+                          <span className="text-[10px] opacity-60 line-clamp-1">{seg.summary}</span>
+                        </div>
                       </button>
                     ))}
                   </div>
@@ -254,13 +260,13 @@ const App = () => {
                   <div className="flex flex-col gap-6">
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-3">
-                        <span className="text-3xl font-black text-primary/20">0{seg.segment_id}</span>
+                        <span className="text-3xl font-black text-primary/20">{seg.segment_id < 10 ? `0${seg.segment_id}` : seg.segment_id}</span>
                         <div className="h-4 w-px bg-white/10" />
-                        <span className="text-sm font-bold tracking-wide uppercase text-accent">Topic Segment</span>
+                        <h3 className="text-xl font-bold tracking-tight text-primary/90">{seg.title}</h3>
                       </div>
                       <div className="flex items-center gap-2 text-accent">
                         <Clock size={14} />
-                        <span className="text-xs font-mono">Segment ID: {seg.segment_id}</span>
+                        <span className="text-xs font-mono">Chapter ID: {seg.segment_id}</span>
                       </div>
                     </div>
 
@@ -294,9 +300,9 @@ const App = () => {
               >
                 <AudioLines size={48} className="text-primary" />
               </motion.div>
-              <h2 className="text-3xl font-bold mb-4 tracking-tight">Welcome to Antigravity Pods</h2>
+              <h2 className="text-3xl font-bold mb-4 tracking-tight">Welcome to Lexara</h2>
               <p className="text-accent max-w-md mx-auto leading-relaxed">
-                Select an episode from the sidebar to begin your journey through AI-segmented podcast intelligence.
+                Experience AI that understands conversations. Select an episode from the library to explore deep-segmented podcast intelligence.
               </p>
             </div>
           )}

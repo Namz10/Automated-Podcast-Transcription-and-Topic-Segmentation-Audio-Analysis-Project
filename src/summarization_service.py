@@ -30,11 +30,50 @@ class Summarizer:
             return text  # Too short to summarize meaningfully
         
         try:
+            # T5 handles the 'summarize: ' prefix internally with the summarization pipeline
             summary = self.summarizer(text, max_length=max_length, min_length=min_length, do_sample=False)
             return summary[0]['summary_text']
         except Exception as e:
             print(f"Summarization error: {e}")
             return "Summary generation failed for this segment."
+
+    def generate_title(self, text, summary=None, max_new_tokens=10):
+        """
+        Generates a professional conceptual podcast chapter title.
+        Uses a QA-style prompt which often performs better for short-form extraction.
+        """
+        # Focus on the summary for the highest conceptual density
+        input_content = summary if summary and len(summary.split()) > 10 else text
+        
+        try:
+            # Explicit prompt for conceptual titling
+            prompt = f"question: what is the 3-word title of this? context: {input_content}"
+            # Use the underlying model to generate directly for more control
+            title_res = self.summarizer(prompt, max_new_tokens=max_new_tokens, min_new_tokens=3, do_sample=False)
+            title = title_res[0]['summary_text'].strip(". \"'").title()
+            
+            # Post-cleanup: filter out generic lead-ins
+            words = title.split()
+            if any(words[0].lower() == w for w in ["the", "a", "it", "this", "he"]):
+                title = " ".join(words[1:])
+            
+            # If the result is a long sentence or too short, use refined keywords
+            if len(title.split()) > 5 or len(title.split()) < 2:
+                self.rake.extract_keywords_from_text(text)
+                # Select the top conceptual phrase (2-3 words)
+                concepts = [p.title() for p in self.rake.get_ranked_phrases() if 1 < len(p.split()) <= 3]
+                if concepts:
+                    title = concepts[0]
+                else:
+                    title = " ".join(title.split()[:4])
+
+            # Ensure it fits the 'Campaign Clash Over Medicare' length
+            if len(title.split()) > 6:
+                title = " ".join(title.split()[:5])
+                
+            return title
+        except Exception as e:
+            return "Untitled Chapter"
 
 if __name__ == "__main__":
     # Test

@@ -1,28 +1,28 @@
-# Project Walkthrough: Automated Podcast Analyzer
+# Lexara: AI that Understands Conversations
 
-This document summarizes the technical execution of the **Automated Podcast Transcription and Topic Segmentation** project.
+Lexara is a professional-grade podcast intelligence platform that transforms raw audio into structured, navigable intelligence.
 
-## Milestone 1: Data Acquisition & AI Pipeline
-- **Audio Engineering**: We implemented a robust preprocessing pipeline that performs **Spectral Gating** for noise removal and **RMS Normalization** for volume consistency. This ensures the highest possible transcription accuracy.
-- **ASR Implementation**: Integrated **OpenAI Whisper (Base)** for speech-to-text. The pipeline handles chunked audio processing to prevent memory overflows and features incremental saving for reliability.
+## 🚀 The Lexara Refinement
 
-## Milestone 2: Topic Segmentation & Analysis
-- **Algorithm Comparison**: We implemented two segmentation methods:
-    1. **Baseline**: Cosine similarity between consecutive sentences.
-    2. **Embedding-Based (SBERT)**: A more advanced approach using **Sentence-BERT** to detect semantic drifts. The embedding-based method was selected for the final product due to its superior "human-like" boundary detection.
-- **Knowledge Extraction**: For every segment, we automatically extract **top keywords** using RAKE and generate a **1-2 sentence executive summary** using the T5 model.
+We have moved beyond simple transcription to **Industrial Discourse Analysis**.
 
-## Milestone 3: Web Interface & Indexing
-- **The Dashboard**: A full-stack application providing a "Table of Contents" for podcasts.
-- **Navigation**: Features **Segment Jumping**, allowing users to skip directly to topics of interest without manual scrubbing.
-- **Discovery**: Implemented a **Global Search** engine that indexes across segments, keywords, and summaries.
+### 1. Conceptual Chapter Titling
+- **QA-Driven Synthesis**: Our refined `Summarizer` now uses a **Question-Answering** strategy to distill complex segments into meaningful 2-4 word "Chapter Headings" (e.g., *"Campaign Clash Over Medicare"*, *"Social Security Strategy"*).
+- **Professional Navigation**: These titles act as a high-level "Table of Contents" in the Lexara Dashboard, allowing users to jump directly to specific thematic discussion blocks.
+
+### 2. Industry-Grade Segmentation
+- **Coherent Chapters**: Refactored the SBERT segmentation service to enforce a strict minimum sentence count and semantic consistency, ensuring that each chapter is a complete, meaningful unit of discussion.
+- **Noise Suppression**: The pipeline now merges conversational fillers and brief affirmations into the core topic chapters.
+
+### 3. The Lexara Dashboard
+- **Premium Branding**: A sleek, dark-mode interface powered by React and Framer Motion.
+- **Library Explorer**: Browse full episodes and instantly view their "Topic Chapters" in the sidebar.
+- **Deep Search**: Search across keywords and summaries to find exact moments in long-form podcasts.
+
+## 📈 Technical Specs
+- **AI Models**: SBERT (Segmentation), T5-Small (Summarization & Titling), Whisper (ASR).
+- **Backend**: Flask API serving structured JSON disk data.
+- **Frontend**: Vite + React with custom Glassmorphism CSS.
 
 ---
-
-### Technical Highlights
-- **Design**: Modern Dark Mode with Glassmorphism and Framer Motion animations.
-- **Performance**: Sub-second search indexing and smooth scrolling navigation.
-- **Scale**: The system is modular and can process any MP3/WAV podcast source.
-
----
-*Created as the final project walkthrough for the industry submission.*
+*Lexara — Spoken word, structured intelligence.*

@@ -1,939 +1,229 @@
 [
     {
         "segment_id": 1,
-        "text": "Welcome to Pots of America, I'm John Fiverr. I'm Dan Fiverr.",
+        "title": "Social Security Putts",
+        "text": "Welcome to Pots of America, I'm John Fiverr. I'm Dan Fiverr. On today's show, if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan, Kamala Harris becomes the first vice president or president to visit an abortion clinic as Republicans start to get nervous about their position on reproductive rights. Your favorite third party spoilers get ready to screw things up again and EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy and environmental justice. But first... Trump floating Medicare and Social Security putts on Wall Street's favorite cable news network. His campaign clearly realized how damaging that was because they got him to walk it back Thursday during a right-part interview. One prominent Trump supporter who apparently didn't get the memo with Ben Shapiro, who's taken the whole thing is that people should literally work until they die. No one in the United States should be retiring as a keeper. 5 years old.",
         "keywords": [
-            "john fiverr",
-            "dan fiverr",
-            "welcome",
-            "pots",
-            "america"
+            "favorite third party spoilers get ready",
+            "epa administrator michael regan stopped",
+            "first ... trump floating medicare",
+            "favorite cable news network",
+            "one prominent trump supporter"
         ],
-        "summary": "Welcome to Pots of America, I'm John Fiverr. I'm Dan Fiverr."
+        "summary": "if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan . Kamala Harris becomes the first vice president or president to visit an abortion clinic . EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy ."
     },
     {
         "segment_id": 2,
-        "text": "On today's show, if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan, Kamala Harris becomes the first vice president or president to visit an abortion clinic as Republicans start to get nervous about their position on reproductive rights.",
+        "title": "Millionaire Ben Shapiro",
+        "text": "Franch life in retirement itself is stupid idea unless you have some health problem. Everybody that I know who is elderly who has retired is dead within 5 years. If you talk to people who are elderly and they lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick. But I get, you take it from us. Being a podcaster? Backbreaking work. Ben wants to read underwear ads until his heart gets out. , good on him. Other humans may want to spend their golden years, the family, friends, and if you're not a multi-millionaire Ben Shapiro is, you're gonna need some security. I personally wish that Donald Trump and all Republicans just be honest and run on the Ben Shapiro Paul Ryan.",
         "keywords": [
-            "kamala harris becomes",
-            "first vice president",
-            "republicans start",
-            "reproductive rights",
-            "get nervous"
+            "dead within 5 years",
+            "ben shapiro paul ryan",
+            "millionaire ben shapiro",
+            "stupid idea unless",
+            "read underwear ads"
         ],
-        "summary": "if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan . Kamala Harris becomes the first vice president or president to visit an abortion clinic ."
+        "summary": "everybody that I know who is elderly who has retired is dead within 5 years . if you talk to people who are elderly and they lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick ."
     },
     {
         "segment_id": 3,
-        "text": "Your favorite third party spoilers get ready to screw things up again and EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy and environmental justice. But first... Trump floating Medicare and Social Security putts on Wall Street's favorite cable news network.",
-        "keywords": [
-            "favorite third party spoilers get ready",
-            "first ... trump floating medicare",
-            "epa administrator michael regan stopped",
-            "favorite cable news network",
-            "social security putts"
-        ],
-        "summary": "EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy and environmental justice . but first... Trump floating Medicare and Social Security putts on Wall Street's favorite cable news network ."
-    },
-    {
-        "segment_id": 4,
-        "text": "His campaign clearly realized how damaging that was because they got him to walk it back Thursday during a right-part interview. One prominent Trump supporter who apparently didn't get the memo with Ben Shapiro, who's taken the whole thing is that people should literally work until they die. No one in the United States should be retiring as a keeper.",
-        "keywords": [
-            "one prominent trump supporter",
-            "campaign clearly realized",
-            "whole thing",
-            "united states",
-            "part interview"
-        ],
-        "summary": "a prominent Trump supporter apparently didn't get the memo with Ben Shapiro . no one in the united states should be retiring as a keeper ."
-    },
-    {
-        "segment_id": 5,
-        "text": "5 years old.",
-        "keywords": [
-            "5 years old"
-        ],
-        "summary": "5 years old."
-    },
-    {
-        "segment_id": 6,
-        "text": "Franch life in retirement itself is stupid idea unless you have some health problem. Everybody that I know who is elderly who has retired is dead within 5 years. If you talk to people who are elderly and they lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick.",
-        "keywords": [
-            "dead within 5 years",
-            "stupid idea unless",
-            "handbasket real quick",
-            "things go",
-            "stop working"
-        ],
-        "summary": "everybody that I know who is elderly who has retired is dead within 5 years . people who are elderly lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick."
-    },
-    {
-        "segment_id": 7,
-        "text": "But I get, you take it from us.",
-        "keywords": [
-            "us",
-            "take",
-            "get"
-        ],
-        "summary": "But I get, you take it from us."
-    },
-    {
-        "segment_id": 8,
-        "text": "Being a podcaster?",
-        "keywords": [
-            "podcaster"
-        ],
-        "summary": "Being a podcaster?"
-    },
-    {
-        "segment_id": 9,
-        "text": "Backbreaking work.",
-        "keywords": [
-            "backbreaking work"
-        ],
-        "summary": "Backbreaking work."
-    },
-    {
-        "segment_id": 10,
-        "text": "Ben wants to read underwear ads until his heart gets out.",
-        "keywords": [
-            "read underwear ads",
-            "heart gets",
-            "ben wants"
-        ],
-        "summary": "Ben wants to read underwear ads until his heart gets out."
-    },
-    {
-        "segment_id": 11,
-        "text": ", good on him.",
-        "keywords": [
-            "good"
-        ],
-        "summary": ", good on him."
-    },
-    {
-        "segment_id": 12,
-        "text": "Other humans may want to spend their golden years, the family, friends, and if you're not a multi-millionaire Ben Shapiro is, you're gonna need some security. I personally wish that Donald Trump and all Republicans just be honest and run on the Ben Shapiro Paul Ryan.",
-        "keywords": [
-            "ben shapiro paul ryan",
-            "millionaire ben shapiro",
-            "humans may want",
-            "personally wish",
-            "gonna need"
-        ],
-        "summary": "if you're not a multi-millionaire Ben Shapiro is, you need some security . I personally wish that Donald Trump and all Republicans just be honest ."
-    },
-    {
-        "segment_id": 13,
-        "text": "work till you die platform. Yeah, I mean, that is their platform.",
-        "keywords": [
-            "work till",
-            "die platform",
-            "platform",
-            "yeah",
-            "mean"
-        ],
-        "summary": "work till you die platform. Yeah, I mean, that is their platform."
-    },
-    {
-        "segment_id": 14,
-        "text": "100%.",
-        "keywords": [
-            "100 %."
-        ],
-        "summary": "100%."
-    },
-    {
-        "segment_id": 15,
-        "text": "It is Mike Johnson's platform. It is the platform of both White Guys named John who want to replace Mitch McConnell. And it will be Donald Trump's platform if he has elected president. This election does come down to, and we'll talk about how you message it, but it does come down to, if Donald Trump wins, he probably wins with a Republican House, with a Republican Senate. and Social Security cuts and Medicare cuts are very much on the table. And in Joe Biden wins, then he will stop those cuts from happening. Full stop, that's all you need to know, election over. Are you telling me that when a Republican House and Senate send President Donald Trump a budget with Social Security cuts and Medicare, he isn't going to go through that budget with a fine tooth comb, making sure that his campaign promise that he made to people about protecting social security and Medicare is in full fill because he knows he's never going to have to face voters again. Well here's how I know that that's not going to happen because it's probably going to be his budget because the last time he was president he put cuts social security and Medicare in his budget every single year he was president. He made that exact same promise to not get social security and Medicare or even Medicaid is at one point he confused Medicare and Medicaid 2016 then he tried to cut and he vise right off through those.",
+        "title": "Protecting Social Security",
+        "text": "work till you die platform. Yeah, I mean, that is their platform. 100%. It is Mike Johnson's platform. It is the platform of both White Guys named John who want to replace Mitch McConnell. And it will be Donald Trump's platform if he has elected president. This election does come down to, and we'll talk about how you message it, but it does come down to, if Donald Trump wins, he probably wins with a Republican House, with a Republican Senate. and Social Security cuts and Medicare cuts are very much on the table. And in Joe Biden wins, then he will stop those cuts from happening. Full stop, that's all you need to know, election over. Are you telling me that when a Republican House and Senate send President Donald Trump a budget with Social Security cuts and Medicare, he isn't going to go through that budget with a fine tooth comb, making sure that his campaign promise that he made to people about protecting social security and Medicare is in full fill because he knows he's never going to have to face voters again. Well here's how I know that that's not going to happen because it's probably going to be his budget because the last time he was president he put cuts social security and Medicare in his budget every single year he was president. He made that exact same promise to not get social security and Medicare or even Medicaid is at one point he confused Medicare and Medicaid 2016 then he tried to cut and he vise right off through those. programs within six months of being in winters.",
         "keywords": [
             "senate send president donald trump",
             "white guys named john",
-            "budget every single year",
-            "put cuts social security",
-            "protecting social security"
-        ],
-        "summary": "it's the platform of both white Guys named John who want to replace Mitch McConnell . it will be Donald Trump's platform if he has elected president . but it does come down to, if Donald Trump wins, he probably wins with a Republican House . in Joe Biden wins, then he will stop those cuts from happening ."
-    },
-    {
-        "segment_id": 16,
-        "text": "programs within six months of being in winters.",
-        "keywords": [
             "programs within six months",
-            "winters"
+            "budget every single year",
+            "put cuts social security"
         ],
-        "summary": "programs within six months of being in winters."
+        "summary": "it will be Donald Trump's platform if he has elected president . it's the platform of both white Guys named John who want to replace Mitch McConnell . but it does come down to, if Donald Trump wins, he probably wins with a Republican House ."
     },
     {
-        "segment_id": 17,
-        "text": "So no, I don't think so.",
+        "segment_id": 4,
+        "title": "Last Four Years",
+        "text": "So no, I don't think so. Well, how do you think this is going to go? Because obviously, President Biden and the campaign have done a great job with last couple days, really hammering Trump on this, Biden talked about it when he was in his constant mission during his events. Now the Trump campaign locked it back and Trump's going to probably spend the rest of the campaign saying, well, I'll protect Medicare. of security no matter what. You think the best strategy here is for Biden Democrats just keep hammering him by pointing out what you just did that it was in his budget for the last four years? Yeah, it's in his budget that all the people of his party agree with him and want to do it. And it is an extension of the extremism that's taken over this party. So a couple points on this.",
         "keywords": [
-            "think"
-        ],
-        "summary": "So no, I don't think so."
-    },
-    {
-        "segment_id": 18,
-        "text": "Well, how do you think this is going to go?",
-        "keywords": [
-            "well",
-            "think",
-            "going",
-            "go"
-        ],
-        "summary": "Well, how do you think this is going to go?"
-    },
-    {
-        "segment_id": 19,
-        "text": "Because obviously, President Biden and the campaign have done a great job with last couple days, really hammering Trump on this, Biden talked about it when he was in his constant mission during his events. Now the Trump campaign locked it back and Trump's going to probably spend the rest of the campaign saying, well, I'll protect Medicare.",
-        "keywords": [
+            "last four years",
             "last couple days",
             "really hammering trump",
             "trump campaign locked",
-            "protect medicare",
-            "probably spend"
+            "keep hammering"
         ],
-        "summary": "president biden and the campaign have done a great job with last couple days . he talked about it when he was in his constant mission during his events . now the campaign locked it back and Trump's going to spend the rest of the campaign saying, well, I'll protect Medicare."
+        "summary": "president biden talked about it when he was in his constant mission during his events . now the campaign locked it back and Trump's going to spend the rest of the campaign saying, well, I'll protect Medicare. of security no matter what ."
     },
     {
-        "segment_id": 20,
-        "text": "of security no matter what.",
-        "keywords": [
-            "security",
-            "matter"
-        ],
-        "summary": "of security no matter what."
-    },
-    {
-        "segment_id": 21,
-        "text": "You think the best strategy here is for Biden Democrats just keep hammering him by pointing out what you just did that it was in his budget for the last four years? Yeah, it's in his budget that all the people of his party agree with him and want to do it. And it is an extension of the extremism that's taken over this party.",
-        "keywords": [
-            "last four years",
-            "keep hammering",
-            "biden democrats",
-            "best strategy",
-            "party agree"
-        ],
-        "summary": "Biden Democrats want to keep hammering him by pointing out what he did in his budget . it's an extension of the extremism that's taken over this party ."
-    },
-    {
-        "segment_id": 22,
-        "text": "So a couple points on this.",
-        "keywords": [
-            "couple points"
-        ],
-        "summary": "So a couple points on this."
-    },
-    {
-        "segment_id": 23,
-        "text": "One is something that Polster's founded in 2022 was there was always.",
-        "keywords": [
-            "something",
-            "polster",
-            "one",
-            "founded",
-            "always"
-        ],
-        "summary": "One is something that Polster's founded in 2022 was there was always."
-    },
-    {
-        "segment_id": 24,
-        "text": "some hesitancy among voters to believe that a politician would actually cut social security in Medicare.",
-        "keywords": [
-            "politician would actually cut social security",
-            "hesitancy among voters",
-            "medicare",
-            "believe"
-        ],
-        "summary": "some hesitancy among voters to believe that a politician would actually cut social security in Medicare."
-    },
-    {
-        "segment_id": 25,
-        "text": "That hasn't happened for almost a century. And so why would you believe it would happen now?",
-        "keywords": [
-            "would happen",
-            "would",
-            "happened",
-            "century",
-            "believe"
-        ],
-        "summary": "That hasn't happened for almost a century. And so why would you believe it would happen now?"
-    },
-    {
-        "segment_id": 26,
-        "text": "But then after doves, those ads started becoming more effective.",
-        "keywords": [
-            "ads started becoming",
-            "effective",
-            "doves"
-        ],
-        "summary": "But then after doves, those ads started becoming more effective."
-    },
-    {
-        "segment_id": 27,
-        "text": "Because once Republican extremists take something away, that this seems, everything's on the table. You're going to take constitutional rights away from people. And so that you saw people more open-s Horizontal human rights\uc219ischenab circumstantial rights under time fell some concessive And while abortion was the topic in the most as of 2022, not for behind that, we're a cut social security medicare, particularly in Arizona or Mark Kelly and that Super PAC sport hearing ran a ton of ads against Blake Masters on that. The second thing that's really important about how you talk about this is the reason that Donald Trump Republicans want a social security medicare is not just that they think it should work to be dying as he government and they think we have. Joe Biden and Donald Trump have now won enough delegates to clinch their parties nominations, and it was quite a week for the presumptive Republican nominee Trump floated Medicare and Social Security Puts that he's now trying to walk back, promised to pardon the January 6th insurrectionist on the first day of his second term, a group that includes convicted felons who violently assaulted police officers, and Trump also visited his number... and some Darwinian hellscape where only the richest survive. It is because they need to pay for another $2 trillion tax cut that they are planning to pass at the end of 2025. The Trump tax cuts provide for Ben Shapiro. Yes, they use tax cuts every time they're in the past. And then you just keep working and not retire. So it's not just that they want to get social security Medicare, because you can pop They want to cut it to pay for more tax cuts for corporations and the very well. And so Donald Trump is going to lie about it.",
+        "segment_id": 5,
+        "title": "Timothy Stanley",
+        "text": "One is something that Polster's founded in 2022 was there was always. some hesitancy among voters to believe that a politician would actually cut social security in Medicare. That hasn't happened for almost a century. And so why would you believe it would happen now? But then after doves, those ads started becoming more effective. Because once Republican extremists take something away, that this seems, everything's on the table. You're going to take constitutional rights away from people. And so that you saw people more open-s Horizontal human rights\uc219ischenab circumstantial rights under time fell some concessive And while abortion was the topic in the most as of 2022, not for behind that, we're a cut social security medicare, particularly in Arizona or Mark Kelly and that Super PAC sport hearing ran a ton of ads against Blake Masters on that. The second thing that's really important about how you talk about this is the reason that Donald Trump Republicans want a social security medicare is not just that they think it should work to be dying as he government and they think we have. Joe Biden and Donald Trump have now won enough delegates to clinch their parties nominations, and it was quite a week for the presumptive Republican nominee Trump floated Medicare and Social Security Puts that he's now trying to walk back, promised to pardon the January 6th insurrectionist on the first day of his second term, a group that includes convicted felons who violently assaulted police officers, and Trump also visited his number... and some Darwinian hellscape where only the richest survive. It is because they need to pay for another $2 trillion tax cut that they are planning to pass at the end of 2025. The Trump tax cuts provide for Ben Shapiro. Yes, they use tax cuts every time they're in the past. And then you just keep working and not retire. So it's not just that they want to get social security Medicare, because you can pop They want to cut it to pay for more tax cuts for corporations and the very well. And so Donald Trump is going to lie about it.",
         "keywords": [
             "presumptive republican nominee trump floated medicare",
+            "politician would actually cut social security",
             "super pac sport hearing ran",
-            "republican extremists take something away",
             "horizontal human rights\uc219ischenab circumstantial rights",
-            "use tax cuts every time"
+            "republican extremists take something away"
         ],
-        "summary": "julian zelizer: the reason that Donald Trump Republicans want a social security medicare is not just that they think it should work to be dying as he government and they think we have . he says they need to pay for another $2 trillion tax cut that they are planning to pass at the end of 2025."
+        "summary": "timothy stanley: why would you believe a politician would cut social security in Medicare? he says it's not just that they think it should work to be dying as he government and they think we have . he asks: if they want a social security medicare, they need to pay for another $2 trillion tax cut that they are planning to pass ."
     },
     {
-        "segment_id": 28,
-        "text": "He has this, at least in the immediate least, his impromotor of.",
-        "keywords": [
-            "immediate least",
-            "least",
-            "impromotor"
-        ],
-        "summary": "He has this, at least in the immediate least, his impromotor of."
-    },
-    {
-        "segment_id": 29,
-        "text": "He's a populist, a blue collar billionaire and all that, not only works in this space, but you talked about this blueprint poll last week that looked at Donald Trump's vulnerabilities among working class voters, almost 50% of them cite Donald Trump. Trump cutting-source security Medicare as a top concern for why they don't want to be present.",
+        "segment_id": 6,
+        "title": "Things Would Happen",
+        "text": "He has this, at least in the immediate least, his impromotor of. He's a populist, a blue collar billionaire and all that, not only works in this space, but you talked about this blueprint poll last week that looked at Donald Trump's vulnerabilities among working class voters, almost 50% of them cite Donald Trump. Trump cutting-source security Medicare as a top concern for why they don't want to be present. So people are open to this and you just have to make the case and make sure you're hearing. And you're going to face a lot of headwinds since Trump's going to lie about it and the press is skeptical that these things would happen. But I love what the Biden campaign is doing. They should keep doing more of it in the next eight months. So I think it's very, this was a very, very important moment in the campaign.",
         "keywords": [
             "vulnerabilities among working class voters",
             "blueprint poll last week",
-            "source security medicare",
-            "blue collar billionaire",
-            "cite donald trump"
-        ],
-        "summary": "a blueprint poll last week looked at Donald Trump's vulnerabilities among working class voters . almost 50% of voters cite him cutting-source Medicare as a top concern ."
-    },
-    {
-        "segment_id": 30,
-        "text": "So people are open to this and you just have to make the case and make sure you're hearing. And you're going to face a lot of headwinds since Trump's going to lie about it and the press is skeptical that these things would happen. But I love what the Biden campaign is doing. They should keep doing more of it in the next eight months.",
-        "keywords": [
             "things would happen",
-            "next eight months",
-            "headwinds since trump",
-            "biden campaign",
-            "make sure"
+            "source security medicare",
+            "next eight months"
         ],
-        "summary": "people are open to this and you just have to make the case . you're going to face a lot of headwinds since the press is skeptical that these things would happen ."
+        "summary": "a blueprint poll last week looked at Donald Trump's vulnerabilities among working class voters . almost 50% of them cite him . the biden campaign should keep doing more of it in the next eight months ."
     },
     {
-        "segment_id": 31,
-        "text": "So I think it's very, this was a very, very important moment in the campaign.",
-        "keywords": [
-            "important moment",
-            "think",
-            "campaign"
-        ],
-        "summary": "So I think it's very, this was a very, very important moment in the campaign."
-    },
-    {
-        "segment_id": 32,
-        "text": "And not only is the press skeptical, it's just very hard to get issues this to break through. because all political coverage is personality and culture wars and everything else and It's not 2012 anymore where all the fights are about the size and role of government And so it's really hard to get coverage on Medicare and Social Security and so as Anyone who's listening as you're volunteering is you're talking to people in your life I realize it doesn't sound the sexiest topic especially if you're young, but someday we're going to need security and Medicare too and it is a very persuasive point to make people that Republicans are going to cut security and Medicare and it's and the Joe Biden Democrats are going to be very, very easy. It's really fascinating because I write message box newsletters on a lot of topics and I wrote on the Social Security one and you can almost feel just the difference in engagement in an open rate which means something else is security and something on the democracy or abortion. And part of the reason, I think this is a bias in the press that's almost economic, which is when you look at these polls, the things that are most concerned to the more politically engaged college educated upper income scale voters are, specifically, Democrats are democracy, abortion, those are things which are incredibly important issues, but those are the people who are subscribing to their time. People who are watching MSNBC and CNN, people may be listening to this podcast and it is on the issues with people who are less politically engaged, this matters a lot, so you need a lot of repetition to get it in front of them.",
+        "segment_id": 7,
+        "title": "Upper Income Thing",
+        "text": "And not only is the press skeptical, it's just very hard to get issues this to break through. because all political coverage is personality and culture wars and everything else and It's not 2012 anymore where all the fights are about the size and role of government And so it's really hard to get coverage on Medicare and Social Security and so as Anyone who's listening as you're volunteering is you're talking to people in your life I realize it doesn't sound the sexiest topic especially if you're young, but someday we're going to need security and Medicare too and it is a very persuasive point to make people that Republicans are going to cut security and Medicare and it's and the Joe Biden Democrats are going to be very, very easy. It's really fascinating because I write message box newsletters on a lot of topics and I wrote on the Social Security one and you can almost feel just the difference in engagement in an open rate which means something else is security and something on the democracy or abortion. And part of the reason, I think this is a bias in the press that's almost economic, which is when you look at these polls, the things that are most concerned to the more politically engaged college educated upper income scale voters are, specifically, Democrats are democracy, abortion, those are things which are incredibly important issues, but those are the people who are subscribing to their time. People who are watching MSNBC and CNN, people may be listening to this podcast and it is on the issues with people who are less politically engaged, this matters a lot, so you need a lot of repetition to get it in front of them. And the upper income thing is a real issue there too, because it's people who are not lying awake at night thinking, am I going to have to wait and retire at 75 or 80 because I don't know. I'm gonna be able to get some skin on your head. I mean, that is a real, real issue. Or we physically able to keep working. Yes, right? Yes, we can podcast until we die and we probably will, but that's different than if you do a job that requires physical labor, whereas you get older that comes out of you have, you are older, but you also are taking on any injuries or damages and then you're up to that.",
         "keywords": [
             "politically engaged college educated upper income scale voters",
             "write message box newsletters",
-            "less politically engaged",
-            "sexiest topic especially",
-            "joe biden democrats"
-        ],
-        "summary": "it's really hard to get coverage on Medicare and Social Security . but it doesn't sound the sexiest topic especially if you're young . someday we're going to need security and Medicare too . i think this is a bias in the press that's almost economic ."
-    },
-    {
-        "segment_id": 33,
-        "text": "And the upper income thing is a real issue there too, because it's people who are not lying awake at night thinking, am I going to have to wait and retire at 75 or 80 because I don't know.",
-        "keywords": [
             "upper income thing",
-            "real issue",
-            "night thinking",
-            "lying awake",
-            "wait"
+            "less politically engaged",
+            "sexiest topic especially"
         ],
-        "summary": "am I going to have to wait and retire at 75 or 80 because I don't know?"
+        "summary": "it's really hard to get coverage on Medicare and Social Security . it is a bias in the press that's almost economic, which is when you look at these polls, the things that are most concerned to the more politically engaged upper income scale voters are . people who are not lying awake at night thinking, am I going to have to wait and retire at 75 or 80 because I don't know?"
     },
     {
-        "segment_id": 34,
-        "text": "I'm gonna be able to get some skin on your head.",
-        "keywords": [
-            "skin",
-            "head",
-            "gonna",
-            "get",
-            "able"
-        ],
-        "summary": "I'm gonna be able to get some skin on your head."
-    },
-    {
-        "segment_id": 35,
-        "text": "I mean, that is a real, real issue. Or we physically able to keep working.",
-        "keywords": [
-            "physically able",
-            "keep working",
-            "real issue",
-            "real",
-            "mean"
-        ],
-        "summary": "I mean, that is a real, real issue. Or we physically able to keep working."
-    },
-    {
-        "segment_id": 36,
-        "text": "Yes, right?",
-        "keywords": [
-            "yes",
-            "right"
-        ],
-        "summary": "Yes, right?"
-    },
-    {
-        "segment_id": 37,
-        "text": "Yes, we can podcast until we die and we probably will, but that's different than if you do a job that requires physical labor, whereas you get older that comes out of you have, you are older, but you also are taking on any injuries or damages and then you're up to that.",
-        "keywords": [
-            "requires physical labor",
-            "get older",
-            "older",
-            "yes",
-            "whereas"
-        ],
-        "summary": "we can podcast until we die and we probably will, but that's different than if you do a job that requires physical labor, whereas you get older that comes out of you have, you are older, but you also are taking on any injuries or damages and then you're up to that."
-    },
-    {
-        "segment_id": 38,
-        "text": "So that is what's so... obnoxiously elitist about what Benchikero said, which is just so ironic coming from how the right super trademarks is.",
-        "keywords": [
-            "right super trademarks",
-            "... obnoxiously elitist",
-            "ironic coming",
-            "benchikero said"
-        ],
-        "summary": "obnoxiously elitist about what Benchikero said, which is just so ironic coming from how the right super trademarks is."
-    },
-    {
-        "segment_id": 39,
-        "text": "Now here's an issue that I bet would get some engagement.",
-        "keywords": [
-            "bet would get",
-            "issue",
-            "engagement"
-        ],
-        "summary": "Now here's an issue that I bet would get some engagement."
-    },
-    {
-        "segment_id": 40,
-        "text": "We know that pardoning insurrectionists ain't all that popular.",
-        "keywords": [
-            "pardoning insurrectionists",
-            "popular",
-            "know"
-        ],
-        "summary": "We know that pardoning insurrectionists ain't all that popular."
-    },
-    {
-        "segment_id": 41,
-        "text": "So I see BS poll around the anniversary of January 6th this year.",
+        "segment_id": 8,
+        "title": "Right Super Trademarks",
+        "text": "So that is what's so... obnoxiously elitist about what Benchikero said, which is just so ironic coming from how the right super trademarks is. Now here's an issue that I bet would get some engagement. We know that pardoning insurrectionists ain't all that popular. So I see BS poll around the anniversary of January 6th this year. 70% of voters think that people convicted of violently assaulting. police officers shouldn't get to skip their prison sentence. They didn't ask the question that, but if you asked it that, you'd get even higher than 70%. Just so people remember, at least 140 police officers were wounded. Riders had guns, knives, tasers, baseball bats, flag poles.",
         "keywords": [
             "see bs poll around",
-            "january 6th",
-            "year",
-            "anniversary"
-        ],
-        "summary": "So I see BS poll around the anniversary of January 6th this year."
-    },
-    {
-        "segment_id": 42,
-        "text": "70% of voters think that people convicted of violently assaulting. police officers shouldn't get to skip their prison sentence.",
-        "keywords": [
-            "voters think",
-            "violently assaulting",
-            "prison sentence",
-            "police officers",
-            "people convicted"
-        ],
-        "summary": "70% of voters think that people convicted of violently assaulting. police officers shouldn't get to skip their prison sentence."
-    },
-    {
-        "segment_id": 43,
-        "text": "They didn't ask the question that, but if you asked it that, you'd get even higher than 70%.",
-        "keywords": [
-            "get even higher",
-            "70 %.",
-            "question",
-            "asked",
-            "ask"
-        ],
-        "summary": "They didn't ask the question that, but if you asked it that, you'd get even higher than 70%."
-    },
-    {
-        "segment_id": 44,
-        "text": "Just so people remember, at least 140 police officers were wounded. Riders had guns, knives, tasers, baseball bats, flag poles.",
-        "keywords": [
             "least 140 police officers",
-            "people remember",
-            "flag poles",
-            "baseball bats",
-            "wounded"
+            "right super trademarks",
+            "... obnoxiously elitist",
+            "get even higher"
         ],
-        "summary": "at least 140 police officers were wounded . riders had guns, knives, tasers, baseball bats, flag poles ."
+        "summary": "70% of voters think that people convicted of violently assaulting . police officers shouldn't get to skip their prison sentence . at least 140 police officers were wounded ."
     },
     {
-        "segment_id": 45,
-        "text": "Most of the prosecutions focused on people who committed violent assault around January Number one re-election battleground, federal court, to attend a hearing on whether the judge he appointed will dismiss his felony charges in the classified documents case. Preparation for the hearing, Trump employed the novel legal strategy of essentially admitting guilt during a Newsmax interview where he said he took the documents, but very legally took them.",
+        "segment_id": 9,
+        "title": "Novel Legal Strategy",
+        "text": "Most of the prosecutions focused on people who committed violent assault around January Number one re-election battleground, federal court, to attend a hearing on whether the judge he appointed will dismiss his felony charges in the classified documents case. Preparation for the hearing, Trump employed the novel legal strategy of essentially admitting guilt during a Newsmax interview where he said he took the documents, but very legally took them. Instead, a whole bunch of other crazy shit, let's listen. I took a... not just people, not the peaceful protesters that Republicans dogma, not people who just wandered into the capital even, but the people who were violent on January 6th and posth people harm. And now Donald Trump says on the first day of his presidency, he wants to let these people out of prison and pardon them. Imagine ignoring, , why would they worry about committing political violence when the guy who just pardoned them for committing political violence is in the White House? Yeah, the guy who incited them then pardon them. So why wouldn't they do who will incite them again?",
         "keywords": [
             "committed violent assault around january number one",
             "novel legal strategy",
             "essentially admitting guilt",
-            "classified documents case",
-            "trump employed"
-        ],
-        "summary": "most of the prosecutions focused on people who committed violent assault around January number one re-election battleground, federal court . he used the novel legal strategy of essentially admitting guilt during a newsmax interview where he said he took the documents, but very legally took them ."
-    },
-    {
-        "segment_id": 46,
-        "text": "Instead, a whole bunch of other crazy shit, let's listen.",
-        "keywords": [
-            "whole bunch",
-            "crazy shit",
-            "listen",
-            "let",
-            "instead"
-        ],
-        "summary": "Instead, a whole bunch of other crazy shit, let's listen."
-    },
-    {
-        "segment_id": 47,
-        "text": "I took a... not just people, not the peaceful protesters that Republicans dogma, not people who just wandered into the capital even, but the people who were violent on January 6th and posth people harm. And now Donald Trump says on the first day of his presidency, he wants to let these people out of prison and pardon them. Imagine ignoring, , why would they worry about committing political violence when the guy who just pardoned them for committing political violence is in the White House? Yeah, the guy who incited them then pardon them. So why wouldn't they do who will incite them again?",
-        "keywords": [
-            "donald trump says",
             "committing political violence",
-            "committing political violence",
-            "posth people harm",
-            "white house"
+            "committing political violence"
         ],
-        "summary": "the guy who just pardoned them for committing political violence is in the white house . he says he wants to let these people out of prison and pardon them ."
+        "summary": "a judge he appointed will dismiss his felony charges in the classified documents case . he said he took the documents, but very legally took them . now he says he wants to let these people out of prison and pardon them for committing political violence ."
     },
     {
-        "segment_id": 48,
-        "text": "obviously Yeah, I mean, I and I get there are limits to democracy are getting really have to make it tangible for people I think that Trump wanting to pardon Insurrection is is one of those ways to make it real to people and I think that I actually think it's a real failure But I don't know yeah, no 100% agree. I think January 6 is a very very silly because a lot of the democracy arguments are very, very valid and important, but they're about the esoteric notion of a functioning political system in norms. And this is about a group of people who violently try to overthrow the government, getting pardon from the person who asked them to violently overthrow government. It is an example of, it reminds people what they , least about Trump. It reminds you of the tremendous dangerous.",
+        "segment_id": 10,
+        "title": "Esoteric Notion Of",
+        "text": "obviously Yeah, I mean, I and I get there are limits to democracy are getting really have to make it tangible for people I think that Trump wanting to pardon Insurrection is is one of those ways to make it real to people and I think that I actually think it's a real failure But I don't know yeah, no 100% agree. I think January 6 is a very very silly because a lot of the democracy arguments are very, very valid and important, but they're about the esoteric notion of a functioning political system in norms. And this is about a group of people who violently try to overthrow the government, getting pardon from the person who asked them to violently overthrow government. It is an example of, it reminds people what they , least about Trump. It reminds you of the tremendous dangerous. extremism of a mkos and so yeah, absolutely should be talked about Mark Esperr who was Trump's defense secretary towards the end with any firing He's on MSNBC this week and he said that Donald Trump suggested that the military shoot Americans in the streets To him this is a guy who was defense secretary Four Donald Trump is now saying, hey, I quit. I mean, hey, I wasn't defense secretary anymore, and I just want to tell everyone, the president was telling us that the military should shoot Americans in the streets who were protested. What are we doing? You want the next defense secretary? More likely to go on what Trump wants.",
         "keywords": [
-            "functioning political system",
-            "think january 6",
-            "violently overthrow government",
-            "violently try",
-            "tremendous dangerous"
+            "defense secretary four donald trump",
+            "next defense secretary",
+            "defense secretary towards",
+            "defense secretary anymore",
+            "donald trump suggested"
         ],
         "summary": "a lot of the democracy arguments are very, very valid and important . but they're about the esoteric notion of a functioning political system in norms . it reminds people what they , least about Trump ."
     },
     {
-        "segment_id": 49,
-        "text": "extremism of a mkos and so yeah, absolutely should be talked about Mark Esperr who was Trump's defense secretary towards the end with any firing He's on MSNBC this week and he said that Donald Trump suggested that the military shoot Americans in the streets To him this is a guy who was defense secretary Four Donald Trump is now saying, hey, I quit. I mean, hey, I wasn't defense secretary anymore, and I just want to tell everyone, the president was telling us that the military should shoot Americans in the streets who were protested.",
-        "keywords": [
-            "defense secretary four donald trump",
-            "defense secretary towards",
-            "defense secretary anymore",
-            "donald trump suggested",
-            "military shoot americans"
-        ],
-        "summary": "he said that the military should shoot americans in the streets who were protested . he's on MSNBC this week saying, hey, I quit ."
-    },
-    {
-        "segment_id": 50,
-        "text": "What are we doing?",
-        "keywords": [],
-        "summary": "What are we doing?"
-    },
-    {
-        "segment_id": 51,
-        "text": "You want the next defense secretary? More likely to go on what Trump wants.",
-        "keywords": [
-            "next defense secretary",
-            "trump wants",
-            "want",
-            "likely",
-            "go"
-        ],
-        "summary": "You want the next defense secretary? More likely to go on what Trump wants."
-    },
-    {
-        "segment_id": 52,
-        "text": "Well, I was gonna say, yeah, I'm not gonna make that mistake twice.",
-        "keywords": [
-            "mistake twice",
-            "gonna say",
-            "gonna make",
-            "yeah",
-            "well"
-        ],
-        "summary": "Well, I was gonna say, yeah, I'm not gonna make that mistake twice."
-    },
-    {
-        "segment_id": 53,
-        "text": "All right, so Trump and Republicans are also trying to figure out how to sneak there.",
-        "keywords": [
-            "also trying",
-            "trump",
-            "sneak",
-            "right",
-            "republicans"
-        ],
-        "summary": "All right, so Trump and Republicans are also trying to figure out how to sneak there."
-    },
-    {
-        "segment_id": 54,
-        "text": "National abortion ban passed voters.",
-        "keywords": [
-            "national abortion ban passed voters"
-        ],
-        "summary": "National abortion ban passed voters."
-    },
-    {
-        "segment_id": 55,
-        "text": "Kelly and Conway was out there this week, given her party advice on how to talk about the issue. At a political event, she said Republican should ditch their line about Democrats supporting abortion, quote, up until the moment of birth, because Go figure, not a lot of people actually believe that happens because it doesn't happen. The National Republican Congressional Committee also put out a memo this week urging Republican candidates, quote, to express empathy for women in order to fix their brand problem. But the last Kellyanne also admitted that Trump is, in fact, considering a national bit.",
+        "segment_id": 11,
+        "title": "National Minimum Standard",
+        "text": "Well, I was gonna say, yeah, I'm not gonna make that mistake twice. All right, so Trump and Republicans are also trying to figure out how to sneak there. National abortion ban passed voters. Kelly and Conway was out there this week, given her party advice on how to talk about the issue. At a political event, she said Republican should ditch their line about Democrats supporting abortion, quote, up until the moment of birth, because Go figure, not a lot of people actually believe that happens because it doesn't happen. The National Republican Congressional Committee also put out a memo this week urging Republican candidates, quote, to express empathy for women in order to fix their brand problem. But the last Kellyanne also admitted that Trump is, in fact, considering a national bit. He think Trump should come out for a 15-week ban? Well, it's a national minimum standard, and it's not a ban.",
         "keywords": [
             "national republican congressional committee also put",
+            "national abortion ban passed voters",
             "last kellyanne also admitted",
             "week urging republican candidates",
-            "people actually believe",
-            "democrats supporting abortion"
+            "national minimum standard"
         ],
-        "summary": "the national Republican Congressional Committee put out a memo this week urging Republican candidates to express empathy for women . the last Kellyanne admitted that Trump is considering a national bit ."
+        "summary": "the national abortion ban passed voters this week . Kelly and Conway was out there this week, given her party advice . she said republicans should ditch their line about abortion ."
     },
     {
-        "segment_id": 56,
-        "text": "He think Trump should come out for a 15-week ban? Well, it's a national minimum standard, and it's not a ban.",
-        "keywords": [
-            "national minimum standard",
-            "think trump",
-            "week ban",
-            "ban",
-            "well"
-        ],
-        "summary": "he thinks he should come out for a 15-week ban . it's a national minimum standard ."
-    },
-    {
-        "segment_id": 57,
-        "text": "And he has said, I think he's told Sean Hannity a couple weeks ago in the North of Bordor, he was looking at that.",
+        "segment_id": 12,
+        "title": "Told Sean Hannity",
+        "text": "And he has said, I think he's told Sean Hannity a couple weeks ago in the North of Bordor, he was looking at that. 16 weeks or four months. What did you call a national minimum standard? A national minimum standard. Oh, okay. Yeah. What it means is if you were a state that has banned abortion at six weeks, or banned abortion completely, that ban stays, but blue states or states that haven't put any resurgence on abortion yet, they would all have to be 15 weeks. So yeah, it's a national ban.",
         "keywords": [
             "told sean hannity",
+            "national minimum standard",
+            "national minimum standard",
             "couple weeks ago",
-            "think",
-            "said",
-            "north"
+            "banned abortion completely"
         ],
-        "summary": "he's told Sean Hannity a couple weeks ago in the north of Bordor that he was looking at that."
+        "summary": "if you were a state that banned abortion at six weeks, that ban stays . blue states or states that haven't put any resurgence on abortion yet, they would all have to be 15 weeks ."
     },
     {
-        "segment_id": 58,
-        "text": "16 weeks or four months.",
-        "keywords": [
-            "four months",
-            "16 weeks"
-        ],
-        "summary": "16 weeks or four months."
-    },
-    {
-        "segment_id": 59,
-        "text": "What did you call a national minimum standard? A national minimum standard.",
-        "keywords": [
-            "national minimum standard",
-            "national minimum standard",
-            "call"
-        ],
-        "summary": "What did you call a national minimum standard? A national minimum standard."
-    },
-    {
-        "segment_id": 60,
-        "text": "Oh, okay. Yeah.",
-        "keywords": [
-            "yeah",
-            "okay",
-            "oh"
-        ],
-        "summary": "Oh, okay. Yeah."
-    },
-    {
-        "segment_id": 61,
-        "text": "What it means is if you were a state that has banned abortion at six weeks, or banned abortion completely, that ban stays, but blue states or states that haven't put any resurgence on abortion yet, they would all have to be 15 weeks. So yeah, it's a national ban.",
-        "keywords": [
-            "banned abortion completely",
-            "banned abortion",
-            "abortion yet",
-            "six weeks",
-            "national ban"
-        ],
-        "summary": "blue states or states that haven't put any resurgence on abortion yet have to be 15 weeks . if you were a state that has banned abortion at six weeks, that ban stays ."
-    },
-    {
-        "segment_id": 62,
-        "text": "15 weeks and so... some places six weeks and a half.",
+        "segment_id": 13,
+        "title": "Problem Is Not Their Language",
+        "text": "15 weeks and so... some places six weeks and a half. Yeah. Do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem? I'm doubtful. What do you think? No, absolutely not. The problem is not their language. The problem is the problem. It's their position. They have it.",
         "keywords": [
             "places six weeks",
             "15 weeks",
-            "half",
-            "..."
-        ],
-        "summary": "15 weeks and so... some places six weeks and a half."
-    },
-    {
-        "segment_id": 63,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 64,
-        "text": "Do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem?",
-        "keywords": [
-            "political problem",
             "actually helps",
-            "way",
-            "think",
-            "speak"
+            "political problem",
+            "problem"
         ],
-        "summary": "do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem?"
+        "summary": "do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem? I'm doubtful . the problem is not their language. It's their position."
     },
     {
-        "segment_id": 65,
-        "text": "I'm doubtful. What do you think? No, absolutely not.",
-        "keywords": [
-            "think",
-            "doubtful",
-            "absolutely"
-        ],
-        "summary": "I'm doubtful. What do you think? No, absolutely not."
-    },
-    {
-        "segment_id": 66,
-        "text": "The problem is not their language. The problem is the problem. It's their position. They have it.",
-        "keywords": [
-            "problem",
-            "problem",
-            "problem",
-            "position",
-            "language"
-        ],
-        "summary": "The problem is not their language. The problem is the problem. It's their position. They have it."
-    },
-    {
-        "segment_id": 67,
-        "text": "A Republican appointed Supreme Court took a constitutional right away for more than half the country. And then a bunch of Republican legislators then pass these onerous bills in many cases with no exceptions for rate, incest or the health or life of the mother. And so that's the problem.",
-        "keywords": [
-            "republican appointed supreme court took",
-            "constitutional right away",
-            "republican legislators",
-            "onerous bills",
-            "many cases"
-        ],
-        "summary": "a republican appointed Supreme Court took a constitutional right away for more than half the country . a bunch of Republican legislators then pass these onerous bills in many cases ."
-    },
-    {
-        "segment_id": 68,
-        "text": "It's not 15 weeks, it's not showing more empathy, it's not any of that.",
-        "keywords": [
-            "15 weeks",
-            "showing",
-            "empathy"
-        ],
-        "summary": "It's not 15 weeks, it's not showing more empathy, it's not any of that."
-    },
-    {
-        "segment_id": 69,
-        "text": "You have adopted an incredibly unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country.",
+        "segment_id": 14,
+        "title": "Incredibly Unpopular Position",
+        "text": "A Republican appointed Supreme Court took a constitutional right away for more than half the country. And then a bunch of Republican legislators then pass these onerous bills in many cases with no exceptions for rate, incest or the health or life of the mother. And so that's the problem. It's not 15 weeks, it's not showing more empathy, it's not any of that. You have adopted an incredibly unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country. very legally and I wasn't hiding. I said, I don't care, Andrew Jackson or anybody else. Nobody has true. When you think of the fake things, nobody's been treated Trump in terms of badly.",
         "keywords": [
             "massive electoral coalition shifting backlash",
+            "republican appointed supreme court took",
             "incredibly unpopular position",
-            "time",
-            "country",
-            "caused"
+            "constitutional right away",
+            "republican legislators"
         ],
-        "summary": "you have adopted an unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country ."
+        "summary": "a republican appointed Supreme Court took a constitutional right away for more than half the country . a bunch of legislators then pass these onerous bills in many cases with no exceptions for rate, incest or the health or life of the mother . you have adopted an incredibly unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country. very legally and I wasn't hiding ."
     },
     {
-        "segment_id": 70,
-        "text": "very legally and I wasn't hiding.",
-        "keywords": [
-            "legally",
-            "hiding"
-        ],
-        "summary": "very legally and I wasn't hiding."
-    },
-    {
-        "segment_id": 71,
-        "text": "I said, I don't care, Andrew Jackson or anybody else. Nobody has true. When you think of the fake things, nobody's been treated Trump in terms of badly.",
-        "keywords": [
-            "treated trump",
-            "fake things",
-            "anybody else",
-            "andrew jackson",
-            "true"
-        ],
-        "summary": "nobody has true. nobody's been treated badly . if you think of the fake things, you're wrong ."
-    },
-    {
-        "segment_id": 72,
-        "text": "But by the way, they released Hillary Clinton. She hammered her phones. She used all sorts of acid testing and everything else they call it bleach bed, but it's essentially...",
+        "segment_id": 15,
+        "title": "Republican Tried This",
+        "text": "But by the way, they released Hillary Clinton. She hammered her phones. She used all sorts of acid testing and everything else they call it bleach bed, but it's essentially... So this is where political consultants are truly full shit, right? There is no language, right? You can either be on the right side of the issue, and when elections will be on the wrong side of the issue, and keep list, and that is full staff, that's the whole thing. Yeah, I mean, a Republican tried this in a big campaign. It was Glen Youngkin in the legislative elections in Virginia, and he tried to campaign it for 15-week ban, and a bunch of anti-abortion groups called it a... a road map for how to tackle abortion and he lost. They lost. Republicans lost that campaign. And the reason they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women and their doctors what decisions they should make about their health. And what they didn't want is the politicians to get in the way of that. They didn't want the government to step in and say, we get to decide and we get to litigate what you do with your body.",
         "keywords": [
             "released hillary clinton",
-            "everything else",
-            "essentially ...",
-            "bleach bed",
-            "acid testing"
-        ],
-        "summary": "she used all sorts of acid testing and everything else they call it bleach bed . but it's essentially... bleach bed."
-    },
-    {
-        "segment_id": 73,
-        "text": "So this is where political consultants are truly full shit, right?",
-        "keywords": [
             "truly full shit",
-            "political consultants",
-            "right"
-        ],
-        "summary": "So this is where political consultants are truly full shit, right?"
-    },
-    {
-        "segment_id": 74,
-        "text": "There is no language, right?",
-        "keywords": [
-            "right",
-            "language"
-        ],
-        "summary": "There is no language, right?"
-    },
-    {
-        "segment_id": 75,
-        "text": "You can either be on the right side of the issue, and when elections will be on the wrong side of the issue, and keep list, and that is full staff, that's the whole thing.",
-        "keywords": [
-            "wrong side",
-            "whole thing",
-            "right side",
-            "keep list",
-            "full staff"
-        ],
-        "summary": "you can either be on the right side of the issue, or keep list, and that is full staff, that's the whole thing."
-    },
-    {
-        "segment_id": 76,
-        "text": "Yeah, I mean, a Republican tried this in a big campaign. It was Glen Youngkin in the legislative elections in Virginia, and he tried to campaign it for 15-week ban, and a bunch of anti-abortion groups called it a... a road map for how to tackle abortion and he lost. They lost. Republicans lost that campaign. And the reason they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women and their doctors what decisions they should make about their health. And what they didn't want is the politicians to get in the way of that. They didn't want the government to step in and say, we get to decide and we get to litigate what you do with your body.",
-        "keywords": [
             "abortion groups called",
             "tackle abortion",
-            "week ban",
-            "tell women",
-            "road map"
+            "full staff"
         ],
-        "summary": "a republican tried this in a big campaign, but he lost . they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women ."
+        "summary": "a republican tried this in a big campaign, and he lost . they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women what decisions they should make about their health ."
     },
     {
-        "segment_id": 77,
-        "text": "And the idea that 15 weeks is gonna save them once. There might have been an argument for that before docs politically, but I think you're right, as soon as docs happened and we heard these stories, these horrific stories all around the country, people realized 15 weeks, 20 weeks, six weeks, whatever.",
+        "segment_id": 16,
+        "title": "Conway Thinks Republicans",
+        "text": "And the idea that 15 weeks is gonna save them once. There might have been an argument for that before docs politically, but I think you're right, as soon as docs happened and we heard these stories, these horrific stories all around the country, people realized 15 weeks, 20 weeks, six weeks, whatever. just let me make the decision, . Conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views. I believe she phrased it, show me your exceptions and I'll show you mine. Meaning Republicans are willing because she wants Trump and Trump's been saying this to say, I'm four exceptions, rape, incest, wife of the mother and so now she wants Republicans. to turn around to Democrats and say, okay, what are your exceptions? How do you think Democrats are going to live?",
         "keywords": [
             "people realized 15 weeks",
+            "conway thinks republicans",
             "15 weeks",
             "six weeks",
-            "20 weeks",
-            "gonna save"
+            "20 weeks"
         ],
-        "summary": "the idea that 15 weeks is gonna save them once . people realized 15 weeks, 20 weeks, six weeks, whatever ."
+        "summary": "conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views . she says she's willing to say, okay, what are your exceptions? how do you think Democrats are going to live?"
     },
     {
-        "segment_id": 78,
-        "text": "just let me make the decision, .",
+        "segment_id": 17,
+        "title": "Bill, The Senate, The Women'S",
+        "text": "I'm even confused by her question. , what is she talking about? I don't even want Democrats to be , oh, okay, you don't want 15 weeks. Do you want 24 weeks? Do you want 30 weeks? What are you 22 weeks? How many weeks would you want? What if we just pass the bill, the Senate, the Women's Health Protection Act, and the Senate Democrats have played? to and President Biden have pledged to pass inside into law, they get up Democrats to get rid of the filibuster.",
         "keywords": [
-            "make",
-            "let",
-            "decision"
-        ],
-        "summary": "just let me make the decision, ."
-    },
-    {
-        "segment_id": 79,
-        "text": "Conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views.",
-        "keywords": [
-            "conway thinks republicans",
-            "challenge democrats",
-            "abortion views",
-            "specifics",
-            "lay"
-        ],
-        "summary": "Conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views."
-    },
-    {
-        "segment_id": 80,
-        "text": "I believe she phrased it, show me your exceptions and I'll show you mine. Meaning Republicans are willing because she wants Trump and Trump's been saying this to say, I'm four exceptions, rape, incest, wife of the mother and so now she wants Republicans. to turn around to Democrats and say, okay, what are your exceptions? How do you think Democrats are going to live?",
-        "keywords": [
-            "wants republicans",
-            "turn around",
-            "meaning republicans",
-            "wants trump",
-            "think democrats"
-        ],
-        "summary": "rape, incest, wife of the mother and so now she wants Republicans . to turn around to Democrats and say, okay, what are your exceptions?"
-    },
-    {
-        "segment_id": 81,
-        "text": "I'm even confused by her question. , what is she talking about?",
-        "keywords": [
-            "even confused",
-            "talking",
-            "question"
-        ],
-        "summary": "I'm even confused by her question. , what is she talking about?"
-    },
-    {
-        "segment_id": 82,
-        "text": "I don't even want Democrats to be , oh, okay, you don't want 15 weeks. Do you want 24 weeks? Do you want 30 weeks? What are you 22 weeks? How many weeks would you want?",
-        "keywords": [
+            "health protection act",
             "many weeks would",
-            "even want democrats",
             "want 30 weeks",
             "want 24 weeks",
             "want 15 weeks"
         ],
-        "summary": "oh, okay, you don't want 15 weeks? do you want 24 weeks? What are you 22 weeks?"
+        "summary": "the bill, the Senate, the women's health protection act, and the Senate Democrats have played . they get up Democrats to get rid of the filibuster ."
     },
     {
-        "segment_id": 83,
-        "text": "What if we just pass the bill, the Senate, the Women's Health Protection Act, and the Senate Democrats have played? to and President Biden have pledged to pass inside into law, they get up Democrats to get rid of the filibuster.",
-        "keywords": [
-            "health protection act",
-            "president biden",
-            "pass inside",
-            "get rid",
-            "senate democrats"
-        ],
-        "summary": "if we pass the bill, the Senate, the women's health protection act, and the Senate Democrats have played? to and president Biden have pledged to pass inside into law ."
-    },
-    {
-        "segment_id": 84,
-        "text": "But we just did that. But if we just return to the way of life before dops.",
-        "keywords": [
-            "way",
-            "return",
-            "life",
-            "dops"
-        ],
-        "summary": "But we just did that. But if we just return to the way of life before dops."
-    },
-    {
-        "segment_id": 85,
-        "text": "Yeah, I don't think you've fallen to that trap because the principle is that women should get to make decisions about starting a family and when to have a family with their docks.",
-        "keywords": [
-            "make decisions",
-            "yeah",
-            "women",
-            "trap",
-            "think"
-        ],
-        "summary": "the principle is that women should get to make decisions about starting a family . women should be able to decide when to have their docks ."
-    },
-    {
-        "segment_id": 86,
-        "text": "That's it.",
-        "keywords": [],
-        "summary": "That's it."
-    },
-    {
-        "segment_id": 87,
-        "text": "decision and Republicans should stay out of it. The reason the Republicans keep losing on this is because no one believes they're going to stop at 50. in Alabama, the Supreme Court went after IVF. Some of them are trying to go after contraception. It's just keep politicians out of people's medical decisions and less the politicians are trying to make decisions that are going to guarantee access to affordable healthcare. That's the only time... politicians should be involved in people's health. Yeah, politicians who get you into the darkness office and then they should close it or leave. They should not stay and be advised you on the mandate what it is you can't even do when you're in that room.",
+        "segment_id": 18,
+        "title": "Supreme Court Went",
+        "text": "But we just did that. But if we just return to the way of life before dops. Yeah, I don't think you've fallen to that trap because the principle is that women should get to make decisions about starting a family and when to have a family with their docks. That's it. decision and Republicans should stay out of it. The reason the Republicans keep losing on this is because no one believes they're going to stop at 50. in Alabama, the Supreme Court went after IVF. Some of them are trying to go after contraception. It's just keep politicians out of people's medical decisions and less the politicians are trying to make decisions that are going to guarantee access to affordable healthcare. That's the only time... politicians should be involved in people's health. Yeah, politicians who get you into the darkness office and then they should close it or leave. They should not stay and be advised you on the mandate what it is you can't even do when you're in that room.",
         "keywords": [
             "supreme court went",
             "time ... politicians",
@@ -941,11 +231,12 @@
             "keep politicians",
             "one believes"
         ],
-        "summary": "the reason the Republicans keep losing on this is because no one believes they're going to stop at 50 . in Alabama, the Supreme Court went after IVF . some politicians are trying to go after contraception ."
+        "summary": "julian zelizer: women should get to make decisions about starting a family . he says the reason the Republicans keep losing on this is because no one believes they're going to stop at 50 . it's the only time politicians should be involved in people's health, he writes ."
     },
     {
-        "segment_id": 88,
-        "text": "So Democrats are of course trying to keep abortion in the news. Yesterday, Kamala Harris visited an abortion clinic in Minnesota, run by Planned Parenthood, something no sitting vice president or president who's ever done. Here's Harris answering the question about whether Democrats can succeed in restoring the protections of Roe v. We'll pass that bill when we move back to the House. And so I'm sure that one of the points that must be made on this issue as we attempt to uplift the real stories and the real consequences of the DOF decision is to remind people elections matter.",
+        "segment_id": 19,
+        "title": "Kamala Harris Visited",
+        "text": "So Democrats are of course trying to keep abortion in the news. Yesterday, Kamala Harris visited an abortion clinic in Minnesota, run by Planned Parenthood, something no sitting vice president or president who's ever done. Here's Harris answering the question about whether Democrats can succeed in restoring the protections of Roe v. We'll pass that bill when we move back to the House. And so I'm sure that one of the points that must be made on this issue as we attempt to uplift the real stories and the real consequences of the DOF decision is to remind people elections matter. Would you think of that? move going to important. I loved it. I think it was incredibly smart.",
         "keywords": [
             "remind people elections matter",
             "kamala harris visited",
@@ -953,122 +244,25 @@
             "harris answering",
             "roe v"
         ],
-        "summary": "Kamala Harris visited an abortion clinic in Minnesota, run by planned Parenthood . he answered the question about whether Democrats can restore protection of Roe v. we'll pass that bill when we move back to the House ."
+        "summary": "Kamala Harris visited an abortion clinic in Minnesota, run by planned Parenthood . he answered the question about whether Democrats can succeed in restoring the protection of Roe v. we'll pass that bill when we move back to the House ."
     },
     {
-        "segment_id": 89,
-        "text": "Would you think of that?",
-        "keywords": [
-            "would",
-            "think"
-        ],
-        "summary": "Would you think of that?"
-    },
-    {
-        "segment_id": 90,
-        "text": "move going to important.",
-        "keywords": [
-            "move going",
-            "important"
-        ],
-        "summary": "move going to important."
-    },
-    {
-        "segment_id": 91,
-        "text": "I loved it. I think it was incredibly smart.",
-        "keywords": [
-            "incredibly smart",
-            "think",
-            "loved"
-        ],
-        "summary": "I loved it. I think it was incredibly smart."
-    },
-    {
-        "segment_id": 92,
-        "text": "It is, , as we know, when abortion is top of mind, it helps Democrats win elections because that is what it's at stake, right?",
-        "keywords": [
-            "helps democrats win elections",
-            "top",
-            "stake",
-            "right",
-            "mind"
-        ],
-        "summary": "abortion is top of mind, it helps Democrats win elections because that's what it's at stake, right?"
-    },
-    {
-        "segment_id": 93,
-        "text": "And we cannot let it.",
-        "keywords": [
-            "cannot let"
-        ],
-        "summary": "And we cannot let it."
-    },
-    {
-        "segment_id": 94,
-        "text": ", every day is one day for their fundoffs. Every day Republicans are getting a tiny bit smarter about not saying their real positions on abortion or even to start before we talk.",
-        "keywords": [
-            "tiny bit smarter",
-            "every day republicans",
-            "every day",
-            "one day",
-            "real positions"
-        ],
-        "summary": "every day is one day for their fundoffs . every day they are getting a tiny bit smarter about not saying their real positions on abortion ."
-    },
-    {
-        "segment_id": 95,
-        "text": "But it's so.",
-        "keywords": [],
-        "summary": "But it's so."
-    },
-    {
-        "segment_id": 96,
-        "text": "acid that will destroy everything within 10 miles. The hundred-biting stuff is bad.",
+        "segment_id": 20,
+        "title": "Tiny Bit Smarter",
+        "text": "It is, , as we know, when abortion is top of mind, it helps Democrats win elections because that is what it's at stake, right? And we cannot let it. , every day is one day for their fundoffs. Every day Republicans are getting a tiny bit smarter about not saying their real positions on abortion or even to start before we talk. But it's so. acid that will destroy everything within 10 miles. The hundred-biting stuff is bad. Let's face it.",
         "keywords": [
             "destroy everything within 10 miles",
-            "biting stuff",
-            "hundred",
-            "bad",
-            "acid"
+            "helps democrats win elections",
+            "tiny bit smarter",
+            "every day republicans",
+            "every day"
         ],
-        "summary": "acid that will destroy everything within 10 miles. The hundred-biting stuff is bad."
+        "summary": "every day is one day for their fundoffs . acid that will destroy everything within 10 miles is bad ."
     },
     {
-        "segment_id": 97,
-        "text": "Let's face it.",
-        "keywords": [
-            "let",
-            "face"
-        ],
-        "summary": "Let's face it."
-    },
-    {
-        "segment_id": 98,
-        "text": "And if you believe that you left out from hell, there's a lot of money that's been exchanged. It's a lot of money and seems a lot of proof.",
-        "keywords": [
-            "seems",
-            "proof",
-            "money",
-            "money",
-            "lot"
-        ],
-        "summary": "if you believe that you left out from hell, there's a lot of money that's been exchanged ."
-    },
-    {
-        "segment_id": 99,
-        "text": "But I would just say to him, what do you say? What do you say, Dan? What do you say?",
-        "keywords": [
-            "would",
-            "say",
-            "say",
-            "say",
-            "say"
-        ],
-        "summary": "what do you say, Dan? What does he say? What do he mean? he says he's a genius ."
-    },
-    {
-        "segment_id": 100,
-        "text": "Hillary's gone from destroying some email. It's gonna be a coming up on Democrats to keep it in the news. So talking about is good and it is a real sign of The White House and the Biden folks making creatively about how to get attention for the things they're saying Let's say she just did that at a women's roundtable and Wisconsin or somewhere else. We're not talking about it It's not on the news. No, it's in the news locally, which is good, but it's not getting into the national online conversation. And so doing things this, going to places that are controversial, they're going to cause the Republicans to react to it, create controversy and conflict, means people will hear a firm message and remind them that Joe Biden, Obama Harris and the Democrats are going to fight for reproductive freedom and access to abortion, Republicans want to take it on.",
+        "segment_id": 21,
+        "title": "National Online Conversation",
+        "text": "And if you believe that you left out from hell, there's a lot of money that's been exchanged. It's a lot of money and seems a lot of proof. But I would just say to him, what do you say? What do you say, Dan? What do you say? Hillary's gone from destroying some email. It's gonna be a coming up on Democrats to keep it in the news. So talking about is good and it is a real sign of The White House and the Biden folks making creatively about how to get attention for the things they're saying Let's say she just did that at a women's roundtable and Wisconsin or somewhere else. We're not talking about it It's not on the news. No, it's in the news locally, which is good, but it's not getting into the national online conversation. And so doing things this, going to places that are controversial, they're going to cause the Republicans to react to it, create controversy and conflict, means people will hear a firm message and remind them that Joe Biden, Obama Harris and the Democrats are going to fight for reproductive freedom and access to abortion, Republicans want to take it on.",
         "keywords": [
             "biden folks making creatively",
             "national online conversation",
@@ -1076,617 +270,167 @@
             "white house",
             "somewhere else"
         ],
-        "summary": "we're not talking about it It's not on the news locally, which is good . but doing things this, going to places that are controversial, they're going to cause the Republicans to react to it, create controversy and conflict ."
+        "summary": "if you believe that you left out from hell, there's a lot of money that's been exchanged . what do you say, Dan? . we're not talking about it It's not on the news locally, which is good ."
     },
     {
-        "segment_id": 101,
-        "text": "So I think it was great they did it, it was bold, it was smart, and I think it was pretty good.",
-        "keywords": [
-            "pretty good",
-            "think",
-            "think",
-            "smart",
-            "great"
-        ],
-        "summary": "so I think it was great they did it, it was bold, it smart, and it was pretty good ."
-    },
-    {
-        "segment_id": 102,
-        "text": "Yeah, I also think it shows that Joe Biden and his White House and his campaign in Kamala Harris Are not afraid to put abortion front and center by going to an abortion clinic and look I say this because there's been a few stories about how Some reproductive rights activists are angry with Biden for saying words Choice and row instead of the word abortion And yeah, I guess he didn't stay it say the word abortion instead of the union, even though he started the state of the union by talking about abortion and urging Congress to pass the Women's Health Protection Act. And I totally understand the argument that prominent public figures saying the word abortion could help lessen stigma around getting an abortion, which is a very important thing to do. But one thing I would urge everyone to remember is the abortion rights movement. didn't win in red states Kansas and Ohio and Kentucky by speaking only to people who favor no restrictions on abortion. They won by persuading people who some people who are uncomfortable with abortion or even personally opposed that politician shouldn't get to make that choice for people and look now we have an 81-year-old Catholic eye as president who's never been a... personal fan of abortion, but opened his state of the union by promising to stake his political capital on guaranteeing access to abortion nationwide. And to do that, he's going to need to convince people who feel the same way he does.",
+        "segment_id": 22,
+        "title": "Would Urge Everyone",
+        "text": "So I think it was great they did it, it was bold, it was smart, and I think it was pretty good. Yeah, I also think it shows that Joe Biden and his White House and his campaign in Kamala Harris Are not afraid to put abortion front and center by going to an abortion clinic and look I say this because there's been a few stories about how Some reproductive rights activists are angry with Biden for saying words Choice and row instead of the word abortion And yeah, I guess he didn't stay it say the word abortion instead of the union, even though he started the state of the union by talking about abortion and urging Congress to pass the Women's Health Protection Act. And I totally understand the argument that prominent public figures saying the word abortion could help lessen stigma around getting an abortion, which is a very important thing to do. But one thing I would urge everyone to remember is the abortion rights movement. didn't win in red states Kansas and Ohio and Kentucky by speaking only to people who favor no restrictions on abortion. They won by persuading people who some people who are uncomfortable with abortion or even personally opposed that politician shouldn't get to make that choice for people and look now we have an 81-year-old Catholic eye as president who's never been a... personal fan of abortion, but opened his state of the union by promising to stake his political capital on guaranteeing access to abortion nationwide. And to do that, he's going to need to convince people who feel the same way he does. And that is just democracy, that is how we accumulate the power necessary to make sure that we don't just have a president who says the word abortion, but a president the ability and the power to actually make abortion legal in every single state of the country. And I think that most people who want abortion would rather that. Right.",
         "keywords": [
             "word abortion could help lessen stigma around getting",
             "prominent public figures saying",
-            "word abortion instead",
-            "would urge everyone",
-            "reproductive rights activists"
-        ],
-        "summary": "the abortion rights movement won't win in red states by speaking only to people who favor no restrictions on abortion . they won by persuading people who are uncomfortable with abortion or personally opposed that politician shouldn't get to make that choice for people and look now we have an 81-year-old Catholic eye as president ."
-    },
-    {
-        "segment_id": 103,
-        "text": "And that is just democracy, that is how we accumulate the power necessary to make sure that we don't just have a president who says the word abortion, but a president the ability and the power to actually make abortion legal in every single state of the country. And I think that most people who want abortion would rather that.",
-        "keywords": [
             "want abortion would rather",
             "actually make abortion legal",
-            "every single state",
-            "word abortion",
-            "make sure"
+            "would urge everyone"
         ],
-        "summary": "presidents can make abortion legal in every state of the country . most people who want abortion would rather that ."
+        "summary": "the abortion rights movement won't win in red states by speaking only to people who favor no restrictions on abortion . they won by persuading people who are uncomfortable with abortion or personally opposed that politician shouldn't get to make that choice for people . he's going to need to convince people who feel the same way he does, he says ."
     },
     {
-        "segment_id": 104,
-        "text": "Right.",
-        "keywords": [
-            "right"
-        ],
-        "summary": "Right."
-    },
-    {
-        "segment_id": 105,
-        "text": "There is zero political downside or risk in saying the one abortion. It doesn't make your position more radical. It doesn't. Everyone knows what you're talking about.",
+        "segment_id": 23,
+        "title": "Zero Political Downside",
+        "text": "There is zero political downside or risk in saying the one abortion. It doesn't make your position more radical. It doesn't. Everyone knows what you're talking about. It's when you run the ads, a battle very true. Trump. And then you just don't say his name or what republic. try to sub-tweet him back in the day. Now they just all tweet in support of him. that's done.",
         "keywords": [
             "zero political downside",
             "one abortion",
             "everyone knows",
-            "talking",
-            "saying"
-        ],
-        "summary": "there is zero political downside or risk in saying the one abortion . it doesn't make your position more radical . everyone knows what you're talking about."
-    },
-    {
-        "segment_id": 106,
-        "text": "It's when you run the ads, a battle very true.",
-        "keywords": [
-            "true",
-            "run",
-            "battle",
-            "ads"
-        ],
-        "summary": "It's when you run the ads, a battle very true."
-    },
-    {
-        "segment_id": 107,
-        "text": "Trump. And then you just don't say his name or what republic.",
-        "keywords": [
-            "trump",
-            "say",
-            "republic",
-            "name"
-        ],
-        "summary": "Trump. And then you just don't say his name or what republic."
-    },
-    {
-        "segment_id": 108,
-        "text": "try to sub-tweet him back in the day. Now they just all tweet in support of him.",
-        "keywords": [
             "tweet",
-            "tweet",
-            "try",
-            "support",
-            "sub"
+            "tweet"
         ],
-        "summary": "try to sub-tweet him back in the day. Now they just all tweet in support of him."
+        "summary": "there is zero political downside or risk in saying the one abortion . it doesn't make your position more radical . try to sub-tweet him back in the day ."
     },
     {
-        "segment_id": 109,
-        "text": "that's done.",
-        "keywords": [
-            "done"
-        ],
-        "summary": "that's done."
-    },
-    {
-        "segment_id": 110,
-        "text": "A different president, maybe a younger president, maybe a former president, a former president, Kamala Harris, picked two people who ran against him, would probably be more comfortable and more bold and aggressive in talking about abortion than Joe Biden's. But Joe Biden is our president. I mean, I just, you worked on the thousands of union's, we've watched a million of them, I just can't tell you how far the party has come that our 81 year old Catholic president used the first five minutes of this state of the union to call for passing a law to restore. that is a gigantic part of this.",
+        "segment_id": 24,
+        "title": "John Avlon",
+        "text": "A different president, maybe a younger president, maybe a former president, a former president, Kamala Harris, picked two people who ran against him, would probably be more comfortable and more bold and aggressive in talking about abortion than Joe Biden's. But Joe Biden is our president. I mean, I just, you worked on the thousands of union's, we've watched a million of them, I just can't tell you how far the party has come that our 81 year old Catholic president used the first five minutes of this state of the union to call for passing a law to restore. that is a gigantic part of this. Would it be better if he felt more comfortable talking about and bolder ways? Great, but he is... He is our president, he is our nominee, and if a Democratic House and Democratic Senate sent him a bill, he won. Happily, proudly signed it. That is just a gigantic deal.",
         "keywords": [
             "81 year old catholic president used",
             "picked two people",
             "first five minutes",
-            "younger president",
-            "former president"
-        ],
-        "summary": "john avlon: 81-year-old catholic president used the first five minutes of the union to call for a law to restore abortion . he says a different president, maybe a younger president, perhaps a former president, may be more comfortable and aggressive in talking about abortion than Joe Biden's . the party has watched a million of union's, he writes ."
-    },
-    {
-        "segment_id": 111,
-        "text": "Would it be better if he felt more comfortable talking about and bolder ways? Great, but he is... He is our president, he is our nominee, and if a Democratic House and Democratic Senate sent him a bill, he won. Happily, proudly signed it.",
-        "keywords": [
             "democratic senate sent",
-            "democratic house",
-            "proudly signed",
-            "comfortable talking",
-            "bolder ways"
+            "democratic house"
         ],
-        "summary": "if a Democratic House and Democratic Senate sent him a bill, he won . he is our president and a nominee ."
+        "summary": "john avlon: 81-year-old catholic president used the first five minutes of the union to call for passing a law to restore . he says he is our president, he's our nominee, and if a Democratic House and Democratic Senate sent him a bill he won. that is just a gigantic deal."
     },
     {
-        "segment_id": 112,
-        "text": "That is just a gigantic deal.",
-        "keywords": [
-            "gigantic deal"
-        ],
-        "summary": "That is just a gigantic deal."
-    },
-    {
-        "segment_id": 113,
-        "text": "And so, is there more work to do to get more politicians to be more comfortable with?",
-        "keywords": [
-            "work",
-            "politicians",
-            "get",
-            "comfortable"
-        ],
-        "summary": "And so, is there more work to do to get more politicians to be more comfortable with?"
-    },
-    {
-        "segment_id": 114,
-        "text": "Absolutely.",
-        "keywords": [
-            "absolutely"
-        ],
-        "summary": "Absolutely."
-    },
-    {
-        "segment_id": 115,
-        "text": "But have we come in a huge distance and a short period of time because it stops?",
-        "keywords": [
-            "short period",
-            "huge distance",
-            "time",
-            "stops",
-            "come"
-        ],
-        "summary": "But have we come in a huge distance and a short period of time because it stops?"
-    },
-    {
-        "segment_id": 116,
-        "text": "Yes.",
-        "keywords": [
-            "yes"
-        ],
-        "summary": "Yes."
-    },
-    {
-        "segment_id": 117,
-        "text": "And is Joe Biden going to do the right thing here? He absolutely will.",
+        "segment_id": 25,
+        "title": "Joe Biden Going",
+        "text": "And so, is there more work to do to get more politicians to be more comfortable with? Absolutely. But have we come in a huge distance and a short period of time because it stops? Yes. And is Joe Biden going to do the right thing here? He absolutely will. And again, it's really... to packing a chemical weapon. That's it. What is going on there?",
         "keywords": [
             "joe biden going",
+            "short period",
             "right thing",
-            "absolutely"
-        ],
-        "summary": "And is Joe Biden going to do the right thing here? He absolutely will."
-    },
-    {
-        "segment_id": 118,
-        "text": "And again, it's really... to packing a chemical weapon.",
-        "keywords": [
             "really ...",
-            "chemical weapon",
-            "packing"
+            "huge distance"
         ],
-        "summary": "And again, it's really... to packing a chemical weapon."
+        "summary": "is there more work to do to get more politicians to be more comfortable with? yes. is Joe Biden going to do the right thing here? he absolutely will. And again, it's really... to packing a chemical weapon. That's it."
     },
     {
-        "segment_id": 119,
-        "text": "That's it. What is going on there?",
-        "keywords": [
-            "going"
-        ],
-        "summary": "That's it. What is going on there?"
-    },
-    {
-        "segment_id": 120,
-        "text": "Less grievance, more policy, right? How's that for message discipline from the presumptuous republican nominee? Look, I'm not sure we needed another reminder, but this is a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press. , he's still a shitty candidate. Still a shitty candidate. Still isn't allowed to answer a question.",
+        "segment_id": 26,
+        "title": "Presumptuous Republican Nominee",
+        "text": "Less grievance, more policy, right? How's that for message discipline from the presumptuous republican nominee? Look, I'm not sure we needed another reminder, but this is a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press. , he's still a shitty candidate. Still a shitty candidate. Still isn't allowed to answer a question. What the f- not about defending Joe Biden or not. what I mean? I don't know about it.",
         "keywords": [
             "highly disciplined political genius",
             "presumptuous republican nominee",
             "donald trump may",
-            "needed another reminder",
-            "shitty candidate"
-        ],
-        "summary": "a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press . still isn't allowed to answer a question ."
-    },
-    {
-        "segment_id": 121,
-        "text": "What the f- not about defending Joe Biden or not.",
-        "keywords": [
             "defending joe biden",
-            "f"
+            "needed another reminder"
         ],
-        "summary": "What the f- not about defending Joe Biden or not."
+        "summary": "a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press . the f- not about defending Joe Biden or not. what I mean?"
     },
     {
-        "segment_id": 122,
-        "text": "what I mean?",
-        "keywords": [
-            "mean"
-        ],
-        "summary": "what I mean?"
-    },
-    {
-        "segment_id": 123,
-        "text": "I don't know about it.",
-        "keywords": [
-            "know"
-        ],
-        "summary": "I don't know about it."
-    },
-    {
-        "segment_id": 124,
-        "text": "Joe Biden, but that's fine. , but as you are out there for suiting voters, no, you were going to run into some people who may be personally opposed to abortion, may call undocumented immigrants illegal immigrants Joe Biden did in the state of the union and then later said he wished to use the word undocumented.",
+        "segment_id": 27,
+        "title": "Joe Biden",
+        "text": "Joe Biden, but that's fine. , but as you are out there for suiting voters, no, you were going to run into some people who may be personally opposed to abortion, may call undocumented immigrants illegal immigrants Joe Biden did in the state of the union and then later said he wished to use the word undocumented. The point of campaigning is to meet people where they are. than not leave them there. And so if you stop by scolding people for it, then you're going to turn off the conversation instead you could actually persuade them to get to a better place until again, join this coalition that we're trying to build to stop Donald Trump. All right, let's talk about the vice president's running mate, Jack Dup Joe Biden who's been on offense since the State of the Union. This week he visited two must win Midwestern states with Concent where he opened the campaign headquarters in Milwaukee and Michigan where he campaigned in the diversity of Saginaw. The president talked about all the infrastructure jobs he's made possible, his plans to lower housing costs, and he hit Trump as a loser who wants to cut your retirement. the primary benefits.",
         "keywords": [
             "may call undocumented immigrants illegal immigrants joe biden",
-            "joe biden",
-            "word undocumented",
-            "may",
-            "suiting voters"
-        ],
-        "summary": "undocumented immigrants may be illegal immigrants, but that's fine . but as you are out there for suiting voters, no, you were going to run into some people who may be personally opposed to abortion ."
-    },
-    {
-        "segment_id": 125,
-        "text": "The point of campaigning is to meet people where they are.",
-        "keywords": [
-            "meet people",
-            "point",
-            "campaigning"
-        ],
-        "summary": "The point of campaigning is to meet people where they are."
-    },
-    {
-        "segment_id": 126,
-        "text": "than not leave them there. And so if you stop by scolding people for it, then you're going to turn off the conversation instead you could actually persuade them to get to a better place until again, join this coalition that we're trying to build to stop Donald Trump.",
-        "keywords": [
-            "could actually persuade",
-            "stop donald trump",
-            "scolding people",
-            "conversation instead",
-            "better place"
-        ],
-        "summary": "if you stop by scolding people for it, then you're going to turn off the conversation . join this coalition that we're trying to build to stop Donald Trump ."
-    },
-    {
-        "segment_id": 127,
-        "text": "All right, let's talk about the vice president's running mate, Jack Dup Joe Biden who's been on offense since the State of the Union.",
-        "keywords": [
-            "jack dup joe biden",
-            "vice president",
-            "running mate",
-            "offense since",
-            "union"
-        ],
-        "summary": "vice president's running mate, Jack Dup Joe Biden, has been on offense since the state of the union ."
-    },
-    {
-        "segment_id": 128,
-        "text": "This week he visited two must win Midwestern states with Concent where he opened the campaign headquarters in Milwaukee and Michigan where he campaigned in the diversity of Saginaw. The president talked about all the infrastructure jobs he's made possible, his plans to lower housing costs, and he hit Trump as a loser who wants to cut your retirement.",
-        "keywords": [
             "visited two must win midwestern states",
-            "lower housing costs",
-            "president talked",
-            "made possible",
-            "infrastructure jobs"
+            "jack dup joe biden",
+            "joe biden",
+            "lower housing costs"
         ],
-        "summary": "this week he visited two must win midwestern states with Concent . he spoke about all the infrastructure jobs he's made possible, plans to lower housing costs ."
+        "summary": "vice president's running mate, Jack Dup Joe Biden, is on offense since the state of the union . he visited two must win midwestern states with Concent where he opened campaign headquarters . the president hit Trump as a loser who wants to cut your retirement ."
     },
     {
-        "segment_id": 129,
-        "text": "the primary benefits.",
-        "keywords": [
-            "primary benefits"
-        ],
-        "summary": "the primary benefits."
-    },
-    {
-        "segment_id": 130,
-        "text": "The polls, however, still haven't moved all that much since the state of the union.",
-        "keywords": [
-            "much since",
-            "union",
-            "still",
-            "state",
-            "polls"
-        ],
-        "summary": "The polls, however, still haven't moved all that much since the state of the union."
-    },
-    {
-        "segment_id": 131,
-        "text": "So it's only been a week.",
-        "keywords": [
-            "week"
-        ],
-        "summary": "So it's only been a week."
-    },
-    {
-        "segment_id": 132,
-        "text": "Trump is still up two points, , around two points in the polling averages, and the, , 538 swing state averages show Trump up everywhere, ranging from almost, , eight points in Georgia to less than a point in Pennsylvania. I won't even go through the individual polls there have been. quite a few in the last three days, some high quality, some lower quality, some national, some swing state, all bad.",
+        "segment_id": 28,
+        "title": "Last Three Days",
+        "text": "The polls, however, still haven't moved all that much since the state of the union. So it's only been a week. Trump is still up two points, , around two points in the polling averages, and the, , 538 swing state averages show Trump up everywhere, ranging from almost, , eight points in Georgia to less than a point in Pennsylvania. I won't even go through the individual polls there have been. quite a few in the last three days, some high quality, some lower quality, some national, some swing state, all bad. Yeah. Mostly bad, mostly bad, also. They're not all bad.",
         "keywords": [
             "538 swing state averages show trump",
             "last three days",
-            "swing state",
             "around two points",
+            "swing state",
             "polling averages"
         ],
-        "summary": "the, , 538 swing state averages show Trump up everywhere . some high quality, some lower quality, others national, some swing state, all bad ."
+        "summary": "the swing state averages show Trump up everywhere, ranging from almost, , 8 points in Georgia to less than a point in Pennsylvania . the polls still haven't moved all that much since the state of the union ."
     },
     {
-        "segment_id": 133,
-        "text": "Yeah.",
+        "segment_id": 29,
+        "title": "Com Slash Friends",
+        "text": "Some of you would say he was up to in the, it's so spole. Anyway, where's the bounce, Dan? You've promised us a bounce. You do this show polar coaster that everyone can sign up, Kirkie.com slash friends. Listen, Dan on polar coaster. Where's the bounce? anyone who thought and I know you didn't think this is not an attack on you. I said it. I was at the night of the city of the Union. I don't remember what I said. I was going to say. I'm tired. You were doing your best Chuck Todd impersonation right there. That's unfair.",
         "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 134,
-        "text": "Mostly bad, mostly bad, also. They're not all bad.",
-        "keywords": [
-            "mostly bad",
-            "mostly bad",
-            "bad",
-            "also"
-        ],
-        "summary": "Mostly bad, mostly bad, also. They're not all bad."
-    },
-    {
-        "segment_id": 135,
-        "text": "Some of you would say he was up to in the, it's so spole. Anyway, where's the bounce, Dan? You've promised us a bounce.",
-        "keywords": [
-            "would say",
-            "promised us",
-            "spole",
-            "dan",
-            "bounce"
-        ],
-        "summary": "you've promised us a bounce, Dan . he was up to in the, it's so spole ."
-    },
-    {
-        "segment_id": 136,
-        "text": "You do this show polar coaster that everyone can sign up, Kirkie.com slash friends. Listen, Dan on polar coaster.",
-        "keywords": [
+            "best chuck todd impersonation right",
             "com slash friends",
             "show polar coaster",
             "polar coaster",
-            "sign",
-            "listen"
+            "promised us"
         ],
-        "summary": "You do this show polar coaster that everyone can sign up, Kirkie.com slash friends. Listen, Dan on polar coaster."
+        "summary": "you do this show polar coaster that everyone can sign up, Kirkie.com slash friends . you've promised us a bounce, Dan . I was at the night of the city of the Union ."
     },
     {
-        "segment_id": 137,
-        "text": "Where's the bounce?",
-        "keywords": [
-            "bounce"
-        ],
-        "summary": "Where's the bounce?"
-    },
-    {
-        "segment_id": 138,
-        "text": "anyone who thought and I know you didn't think this is not an attack on you.",
-        "keywords": [
-            "thought",
-            "think",
-            "know",
-            "attack",
-            "anyone"
-        ],
-        "summary": "anyone who thought and I know you didn't think this is not an attack on you."
-    },
-    {
-        "segment_id": 139,
-        "text": "I said it.",
-        "keywords": [
-            "said"
-        ],
-        "summary": "I said it."
-    },
-    {
-        "segment_id": 140,
-        "text": "I was at the night of the city of the Union.",
-        "keywords": [
-            "union",
-            "night",
-            "city"
-        ],
-        "summary": "I was at the night of the city of the Union."
-    },
-    {
-        "segment_id": 141,
-        "text": "I don't remember what I said. I was going to say. I'm tired.",
-        "keywords": [
-            "tired",
-            "say",
-            "said",
-            "remember",
-            "going"
-        ],
-        "summary": "I don't remember what I said. I was going to say. I'm tired."
-    },
-    {
-        "segment_id": 142,
-        "text": "You were doing your best Chuck Todd impersonation right there.",
-        "keywords": [
-            "best chuck todd impersonation right"
-        ],
-        "summary": "You were doing your best Chuck Todd impersonation right there."
-    },
-    {
-        "segment_id": 143,
-        "text": "That's unfair.",
-        "keywords": [
-            "unfair"
-        ],
-        "summary": "That's unfair."
-    },
-    {
-        "segment_id": 144,
-        "text": "Chuck. But anyone who thought that Joe Biden was going to get a significant balance out of one speech seen by 30 million. people should be suspended from talking, writing, tweeting, tweeting, threading, or skeeting about politics for six months.",
-        "keywords": [
-            "one speech seen",
-            "six months",
-            "significant balance",
-            "joe biden",
-            "30 million"
-        ],
-        "summary": "anyone who thought that Joe Biden was going to get a significant balance out of one speech seen by 30 million should be suspended from talking, writing, tweeting, threading, or skeeting about politics ."
-    },
-    {
-        "segment_id": 145,
-        "text": ", it's just, it was never going to happen because just think about this, right?",
-        "keywords": [
-            "never going",
-            "think",
-            "right",
-            "happen"
-        ],
-        "summary": ", it's just, it was never going to happen because just think about this, right?"
-    },
-    {
-        "segment_id": 146,
-        "text": "Joe Biden has 100% name ID. He's been president for almost four years. He was vice president for eight years. He's a national scene before that. He's an erasing it's person who was president four years ago. Also, it's 100% name ID and it's not just people know their names the depth of knowledge of these two candidates is unlike anything in any race in modern Right, so we're using it's too early to pay attention to the pulpit I know I'm actually not saying that at all what I'm saying is two people with a hundred percent name ID who everyone knows The point I'm gonna make is rockabomb it and not consider any nonsense.",
+        "segment_id": 30,
+        "title": "Almost Four Years",
+        "text": "Chuck. But anyone who thought that Joe Biden was going to get a significant balance out of one speech seen by 30 million. people should be suspended from talking, writing, tweeting, tweeting, threading, or skeeting about politics for six months. , it's just, it was never going to happen because just think about this, right? Joe Biden has 100% name ID. He's been president for almost four years. He was vice president for eight years. He's a national scene before that. He's an erasing it's person who was president four years ago. Also, it's 100% name ID and it's not just people know their names the depth of knowledge of these two candidates is unlike anything in any race in modern Right, so we're using it's too early to pay attention to the pulpit I know I'm actually not saying that at all what I'm saying is two people with a hundred percent name ID who everyone knows The point I'm gonna make is rockabomb it and not consider any nonsense.",
         "keywords": [
             "hundred percent name id",
             "president four years ago",
             "almost four years",
-            "name id",
+            "one speech seen",
             "name id"
         ],
-        "summary": "Joe Biden has 100% name ID and it's not just people know their names . he's been president for almost four years ."
+        "summary": "the point I'm gonna make is rockabomb it and not consider any nonsense . it's too early to pay attention to the pulpit I know . he's been president for almost four years ."
     },
     {
-        "segment_id": 147,
-        "text": "That was nothing that happened then eat just I said just in 2009. That was it. And that was because probably you had a pretty high approval rating going into that speech anyway.",
+        "segment_id": 31,
+        "title": "30 Million People",
+        "text": "That was nothing that happened then eat just I said just in 2009. That was it. And that was because probably you had a pretty high approval rating going into that speech anyway. We live in a lot of polarization. Most people have made up their minds. 30 million people is a lot of people who watch that speech it's still a fraction of the lecture. And you assume that most of those people who watch it have already made up their minds, right? That's just who, that's who tunes into a speech.",
         "keywords": [
             "pretty high approval rating going",
-            "speech anyway",
-            "said",
-            "probably",
-            "nothing"
-        ],
-        "summary": "that was nothing that happened then eat just I said just in 2009 . that was because probably you had a pretty high approval rating going into that speech anyway."
-    },
-    {
-        "segment_id": 148,
-        "text": "We live in a lot of polarization. Most people have made up their minds. 30 million people is a lot of people who watch that speech it's still a fraction of the lecture. And you assume that most of those people who watch it have already made up their minds, right?",
-        "keywords": [
             "30 million people",
             "already made",
-            "people",
-            "people",
+            "speech anyway",
             "people"
         ],
-        "summary": "most people have made up their minds . most of those who watch it have already made their minds, right?"
+        "summary": "30 million people are a lot of people who watch that speech it's still a fraction of the lecture . most of those who watch it have already made up their minds, right? that's just who, who tunes into a speech."
     },
     {
-        "segment_id": 149,
-        "text": "That's just who, that's who tunes into a speech.",
-        "keywords": [
-            "tunes",
-            "speech"
-        ],
-        "summary": "That's just who, that's who tunes into a speech."
-    },
-    {
-        "segment_id": 150,
-        "text": "But the way that campaign operatives think about this is The horse race moves last. The approval rating moves second to the rest. What moves first is the polling questions about, that we call them the underneath questions, right?",
-        "keywords": [
-            "horse race moves last",
-            "approval rating moves second",
-            "campaign operatives think",
-            "moves first",
-            "underneath questions"
-        ],
-        "summary": "the approval rating moves second to the rest . what moves first is the polling questions about, that we call them the underneath questions ."
-    },
-    {
-        "segment_id": 151,
-        "text": "Character strength.",
-        "keywords": [
-            "character strength"
-        ],
-        "summary": "Character strength."
-    },
-    {
-        "segment_id": 152,
-        "text": "And for Joe Biden, the critical question right now is, do voters think he is too old to do the job? And there's evidence in a morning consult poll that voters, the number of voters who thought that Joe Biden Hunter left up he it really is he just knows that there are buzzwords he's supposed to hit the laptop the laptop Bad what I'm hearing that it's bad. There's a lot of money and there's a lot of corruption it's very bad.",
-        "keywords": [
-            "joe biden hunter left",
-            "morning consult poll",
-            "critical question right",
-            "joe biden",
-            "voters think"
-        ],
-        "summary": "a morning consult poll shows that voters think he is too old to do the job . there's a lot of money and corruption it's very bad ."
-    },
-    {
-        "segment_id": 153,
-        "text": "It I mean it's so fascinating because he we think of him as deep into Naga fan-fitting Spiracy stuff, but he's not really that deep in it.",
-        "keywords": [
-            "fitting spiracy stuff",
-            "naga fan",
-            "think",
-            "really",
-            "mean"
-        ],
-        "summary": "it's so fascinating because he we think of him as deep into Naga fan-fitting Spiracy stuff . but he's not really that deep in it ."
-    },
-    {
-        "segment_id": 154,
-        "text": "He even skates the surface of was too old to the job went down after this, which they've pulled pre-speech and they pulled pre-speech. And the bulk of that change happened among Democrats in Biden's 2020 books, which is exactly how you would expect this race to go, which is Biden is underperforming against Trump right now because he's getting about 85% people voted for him in 2020. Trump is getting 97% in the near time spot, people will vote for him in 2020. And so that- That's the low-hanging fruit providing people who have actually pulled the lever for him before, or new voters who would agree with him ideologically on almost every issue, right?",
+        "segment_id": 32,
+        "title": "Horse Race Moves Last",
+        "text": "But the way that campaign operatives think about this is The horse race moves last. The approval rating moves second to the rest. What moves first is the polling questions about, that we call them the underneath questions, right? Character strength. And for Joe Biden, the critical question right now is, do voters think he is too old to do the job? And there's evidence in a morning consult poll that voters, the number of voters who thought that Joe Biden Hunter left up he it really is he just knows that there are buzzwords he's supposed to hit the laptop the laptop Bad what I'm hearing that it's bad. There's a lot of money and there's a lot of corruption it's very bad. It I mean it's so fascinating because he we think of him as deep into Naga fan-fitting Spiracy stuff, but he's not really that deep in it. He even skates the surface of was too old to the job went down after this, which they've pulled pre-speech and they pulled pre-speech. And the bulk of that change happened among Democrats in Biden's 2020 books, which is exactly how you would expect this race to go, which is Biden is underperforming against Trump right now because he's getting about 85% people voted for him in 2020. Trump is getting 97% in the near time spot, people will vote for him in 2020. And so that- That's the low-hanging fruit providing people who have actually pulled the lever for him before, or new voters who would agree with him ideologically on almost every issue, right?",
         "keywords": [
             "change happened among democrats",
+            "approval rating moves second",
             "hanging fruit providing people",
-            "near time spot",
-            "almost every issue",
-            "people voted"
+            "horse race moves last",
+            "joe biden hunter left"
         ],
-        "summary": "the bulk of that change happened among Democrats in Biden's 2020 books . Biden is underperforming against Trump right now because he's getting 97% in the near time spot ."
+        "summary": "the horse race moves last, and the approval rating moves second to the rest . there's evidence in a morning consult poll that voters thought that Joe Biden Hunter left up he it really is he just knows that there are buzzwords he's supposed to hit the laptop the laptop Bad what I'm hearing that it's bad ."
     },
     {
-        "segment_id": 155,
-        "text": "Abortion. Climate change. LGBTQ rights. Tax cuts for the moment.",
+        "segment_id": 33,
+        "title": "Tax Cuts",
+        "text": "Abortion. Climate change. LGBTQ rights. Tax cuts for the moment. Critics are securing. And those are people you move first. You move them first by showing that this big, giant concern in that has been hovering over the race for months is not as big a concern as people may have. So what we've seen in the polling suggested.",
         "keywords": [
             "tax cuts",
+            "polling suggested",
             "lgbtq rights",
             "climate change",
-            "moment",
-            "abortion"
+            "people may"
         ],
-        "summary": "Abortion. Climate change. LGBTQ rights. Tax cuts for the moment."
+        "summary": "you move them first by showing that this big, giant concern has been hovering over the race for months is not as big a concern as people may have . the polling suggests that a big concern in the race isn't as big as people might have."
     },
     {
-        "segment_id": 156,
-        "text": "Critics are securing.",
-        "keywords": [
-            "securing",
-            "critics"
-        ],
-        "summary": "Critics are securing."
-    },
-    {
-        "segment_id": 157,
-        "text": "And those are people you move first. You move them first by showing that this big, giant concern in that has been hovering over the race for months is not as big a concern as people may have.",
-        "keywords": [
-            "people may",
-            "giant concern",
-            "move first",
-            "people",
-            "move"
-        ],
-        "summary": "you move them first by showing that this big, giant concern has been hovering over the race for months . it is not as big as people may have ."
-    },
-    {
-        "segment_id": 158,
-        "text": "So what we've seen in the polling suggested.",
-        "keywords": [
-            "polling suggested",
-            "seen"
-        ],
-        "summary": "So what we've seen in the polling suggested."
-    },
-    {
-        "segment_id": 159,
+        "segment_id": 34,
+        "title": "Knows Say Laptop",
         "text": "Fox News he knows he said he knows the buzzwords, but he couldn't explain them to you Right, he doesn't even understand the bullshit part of it. He just knows say laptop a bunch save bleach bed And it's but he uses this the other is why he's a bad candidate is he uses language that is requires such To be so far down on rabbit hole to understand what you're talking about They just turn average person that man not even average person a average political junkie that meant nothing but just absolute nothing laptop bleach bits server email acid what are we doing Andrew Andrew Jackson to be very happy no one's been treated Trump in terms of very badly Not even Abraham Lincoln Yeah, I've got a lot of that work swore that learned but didn't great So we talked on Tuesday's episode about",
         "keywords": [
             "absolute nothing laptop bleach bits server email acid",

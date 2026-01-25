@@ -42,31 +42,39 @@ class TopicSegmenter:
         segments.append(" ".join(current_segment))
         return segments
 
-    def segment_transcript_embedding(self, text, window_size=3, threshold_multiplier=1.2):
+    def segment_transcript_embedding(self, text, window_size=3, threshold_multiplier=1.3, min_sentences=8):
         """
-        Algorithm 3: Embedding-Based Segmentation.
-        Uses a sliding window and detects sharp drops in similarity compared to local average.
+        Algorithm 3 (Refined): Industrial Topic Segmentation.
+        Uses SBERT embeddings and a sliding window to detect true topic drift.
+        Enforces a minimum sentence count of 8 to ensure coherent 'chapters'.
         """
         sentences = sent_tokenize(text)
-        if len(sentences) < window_size * 2:
+        if len(sentences) < min_sentences:
             return [text]
 
+        # Pre-filter filler-only sentences if needed (simplified here)
+        fillers = {"yeah", "i know", "exactly", "that's great", "uh", "you know", "right", "good", "okay"}
+        
         embeddings = self.model.encode(sentences)
         
-        # Calculate similarities between adjacent sentences
         similarities = []
         for i in range(len(embeddings) - 1):
             sim = cosine_similarity([embeddings[i]], [embeddings[i+1]])[0][0]
             similarities.append(sim)
         
-        # Detect boundaries: where similarity is significantly lower than neighbors
         boundaries = [0]
         avg_sim = np.mean(similarities)
         
+        last_boundary = 0
         for i in range(1, len(similarities) - 1):
-            # If current similarity is much lower than the average of its neighbors
-            if similarities[i] < (avg_sim / threshold_multiplier):
-                boundaries.append(i + 1)
+            # Check if this similarity is a local minimum (potential boundary)
+            is_local_min = similarities[i] < similarities[i-1] and similarities[i] < similarities[i+1]
+            
+            # Significant drop and enough distance from previous boundary
+            if is_local_min and similarities[i] < (avg_sim / threshold_multiplier):
+                if (i + 1 - last_boundary) >= min_sentences:
+                    boundaries.append(i + 1)
+                    last_boundary = i + 1
         
         boundaries.append(len(sentences))
         

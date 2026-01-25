@@ -1,406 +1,86 @@
 [
     {
         "segment_id": 1,
-        "text": "Welcome to Positive America. I'm John Fabra. I'm Jane Piston.",
-        "keywords": [
-            "positive america",
-            "john fabra",
-            "jane piston",
-            "welcome"
-        ],
-        "summary": "Welcome to Positive America. I'm John Fabra. I'm Jane Piston."
-    },
-    {
-        "segment_id": 2,
-        "text": "great to have you. Hello! It's wonderful to be here. Yeah!",
-        "keywords": [
-            "yeah",
-            "wonderful",
-            "hello",
-            "great"
-        ],
-        "summary": "great to have you. Hello! It's wonderful to be here. Yeah!"
-    },
-    {
-        "segment_id": 3,
-        "text": "New York Times and CNN contributor post. Guess host today?",
+        "title": "John Fabra And Jane Piston",
+        "text": "Welcome to Positive America. I'm John Fabra. I'm Jane Piston. great to have you. Hello! It's wonderful to be here. Yeah! New York Times and CNN contributor post. Guess host today?",
         "keywords": [
             "new york times",
             "guess host today",
-            "cnn contributor post"
+            "cnn contributor post",
+            "positive america",
+            "john fabra"
         ],
-        "summary": "New York Times and CNN contributor post. Guess host today?"
+        "summary": "I'm John Fabra and Jane Piston. great to have you. Hey, it's wonderful to be here ."
+    },
+    {
+        "segment_id": 2,
+        "title": "Rfk Jr",
+        "text": "It's fantastic. I could not be more excited. So on today's show we are going to talk about the Republican House. Just passed a potential TikTok ban that Donald Trump no longer supports. RFK Jr. has reportedly chosen... I have, I know, I remember you telling me. I don't know that. Tough that he does remember his anniversary. I mean, I guess when you've had a couple of wives, it's ... It's not surprising. Exactly.",
+        "keywords": [
+            "potential tiktok ban",
+            "reportedly chosen ...",
+            "rfk jr",
+            "republican house",
+            "longer supports"
+        ],
+        "summary": "RFK Jr. has reportedly chosen... I have, I know, I remember you telling me. I don't know that. Tough that he does remember his anniversary ."
+    },
+    {
+        "segment_id": 3,
+        "title": "Two Presidential Candidates",
+        "text": "I think that , at the very, , 30,000-foot view, it is not ideal that we now have dueling depositions of two presidential candidates and... to presidents. That's not good. I will say, as a side note, if I ever could win anything, I would to win the chance to depose someone, deposing someone just sounds super fun. Just being , did you say this and the person being , apparently I did, that sounds great. I would go to law school just to depose people. That's all I want to do. And of course, , when you're dead. opposed you are advised by your lawyers any good lawyer to say that you don't recall if you're not absolutely sure because otherwise you could have pretty charges. Yeah absolutely. It's another classic example of how the good thing to do doesn't sound good.",
+        "keywords": [
+            "ever could win anything",
+            "two presidential candidates",
+            "another classic example",
+            "sounds super fun",
+            "sounds great"
+        ],
+        "summary": "if I ever could win anything, I would to win the chance to depose someone . if you are dead, you are advised by your lawyers any good lawyer to say that you don't recall because otherwise you could have pretty charges ."
     },
     {
         "segment_id": 4,
-        "text": "It's fantastic.",
+        "title": "Particular Events Remain",
+        "text": "Right. It's, , if you are arrested you should not say anything to the police. However... the police when they do your date line episode will be yeah she lawyer it up right away didn't say anything which is the right thing to do but when you're watching date line later you're gonna be hmm she killed all those people and that's what we're watching right now date line that is what politics has become I'm glad you're here to talk about this because when we spoke yesterday you said you hadn't been following every detail of the hearing or the her investigation which what? Makes you just most voters. So now that you're all right up on everything, what do you think? I think that it is March of an election year. And so the relevance of these particular events remain to be seen. I know that's not a very satisfying answer, but I've been taking a break from social media for Lent, which has been great.",
         "keywords": [
-            "fantastic"
+            "watching date line later",
+            "particular events remain",
+            "following every detail",
+            "date line episode",
+            "date line"
         ],
-        "summary": "It's fantastic."
+        "summary": "the police when they do your date line episode will be yeah she lawyer it up right away didn't say anything which is the right thing to do . when you're watching date line later you are gonna be hmm she killed all those people and that's what politics has become . if you are arrested you should not say anything to the police ."
     },
     {
         "segment_id": 5,
-        "text": "I could not be more excited.",
+        "title": "Criteria Card Gotten",
+        "text": "It just also means that I am not plugged. It's quite literal. But I am not plugged in to literally everything that's taking place. And so , after going through the transcript of the hearing and reading a bunch of write-ups from actual news outlets, my main takeaway is, wow, everyone hates each other. Because you had Republicans yelling at her about how she's the Praetorian Guard for Biden, which he is not. And also. I don't know how the criteria card gotten all to you. , yeah, and but then you had Democrats yelling at her that he had smeared Biden by referring to him. It's elderly and talking about his memory issues.",
         "keywords": [
-            "excited",
-            "could"
+            "criteria card gotten",
+            "actual news outlets",
+            "taking place",
+            "republicans yelling",
+            "quite literal"
         ],
-        "summary": "I could not be more excited."
+        "summary": "it means that I am not plugged in to literally everything that's taking place . it's quite literal, but I amn't plugged into literally everything . you had Republicans yelling at her about how she's the Praetorian Guard for Biden, which he is not ."
     },
     {
         "segment_id": 6,
-        "text": "So on today's show we are going to talk about the Republican House.",
+        "title": "Sounds Super Fun",
+        "text": "I was very entertained because part of the transcript shows that Biden does remember going to Mongolia and having an awesome time bow hunting, which sounds super fun. Apparently Biden excels at archery. I mean, he made the details of me. That's my takeaway. Archery is hard. For Metriptom Angolia 13 years ago. And he's remembering hitting the target. I don't even want to know why that story came up on me. No, he wanted to talk about cars. And he wanted to talk about how hot his wife is. So I was , yeah, Joe Biden, elderly wife guy who remembers elderly wife.",
         "keywords": [
-            "republican house",
-            "today",
-            "talk",
-            "show",
-            "going"
+            "metriptom angolia 13 years ago",
+            "awesome time bow hunting",
+            "sounds super fun",
+            "remembers elderly wife",
+            "elderly wife guy"
         ],
-        "summary": "So on today's show we are going to talk about the Republican House."
+        "summary": "the transcript shows that Biden excels at archery . he's remembering hitting the target for metriptom Angolia 13 years ago ."
     },
     {
         "segment_id": 7,
-        "text": "Just passed a potential TikTok ban that Donald Trump no longer supports. RFK Jr. has reportedly chosen...",
-        "keywords": [
-            "reportedly chosen ...",
-            "potential tiktok ban",
-            "rfk jr",
-            "longer supports",
-            "donald trump"
-        ],
-        "summary": "Just passed a potential TikTok ban that Donald Trump no longer supports. RFK Jr. has reportedly chosen..."
-    },
-    {
-        "segment_id": 8,
-        "text": "I have, I know, I remember you telling me. I don't know that.",
-        "keywords": [
-            "telling",
-            "remember",
-            "know",
-            "know"
-        ],
-        "summary": "I have, I know, I remember you telling me. I don't know that."
-    },
-    {
-        "segment_id": 9,
-        "text": "Tough that he does remember his anniversary.",
-        "keywords": [
-            "tough",
-            "remember",
-            "anniversary"
-        ],
-        "summary": "Tough that he does remember his anniversary."
-    },
-    {
-        "segment_id": 10,
-        "text": "I mean, I guess when you've had a couple of wives, it's ... It's not surprising. Exactly.",
-        "keywords": [
-            "wives",
-            "surprising",
-            "mean",
-            "guess",
-            "exactly"
-        ],
-        "summary": "I mean, I guess when you've had a couple of wives, it's ... It's not surprising. Exactly."
-    },
-    {
-        "segment_id": 11,
-        "text": "I think that , at the very, , 30,000-foot view, it is not ideal that we now have dueling depositions of two presidential candidates and... to presidents.",
-        "keywords": [
-            "two presidential candidates",
-            "foot view",
-            "dueling depositions",
-            "think",
-            "presidents"
-        ],
-        "summary": "two presidential candidates are dueling depositions to presidents . 30,000-foot view is not ideal ."
-    },
-    {
-        "segment_id": 12,
-        "text": "That's not good.",
-        "keywords": [
-            "good"
-        ],
-        "summary": "That's not good."
-    },
-    {
-        "segment_id": 13,
-        "text": "I will say, as a side note, if I ever could win anything, I would to win the chance to depose someone, deposing someone just sounds super fun. Just being , did you say this and the person being , apparently I did, that sounds great.",
-        "keywords": [
-            "ever could win anything",
-            "sounds super fun",
-            "sounds great",
-            "side note",
-            "deposing someone"
-        ],
-        "summary": "if I ever could win anything, I would to win the chance to depose someone . just being , did you say this and the person being, apparently I did, that sounds great ."
-    },
-    {
-        "segment_id": 14,
-        "text": "I would go to law school just to depose people. That's all I want to do.",
-        "keywords": [
-            "would go",
-            "law school",
-            "depose people",
-            "want"
-        ],
-        "summary": "I would go to law school just to depose people. That's all I want to do."
-    },
-    {
-        "segment_id": 15,
-        "text": "And of course, , when you're dead.",
-        "keywords": [
-            "dead",
-            "course"
-        ],
-        "summary": "And of course, , when you're dead."
-    },
-    {
-        "segment_id": 16,
-        "text": "opposed you are advised by your lawyers any good lawyer to say that you don't recall if you're not absolutely sure because otherwise you could have pretty charges.",
-        "keywords": [
-            "pretty charges",
-            "good lawyer",
-            "absolutely sure",
-            "say",
-            "recall"
-        ],
-        "summary": "opposed you are advised by your lawyers any good lawyer to say that you don't recall if you're not absolutely sure because otherwise you could have pretty charges ."
-    },
-    {
-        "segment_id": 17,
-        "text": "Yeah absolutely.",
-        "keywords": [
-            "yeah absolutely"
-        ],
-        "summary": "Yeah absolutely."
-    },
-    {
-        "segment_id": 18,
-        "text": "It's another classic example of how the good thing to do doesn't sound good.",
-        "keywords": [
-            "another classic example",
-            "sound good",
-            "good thing"
-        ],
-        "summary": "It's another classic example of how the good thing to do doesn't sound good."
-    },
-    {
-        "segment_id": 19,
-        "text": "Right.",
-        "keywords": [
-            "right"
-        ],
-        "summary": "Right."
-    },
-    {
-        "segment_id": 20,
-        "text": "It's, , if you are arrested you should not say anything to the police. However... the police when they do your date line episode will be yeah she lawyer it up right away didn't say anything which is the right thing to do but when you're watching date line later you're gonna be hmm she killed all those people and that's what we're watching right now date line that is what politics has become I'm glad you're here to talk about this because when we spoke yesterday you said you hadn't been following every detail of the hearing or the her investigation which what?",
-        "keywords": [
-            "watching date line later",
-            "following every detail",
-            "date line episode",
-            "date line",
-            "watching right"
-        ],
-        "summary": "the police when they do your date line episode will be yeah she lawyer it up right away didn't say anything which is the right thing to do . when you are watching date line later you're gonna be hmm she killed all those people and that's what politics has become ."
-    },
-    {
-        "segment_id": 21,
-        "text": "Makes you just most voters. So now that you're all right up on everything, what do you think?",
-        "keywords": [
-            "voters",
-            "think",
-            "right",
-            "makes",
-            "everything"
-        ],
-        "summary": "Makes you just most voters. So now that you're all right up on everything, what do you think?"
-    },
-    {
-        "segment_id": 22,
-        "text": "I think that it is March of an election year.",
-        "keywords": [
-            "election year",
-            "think",
-            "march"
-        ],
-        "summary": "I think that it is March of an election year."
-    },
-    {
-        "segment_id": 23,
-        "text": "And so the relevance of these particular events remain to be seen.",
-        "keywords": [
-            "particular events remain",
-            "seen",
-            "relevance"
-        ],
-        "summary": "And so the relevance of these particular events remain to be seen."
-    },
-    {
-        "segment_id": 24,
-        "text": "I know that's not a very satisfying answer, but I've been taking a break from social media for Lent, which has been great.",
-        "keywords": [
-            "social media",
-            "satisfying answer",
-            "taking",
-            "lent",
-            "know"
-        ],
-        "summary": "I've been taking a break from social media for Lent, which has been great ."
-    },
-    {
-        "segment_id": 25,
-        "text": "It just also means that I am not plugged.",
-        "keywords": [
-            "also means",
-            "plugged"
-        ],
-        "summary": "It just also means that I am not plugged."
-    },
-    {
-        "segment_id": 26,
-        "text": "It's quite literal.",
-        "keywords": [
-            "quite literal"
-        ],
-        "summary": "It's quite literal."
-    },
-    {
-        "segment_id": 27,
-        "text": "But I am not plugged in to literally everything that's taking place.",
-        "keywords": [
-            "taking place",
-            "literally everything",
-            "plugged"
-        ],
-        "summary": "But I am not plugged in to literally everything that's taking place."
-    },
-    {
-        "segment_id": 28,
-        "text": "And so , after going through the transcript of the hearing and reading a bunch of write-ups from actual news outlets, my main takeaway is, wow, everyone hates each other. Because you had Republicans yelling at her about how she's the Praetorian Guard for Biden, which he is not.",
-        "keywords": [
-            "actual news outlets",
-            "republicans yelling",
-            "praetorian guard",
-            "main takeaway",
-            "everyone hates"
-        ],
-        "summary": "my main takeaway is, wow, everyone hates each other . you had Republicans yelling at her about how she's the Praetorian Guard for Biden ."
-    },
-    {
-        "segment_id": 29,
-        "text": "And also.",
-        "keywords": [
-            "also"
-        ],
-        "summary": "And also."
-    },
-    {
-        "segment_id": 30,
-        "text": "I don't know how the criteria card gotten all to you.",
-        "keywords": [
-            "criteria card gotten",
-            "know"
-        ],
-        "summary": "I don't know how the criteria card gotten all to you."
-    },
-    {
-        "segment_id": 31,
-        "text": ", yeah, and but then you had Democrats yelling at her that he had smeared Biden by referring to him.",
-        "keywords": [
-            "smeared biden",
-            "democrats yelling",
-            "yeah",
-            "referring"
-        ],
-        "summary": "you had Democrats yelling at her that he had smeared Biden by referring to him ."
-    },
-    {
-        "segment_id": 32,
-        "text": "It's elderly and talking about his memory issues.",
-        "keywords": [
-            "memory issues",
-            "talking",
-            "elderly"
-        ],
-        "summary": "It's elderly and talking about his memory issues."
-    },
-    {
-        "segment_id": 33,
-        "text": "I was very entertained because part of the transcript shows that Biden does remember going to Mongolia and having an awesome time bow hunting, which sounds super fun. Apparently Biden excels at archery.",
-        "keywords": [
-            "awesome time bow hunting",
-            "sounds super fun",
-            "apparently biden excels",
-            "transcript shows",
-            "remember going"
-        ],
-        "summary": "part of the transcript shows that Biden does remember going to Mongolia and having an awesome time bow hunting, which sounds super fun ."
-    },
-    {
-        "segment_id": 34,
-        "text": "I mean, he made the details of me. That's my takeaway.",
-        "keywords": [
-            "takeaway",
-            "mean",
-            "made",
-            "details"
-        ],
-        "summary": "I mean, he made the details of me. That's my takeaway."
-    },
-    {
-        "segment_id": 35,
-        "text": "Archery is hard.",
-        "keywords": [
-            "hard",
-            "archery"
-        ],
-        "summary": "Archery is hard."
-    },
-    {
-        "segment_id": 36,
-        "text": "For Metriptom Angolia 13 years ago.",
-        "keywords": [
-            "metriptom angolia 13 years ago"
-        ],
-        "summary": "For Metriptom Angolia 13 years ago."
-    },
-    {
-        "segment_id": 37,
-        "text": "And he's remembering hitting the target.",
-        "keywords": [
-            "remembering hitting",
-            "target"
-        ],
-        "summary": "And he's remembering hitting the target."
-    },
-    {
-        "segment_id": 38,
-        "text": "I don't even want to know why that story came up on me. No, he wanted to talk about cars. And he wanted to talk about how hot his wife is. So I was , yeah, Joe Biden, elderly wife guy who remembers elderly wife.",
-        "keywords": [
-            "remembers elderly wife",
-            "elderly wife guy",
-            "story came",
-            "joe biden",
-            "even want"
-        ],
-        "summary": "Joe Biden wanted to talk about cars and how hot his wife is . he was a guy who remembers elderly wife guy ."
-    },
-    {
-        "segment_id": 39,
-        "text": "guy things. That checks out.",
-        "keywords": [
-            "guy things",
-            "checks"
-        ],
-        "summary": "guy things. That checks out."
-    },
-    {
-        "segment_id": 40,
-        "text": "But I think the main, , it was interesting how rather than ask questions that could show why didn't it charge as result from this? Why did this not appear in the ultimate report that you gave what, , what getting actual answers? Everyone involved decided this is a televised hearing. We must do televised hearing things and yellow. with each other and yell at him, this former special counsel who did not ask for any of this. He's just there and he was yelled at.",
+        "title": "Getting Actual Answers",
+        "text": "guy things. That checks out. But I think the main, , it was interesting how rather than ask questions that could show why didn't it charge as result from this? Why did this not appear in the ultimate report that you gave what, , what getting actual answers? Everyone involved decided this is a televised hearing. We must do televised hearing things and yellow. with each other and yell at him, this former special counsel who did not ask for any of this. He's just there and he was yelled at.",
         "keywords": [
             "getting actual answers",
             "former special counsel",
@@ -411,20 +91,9 @@
         "summary": "everyone involved decided this is a televised hearing . he's just there and he was yelled at ."
     },
     {
-        "segment_id": 41,
-        "text": "But I think that it was interesting because a couple of the write-ups I saw were , this could have election ramifications.",
-        "keywords": [
-            "election ramifications",
-            "write",
-            "ups",
-            "think",
-            "saw"
-        ],
-        "summary": "a couple of the write-ups I saw were . this could have election ramifications ."
-    },
-    {
-        "segment_id": 42,
-        "text": "And I'm thinking back to, do you remember before years ago? Do you remember who was taking place roughly four years ago? Oh, I think we were home for... in his running mate and it could be Aaron Rogers or Jesse Ventura. And we're going to talk about whether Republican politicians are too terminally online to win. But first, you might remember that last month, the special counsel who investigated President Biden's handling of classified information concluded in his reports that there was insufficient evidence to bring charges, but then swerved out of the way to call Biden, quotes a well-meaning elderly... quite a while.",
+        "segment_id": 8,
+        "title": "Whether Republican Politicians",
+        "text": "But I think that it was interesting because a couple of the write-ups I saw were , this could have election ramifications. And I'm thinking back to, do you remember before years ago? Do you remember who was taking place roughly four years ago? Oh, I think we were home for... in his running mate and it could be Aaron Rogers or Jesse Ventura. And we're going to talk about whether Republican politicians are too terminally online to win. But first, you might remember that last month, the special counsel who investigated President Biden's handling of classified information concluded in his reports that there was insufficient evidence to bring charges, but then swerved out of the way to call Biden, quotes a well-meaning elderly... quite a while. Yeah, we were home for quite a while. , some stuff was happening.",
         "keywords": [
             "taking place roughly four years ago",
             "meaning elderly ... quite",
@@ -432,166 +101,38 @@
             "classified information concluded",
             "investigated president biden"
         ],
-        "summary": "the special counsel who investigated president biden's handling of classified information concluded in his reports that there was insufficient evidence to bring charges . but then swerved out of way to call Biden, quotes a well-meaning elderly... quite a while ."
+        "summary": "we're going to talk about whether Republican politicians are too terminally online to win . we might remember that last month, the special counsel who investigated president Biden's handling of classified information concluded there was insufficient evidence to bring charges, but then swerved out of the way to call Biden ."
     },
     {
-        "segment_id": 43,
-        "text": "Yeah, we were home for quite a while. , some stuff was happening.",
-        "keywords": [
-            "yeah",
-            "stuff",
-            "quite",
-            "home",
-            "happening"
-        ],
-        "summary": "Yeah, we were home for quite a while. , some stuff was happening."
-    },
-    {
-        "segment_id": 44,
-        "text": ", I believe we are now, , just over the anniversary of when Rudy go pair, cause the entire NBA to shut down, which I, I will never move on from the fact that as far as I'm concerned, it's all Rudy go there as fault. But , we have no idea what is going to happen in between. now and November.",
-        "keywords": [
-            "rudy go pair",
-            "rudy go",
-            "never move",
-            "entire nba",
-            "shut"
-        ],
-        "summary": "i believe we are now, just over the anniversary of when Rudy go pair, cause the entire NBA to shut down, which I, I will never move on from the fact that as far as I'm concerned, it's all the fault . now and November."
-    },
-    {
-        "segment_id": 45,
-        "text": "It is not ideal that Biden is in the situation. This record is not good. This hearing was not good.",
-        "keywords": [
-            "situation",
-            "record",
-            "ideal",
-            "hearing",
-            "good"
-        ],
-        "summary": "it is not ideal that Biden is in the situation . this record is not good. This hearing was not good ."
-    },
-    {
-        "segment_id": 46,
-        "text": "But whether it will be relevant to people voting in November, which is, I don't, it's a while from now.",
-        "keywords": [
-            "people voting",
-            "whether",
-            "relevant",
-            "november"
-        ],
-        "summary": "whether it will be relevant to people voting in November, which is, I don't, it's a while from now."
-    },
-    {
-        "segment_id": 47,
-        "text": "A lot can happen. You can have an entire global pandemic between now and then.",
+        "segment_id": 9,
+        "title": "Entire Global Pandemic",
+        "text": ", I believe we are now, , just over the anniversary of when Rudy go pair, cause the entire NBA to shut down, which I, I will never move on from the fact that as far as I'm concerned, it's all Rudy go there as fault. But , we have no idea what is going to happen in between. now and November. It is not ideal that Biden is in the situation. This record is not good. This hearing was not good. But whether it will be relevant to people voting in November, which is, I don't, it's a while from now. A lot can happen. You can have an entire global pandemic between now and then.",
         "keywords": [
             "entire global pandemic",
-            "lot",
-            "happen"
+            "rudy go pair",
+            "rudy go",
+            "entire nba",
+            "people voting"
         ],
-        "summary": "A lot can happen. You can have an entire global pandemic between now and then."
+        "summary": "it is not ideal that Biden is in the situation . this hearing was not good . a lot can happen between now and then ."
     },
     {
-        "segment_id": 48,
-        "text": "I would prefer we didn't. That happened four years ago.",
+        "segment_id": 10,
+        "title": "Would Prefer",
+        "text": "I would prefer we didn't. That happened four years ago. I was , all right, goodbye, everybody. Taken much. Social media. break for a let and I came back and we were in the midst of a global pandemic so I'm really trying not to instigate that again. Yeah. I'm doing my very best but I will just say I don't know how relevant this is going to be.",
         "keywords": [
             "happened four years ago",
-            "would prefer"
+            "would prefer",
+            "taken much",
+            "social media",
+            "really trying"
         ],
-        "summary": "I would prefer we didn't. That happened four years ago."
+        "summary": "I would prefer we didn't. that happened four years ago . I was , all right, goodbye, everybody. Taken much. Social media. break for a let and I came back and we were in the midst of a global pandemic so I'm really trying not to instigate that again ."
     },
     {
-        "segment_id": 49,
-        "text": "I was , all right, goodbye, everybody.",
-        "keywords": [
-            "right",
-            "goodbye",
-            "everybody"
-        ],
-        "summary": "I was , all right, goodbye, everybody."
-    },
-    {
-        "segment_id": 50,
-        "text": "Taken much.",
-        "keywords": [
-            "taken much"
-        ],
-        "summary": "Taken much."
-    },
-    {
-        "segment_id": 51,
-        "text": "Social media.",
-        "keywords": [
-            "social media"
-        ],
-        "summary": "Social media."
-    },
-    {
-        "segment_id": 52,
-        "text": "break for a let and I came back and we were in the midst of a global pandemic so I'm really trying not to instigate that again.",
-        "keywords": [
-            "really trying",
-            "global pandemic",
-            "came back",
-            "midst",
-            "let"
-        ],
-        "summary": "we were in the midst of a global pandemic so I'm really trying not to instigate that again ."
-    },
-    {
-        "segment_id": 53,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 54,
-        "text": "I'm doing my very best but I will just say I don't know how relevant this is going to be.",
-        "keywords": [
-            "say",
-            "relevant",
-            "know",
-            "going",
-            "best"
-        ],
-        "summary": "I'm doing my very best but I will just say I don't know how relevant this is going to be ."
-    },
-    {
-        "segment_id": 55,
-        "text": "I don't know what's going to be at top of mind for voters especially because the opposition can wait also has a pair of memory issues or end of that position. position and a host of legal issues. Couple of definitions at this point. Yeah, exactly.",
-        "keywords": [
-            "wait also",
-            "voters especially",
-            "memory issues",
-            "legal issues",
-            "yeah"
-        ],
-        "summary": "the opposition can wait also has a pair of memory issues or end of that position . a couple of definitions at this point ."
-    },
-    {
-        "segment_id": 56,
-        "text": "He's been doing all right. She's got a lot of time.",
-        "keywords": [
-            "time",
-            "right",
-            "lot",
-            "got"
-        ],
-        "summary": "He's been doing all right. She's got a lot of time."
-    },
-    {
-        "segment_id": 57,
-        "text": "Exactly.",
-        "keywords": [
-            "exactly"
-        ],
-        "summary": "Exactly."
-    },
-    {
-        "segment_id": 58,
-        "text": "And also had a whole classified document scandal and his classified documents were kept in various places in Mara Lago. And now there are interviews with former Mara Lago staff are saying , yeah, we just moved stuff around. And it seemed to be here.",
+        "segment_id": 11,
+        "title": "Moved Stuff Around",
+        "text": "I don't know what's going to be at top of mind for voters especially because the opposition can wait also has a pair of memory issues or end of that position. position and a host of legal issues. Couple of definitions at this point. Yeah, exactly. He's been doing all right. She's got a lot of time. Exactly. And also had a whole classified document scandal and his classified documents were kept in various places in Mara Lago. And now there are interviews with former Mara Lago staff are saying , yeah, we just moved stuff around. And it seemed to be here.",
         "keywords": [
             "whole classified document scandal",
             "former mara lago staff",
@@ -599,529 +140,129 @@
             "mara lago",
             "classified documents"
         ],
-        "summary": "ex-mara lago staff are saying , yeah, we just moved stuff around . and it seemed to be here."
+        "summary": "the opposition can wait also has a pair of memory issues or end of that position . he's been doing all right. she's got a lot of time. Exactly ."
     },
     {
-        "segment_id": 59,
-        "text": "That's not good.",
-        "keywords": [
-            "good"
-        ],
-        "summary": "That's not good."
-    },
-    {
-        "segment_id": 60,
-        "text": "But again, I don't know what it will mean for people voting in New York.",
-        "keywords": [
-            "people voting",
-            "new york",
-            "mean",
-            "know"
-        ],
-        "summary": "But again, I don't know what it will mean for people voting in New York."
-    },
-    {
-        "segment_id": 61,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 62,
-        "text": "I mean, my takeaway is if you are truly concerned about Joe Biden's memory or cognitive abilities, I would urge you to read or at least skim. It is 159 pages, the full transcripts of the interview.",
-        "keywords": [
-            "would urge",
-            "truly concerned",
-            "least skim",
-            "joe biden",
-            "full transcripts"
-        ],
-        "summary": "it is 159 pages, the full transcripts of the interview . the interview is a transcript of a 159-page interview with Joe Biden ."
-    },
-    {
-        "segment_id": 63,
-        "text": "It paints a much different portrait of Biden than her support in which it's called.",
-        "keywords": [
-            "much different portrait",
-            "support",
-            "paints",
-            "called",
-            "biden"
-        ],
-        "summary": "It paints a much different portrait of Biden than her support in which it's called."
-    },
-    {
-        "segment_id": 64,
-        "text": "Council very clearly cherry-picked, exaggerated, and editorialized in a way that absolutely wasn't necessary in order to explain why he chose not to bring charges. Just one example, in the report, her says Biden quote, did not remember even within several years when his son bowdied. Because what actually happened is that Biden was telling a story to her about why he started thinking about running for president.",
+        "segment_id": 12,
+        "title": "Much Different Portrait",
+        "text": "That's not good. But again, I don't know what it will mean for people voting in New York. Yeah. I mean, my takeaway is if you are truly concerned about Joe Biden's memory or cognitive abilities, I would urge you to read or at least skim. It is 159 pages, the full transcripts of the interview. It paints a much different portrait of Biden than her support in which it's called. Council very clearly cherry-picked, exaggerated, and editorialized in a way that absolutely wasn't necessary in order to explain why he chose not to bring charges. Just one example, in the report, her says Biden quote, did not remember even within several years when his son bowdied. Because what actually happened is that Biden was telling a story to her about why he started thinking about running for president.",
         "keywords": [
             "remember even within several years",
+            "much different portrait",
             "says biden quote",
-            "started thinking",
-            "son bowdied",
-            "one example"
+            "would urge",
+            "truly concerned"
         ],
-        "summary": "he was telling a story to her about why he chose not to bring charges . she says he didn't remember when his son bowdied . he started thinking about running for president ."
+        "summary": "the full transcripts of the interview are 159 pages . it paints a much different portrait of Joe Biden than her support in which it's called . if you are truly concerned about Biden's memory, I would urge you to read or at least skim ."
     },
     {
-        "segment_id": 65,
-        "text": "2017-2018, which involved a promise to his dying son. Biden said, what month did Boat die? Oh my god, May 30th. And then a White House lawyer interrupted to say 2015 and Biden said, was it 2015 he died? The lawyer said yes and Biden said it was 2015.",
-        "keywords": [
-            "white house lawyer interrupted",
-            "lawyer said yes",
-            "biden said",
-            "biden said",
-            "biden said"
-        ],
-        "summary": "a white house lawyer interrupted to say 2015 and Biden said, was it 2015 he died? the lawyer said yes and he said it was 2015."
-    },
-    {
-        "segment_id": 66,
-        "text": "So it's not her was completely lying but when you say, do not remember he. within several years when his son Bodai, you wouldn't know from that that he immediately knew what date it was and he just had to be corrected on the year as he was telling a very, very long story about why he ran first. Yeah, exactly.",
-        "keywords": [
-            "within several years",
-            "son bodai",
-            "ran first",
-            "long story",
-            "immediately knew"
-        ],
-        "summary": "bodai was a son of his son when he ran first . he just had to be corrected on the year as he told a very, very long story ."
-    },
-    {
-        "segment_id": 67,
-        "text": "And especially because I think if anyone has experienced tragedy, sometimes you remember every aspect of it, it happened, it is still taking place and sometimes little things fade away.",
+        "segment_id": 13,
+        "title": "Within Several Years",
+        "text": "2017-2018, which involved a promise to his dying son. Biden said, what month did Boat die? Oh my god, May 30th. And then a White House lawyer interrupted to say 2015 and Biden said, was it 2015 he died? The lawyer said yes and Biden said it was 2015. So it's not her was completely lying but when you say, do not remember he. within several years when his son Bodai, you wouldn't know from that that he immediately knew what date it was and he just had to be corrected on the year as he was telling a very, very long story about why he ran first. Yeah, exactly. And especially because I think if anyone has experienced tragedy, sometimes you remember every aspect of it, it happened, it is still taking place and sometimes little things fade away. Bye. You might remember I remember where I was when I found out that this person had passed away I can tell you everything about it I can tell you what the weather looked but what year?",
         "keywords": [
             "sometimes little things fade away",
+            "white house lawyer interrupted",
+            "within several years",
             "still taking place",
-            "remember every aspect",
-            "experienced tragedy",
-            "sometimes"
+            "lawyer said yes"
         ],
-        "summary": "if anyone has experienced tragedy, sometimes you remember every aspect of it, it happened, it is still taking place and sometimes little things fade away ."
+        "summary": "a white house lawyer interrupted to say 2015 and Biden said, was it 2015 he died? the lawyer said yes and biden said it was 2015 . he just had to be corrected on the year as he was telling a very long story about why he ran first ."
     },
     {
-        "segment_id": 68,
-        "text": "Bye.",
-        "keywords": [
-            "bye"
-        ],
-        "summary": "Bye."
-    },
-    {
-        "segment_id": 69,
-        "text": "You might remember I remember where I was when I found out that this person had passed away I can tell you everything about it I can tell you what the weather looked but what year?",
-        "keywords": [
-            "weather looked",
-            "passed away",
-            "might remember",
-            "remember",
-            "year"
-        ],
-        "summary": "you might remember I remember where I was when I found out that this person had passed away . I can tell you everything about it but what year?"
-    },
-    {
-        "segment_id": 70,
-        "text": "Not sure might need a moment and so that was a moment in which I Think that and I think representative rascans also made the point that there seemed to be I mean Republicans getting really upset about document handling seemed a little bit of a I'm giving aside I'm aware that side I is not ideal for a podcast format But I do think that there is a sense about being this hearing was not about doctors this hearing was about Biden should be charged with crimes and remove from the White House and who's taking place in the White House Donald Trump another person with documents issues who actually has been charged with man with poor memory. Well, how's the publicans called Robert heard to testify yesterday, so they could yell at him for not indicting Biden, generate some content for campaign ads. Here's an example from a Republican representative Tom Tiffini.",
+        "segment_id": 14,
+        "title": "Rascans Says He'S",
+        "text": "Not sure might need a moment and so that was a moment in which I Think that and I think representative rascans also made the point that there seemed to be I mean Republicans getting really upset about document handling seemed a little bit of a I'm giving aside I'm aware that side I is not ideal for a podcast format But I do think that there is a sense about being this hearing was not about doctors this hearing was about Biden should be charged with crimes and remove from the White House and who's taking place in the White House Donald Trump another person with documents issues who actually has been charged with man with poor memory. Well, how's the publicans called Robert heard to testify yesterday, so they could yell at him for not indicting Biden, generate some content for campaign ads. Here's an example from a Republican representative Tom Tiffini. So I want to thank you for the work that you did as far as you could, but unfortunately, you are part of the Pretorian Guard that guards the swamp out here in Washington, D.C. protecting the weeds. And... Crines. Yeah, and by the way if you don't if you don't think that Biden is gonna be tired Which not even really think because Robert her said it's not going to be and now it doesn't let their go to Peach him because they haven't found any evidence the warrants impeachment and it also and Ken Buck just retired So now they barely even have house majority let alone enough people to in peach him So he's that's not gonna happen by Zolt. Yeah, by Zolt and he's seen aisle even though So Robert heard you said he wasn't, , but anyway that's what they were trying to push. I don't think they successfully advanced the storyline about Biden's age in this hearing.",
         "keywords": [
             "white house donald trump another person",
+            "house majority let alone enough people",
             "mean republicans getting really upset",
             "think representative rascans also made",
-            "republican representative tom tiffini",
-            "publicans called robert heard"
+            "republican representative tom tiffini"
         ],
-        "summary": "rep. rascans also made the point that there seemed to be a little bit of a I'm giving aside . he said that the hearing was not about doctors this hearing was about Biden should be charged with crimes and remove from the White House and who's taking place in the white house Donald Trump another person with documents issues ."
+        "summary": "rascans says he's gonna be tired if he doesn't have a house majority . he says it's not gonna happen by Zolt and he has seen aisle even though he wasn't, but anyway that's what they were trying to push ."
     },
     {
-        "segment_id": 71,
-        "text": "So I want to thank you for the work that you did as far as you could, but unfortunately, you are part of the Pretorian Guard that guards the swamp out here in Washington, D.C. protecting the weeds.",
-        "keywords": [
-            "pretorian guard",
-            "work",
-            "weeds",
-            "washington",
-            "want"
-        ],
-        "summary": "pretorian guard guards swamp out here in washington, d.c. protecting the weeds ."
-    },
-    {
-        "segment_id": 72,
-        "text": "And... Crines.",
-        "keywords": [
-            "... crines"
-        ],
-        "summary": "And... Crines."
-    },
-    {
-        "segment_id": 73,
-        "text": "Yeah, and by the way if you don't if you don't think that Biden is gonna be tired Which not even really think because Robert her said it's not going to be and now it doesn't let their go to Peach him because they haven't found any evidence the warrants impeachment and it also and Ken Buck just retired So now they barely even have house majority let alone enough people to in peach him So he's that's not gonna happen by Zolt. Yeah, by Zolt and he's seen aisle even though So Robert heard you said he wasn't, , but anyway that's what they were trying to push. I don't think they successfully advanced the storyline about Biden's age in this hearing.",
-        "keywords": [
-            "house majority let alone enough people",
-            "seen aisle even though",
-            "even really think",
-            "barely even",
-            "warrants impeachment"
-        ],
-        "summary": "if you don't think that Biden is gonna be tired Which not even really think because it's not going to be and now it doesn't let their go to Peach him because they haven't found any evidence the warrants impeachment and it also and Ken Buck just retired So now they barely even have house majority let alone enough people to in peach him ."
-    },
-    {
-        "segment_id": 74,
-        "text": "Right, exactly. Because that's, I mean, politics so much is about storylines and about introducing ideas into the media zeitgeist. I am a part of the media zeitgeist. I do zeitgeist, you think it's on occasion.",
-        "keywords": [
-            "introducing ideas",
-            "media zeitgeist",
-            "media zeitgeist",
-            "zeitgeist",
-            "think"
-        ],
-        "summary": "politics so much is about storylines and about introducing ideas into the media zeitgeist . you think it's on occasion ."
-    },
-    {
-        "segment_id": 75,
-        "text": "And there is an idea of if we talk a lot about how Biden is old Then the media will have to report that he is old and then they'll have to do round table discussions about how old is Joe Biden He's so old that he might remember true and I don't know and that's the point But I do think that the challenge is that Trump is also old.",
-        "keywords": [
-            "round table discussions",
-            "might remember true",
-            "joe biden",
-            "also old",
-            "biden"
-        ],
-        "summary": "the media will have to report that he is old and then they'll have to do round table discussions about how old is Joe Biden . the challenge is that Trump is also old ."
-    },
-    {
-        "segment_id": 76,
-        "text": "I'm aware that that is not a discussion that we have all the time.",
-        "keywords": [
-            "time",
-            "discussion",
-            "aware"
-        ],
-        "summary": "I'm aware that that is not a discussion that we have all the time."
-    },
-    {
-        "segment_id": 77,
-        "text": "I think that a couple of people, I think Mikaikopin's, he's a great writer.",
-        "keywords": [
-            "great writer",
-            "think mikaikopin",
-            "think",
-            "people",
-            "couple"
-        ],
-        "summary": "I think that a couple of people, I think Mikaikopin's, he's a great writer."
-    },
-    {
-        "segment_id": 78,
-        "text": "The Atlantic has made the point that so much of Trump's weirdness is baked in with American voters and with you the media that if you just keep saying weird things Trump says, there's a certain moment.",
+        "segment_id": 15,
+        "title": "Round Table Discussions",
+        "text": "Right, exactly. Because that's, I mean, politics so much is about storylines and about introducing ideas into the media zeitgeist. I am a part of the media zeitgeist. I do zeitgeist, you think it's on occasion. And there is an idea of if we talk a lot about how Biden is old Then the media will have to report that he is old and then they'll have to do round table discussions about how old is Joe Biden He's so old that he might remember true and I don't know and that's the point But I do think that the challenge is that Trump is also old. I'm aware that that is not a discussion that we have all the time. I think that a couple of people, I think Mikaikopin's, he's a great writer. The Atlantic has made the point that so much of Trump's weirdness is baked in with American voters and with you the media that if you just keep saying weird things Trump says, there's a certain moment. There's a sports writer, he owns the Ringer Bill Simmons. He came up with a singing year's goal, called the Mike Tyson Zone, which is Mike Tyson, if you hear that Mike Tyson did any, Mike Tyson jumped off the Eiffel Tower.",
         "keywords": [
             "keep saying weird things trump says",
-            "certain moment",
-            "american voters",
-            "trump",
-            "weirdness"
-        ],
-        "summary": "the Atlantic has made the point that so much of Trump's weirdness is baked in with american voters and with you the media that if you just keep saying weird things, there's a certain moment ."
-    },
-    {
-        "segment_id": 79,
-        "text": "There's a sports writer, he owns the Ringer Bill Simmons. He came up with a singing year's goal, called the Mike Tyson Zone, which is Mike Tyson, if you hear that Mike Tyson did any, Mike Tyson jumped off the Eiffel Tower.",
-        "keywords": [
+            "round table discussions",
             "ringer bill simmons",
-            "mike tyson zone",
-            "mike tyson jumped",
-            "mike tyson",
-            "mike tyson"
+            "might remember true",
+            "mike tyson zone"
         ],
-        "summary": "there's a sports writer, he owns the Ringer Bill Simmons . he came up with a singing year's goal, called the Mike Tyson Zone ."
+        "summary": "politics so much is about storylines and about introducing ideas into the media zeitgeist . the media will have to report that he is old and then they'll have to do round table discussions about how old is Joe Biden . if you just keep saying weird things Trump says, there's a certain moment ."
     },
     {
-        "segment_id": 80,
-        "text": "You'd be , yeah, probably.",
-        "keywords": [
-            "yeah",
-            "probably"
-        ],
-        "summary": "You'd be , yeah, probably."
-    },
-    {
-        "segment_id": 81,
-        "text": ", there is a certain zone and the Donald Trump is within the Mike Tyson zone. Of , if I heard, if you told me that Donald Trump went on a long rant about the Netflix revival of Gilmore Girls and how terrible it was, I'd be , yeah.",
+        "segment_id": 16,
+        "title": "Mike Tyson Zone",
+        "text": "You'd be , yeah, probably. , there is a certain zone and the Donald Trump is within the Mike Tyson zone. Of , if I heard, if you told me that Donald Trump went on a long rant about the Netflix revival of Gilmore Girls and how terrible it was, I'd be , yeah. 100% check that out. No, no, no, no. I'm , now I'm going to incept myself into believing that this happened, but , there, it, it, this hearing wasn't effort to put this conversation about Biden's age back into media spaces and make the media talk about it. And I think that the media will continue to talk about Biden's age, because I do think it is relevant for obvious reasons. reasons, namely, he is elderly, actuarial tables are actuarial tables for reasons. But I also think that on this particular issue, the documents issue, I don't think that they got what they wanted out of them. It's the same way that the Biden impeachment didn't go anywhere. You can bring a horse to water, but you cannot make it into a document scan.",
         "keywords": [
             "mike tyson zone",
             "donald trump went",
             "donald trump",
             "certain zone",
-            "netflix revival"
+            "particular issue"
         ],
-        "summary": "if you told me that Donald Trump went on a long rant about the Netflix revival of Gilmore Girls and how terrible it was, I'd be , yeah."
+        "summary": "if you told me that Donald Trump went on a long rant about the Netflix revival of Gilmore Girls and how terrible it was, I'd be , yeah, probably. 100% check that out. No, no, no. I'm going to incept myself into believing that this happened, but this hearing wasn't effort to put this conversation about Biden's age back into media spaces ."
     },
     {
-        "segment_id": 82,
-        "text": "100% check that out.",
-        "keywords": [
-            "check",
-            "100"
-        ],
-        "summary": "100% check that out."
-    },
-    {
-        "segment_id": 83,
-        "text": "No, no, no, no. I'm , now I'm going to incept myself into believing that this happened, but , there, it, it, this hearing wasn't effort to put this conversation about Biden's age back into media spaces and make the media talk about it. And I think that the media will continue to talk about Biden's age, because I do think it is relevant for obvious reasons. reasons, namely, he is elderly, actuarial tables are actuarial tables for reasons. But I also think that on this particular issue, the documents issue, I don't think that they got what they wanted out of them. It's the same way that the Biden impeachment didn't go anywhere.",
-        "keywords": [
-            "particular issue",
-            "go anywhere",
-            "documents issue",
-            "actuarial tables",
-            "actuarial tables"
-        ],
-        "summary": "the media will continue to talk about Biden's age . it's relevant for obvious reasons, namely, he is elderly . the documents issue, I don't think that they got what they wanted ."
-    },
-    {
-        "segment_id": 84,
-        "text": "You can bring a horse to water, but you cannot make it into a document scan.",
-        "keywords": [
-            "document scan",
-            "cannot make",
-            "water",
-            "horse",
-            "bring"
-        ],
-        "summary": "You can bring a horse to water, but you cannot make it into a document scan."
-    },
-    {
-        "segment_id": 85,
-        "text": "As the saying says.",
-        "keywords": [
-            "saying says"
-        ],
-        "summary": "As the saying says."
-    },
-    {
-        "segment_id": 86,
-        "text": "I think... Part of their problem is that the hearing came, , several days after a state of the union whereby Fights D was a joyful warrior and might take on the city of unions It's not gonna be a gamechangers and state of the unions often art gamechangers But they usually don't lead to any change in appropriating or or bumps in the polls But I do think it was a blueprint for Biden for the campaign if he is that out on the campaign trail or when we see him in public from now until November he's going to be a lot better off but what did you think? Yeah I think that how the state of the union is perceived is always it's always challenging because you are asking people who already have a perception of the person giving the state of the union you cannot bring in people who have literally never heard of Joe Biden watch the speech, how do you think of this guy did?",
+        "segment_id": 17,
+        "title": "Republicans Keep Setting",
+        "text": "As the saying says. I think... Part of their problem is that the hearing came, , several days after a state of the union whereby Fights D was a joyful warrior and might take on the city of unions It's not gonna be a gamechangers and state of the unions often art gamechangers But they usually don't lead to any change in appropriating or or bumps in the polls But I do think it was a blueprint for Biden for the campaign if he is that out on the campaign trail or when we see him in public from now until November he's going to be a lot better off but what did you think? Yeah I think that how the state of the union is perceived is always it's always challenging because you are asking people who already have a perception of the person giving the state of the union you cannot bring in people who have literally never heard of Joe Biden watch the speech, how do you think of this guy did? Yeah. But that's not how this works. And I do think how his, I don't think it's going to have any impact on pulling. But I do think that Republicans keep setting the expectations for Joe Biden on the floor. We saw this in 2020. And we've seen this over and over again. That Joe Biden is supposed to be barely a- Joe Biden is part of that company of the elites. You are part of the guard who defends the swamp.",
         "keywords": [
             "unions often art gamechangers",
-            "literally never heard",
-            "joe biden watch",
-            "union whereby fights",
-            "think ... part"
-        ],
-        "summary": "the hearing came several days after a state of the union whereby Fights D was a joyful warrior and might take on the city of unions It's not gonna be a gamechangers but they usually don't lead to any change in appropriating or bumps in the polls . if he is out on the campaign trail or when we see him in public from now until November he's going to be better off ."
-    },
-    {
-        "segment_id": 87,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 88,
-        "text": "But that's not how this works.",
-        "keywords": [
-            "works"
-        ],
-        "summary": "But that's not how this works."
-    },
-    {
-        "segment_id": 89,
-        "text": "And I do think how his, I don't think it's going to have any impact on pulling. But I do think that Republicans keep setting the expectations for Joe Biden on the floor.",
-        "keywords": [
             "republicans keep setting",
-            "joe biden",
-            "think",
-            "think",
-            "think"
+            "literally never heard",
+            "union whereby fights",
+            "joe biden watch"
         ],
-        "summary": "I don't think it's going to have any impact on pulling . I do think that Republicans keep setting the expectations for Joe Biden on the floor ."
+        "summary": "the hearing came several days after a state of the union whereby Fights D was a joyful warrior and might take on the city of unions It's not gonna be a gamechangers But they usually don't lead to any change in appropriating or bumps in the polls . but what did you think? I think that how the state is perceived is always it's always challenging because you are asking people who already have a perception ."
     },
     {
-        "segment_id": 90,
-        "text": "We saw this in 2020. And we've seen this over and over again.",
-        "keywords": [
-            "seen",
-            "saw",
-            "2020"
-        ],
-        "summary": "We saw this in 2020. And we've seen this over and over again."
-    },
-    {
-        "segment_id": 91,
-        "text": "That Joe Biden is supposed to be barely a- Joe Biden is part of that company of the elites.",
-        "keywords": [
-            "joe biden",
-            "joe biden",
-            "supposed",
-            "part",
-            "elites"
-        ],
-        "summary": "That Joe Biden is supposed to be barely a- Joe Biden is part of that company of the elites."
-    },
-    {
-        "segment_id": 92,
-        "text": "You are part of the guard who defends the swamp.",
-        "keywords": [
-            "swamp",
-            "part",
-            "guard",
-            "defends"
-        ],
-        "summary": "You are part of the guard who defends the swamp."
-    },
-    {
-        "segment_id": 93,
-        "text": "Unfortunately, it was very polite to accept it.",
-        "keywords": [
-            "unfortunately",
-            "polite",
-            "accept"
-        ],
-        "summary": "Unfortunately, it was very polite to accept it."
-    },
-    {
-        "segment_id": 94,
-        "text": "Just before the hearing has Democrats released the full transcript of her interview with Biden, which at one point showed the special counsel contradicting his own characterization of Biden's memory.",
-        "keywords": [
-            "special counsel contradicting",
-            "one point showed",
-            "full transcript",
-            "democrats released",
-            "memory"
-        ],
-        "summary": "the full transcript of her interview with Biden was released before the hearing . the special counsel contradicted his own characterization of Biden's memory ."
-    },
-    {
-        "segment_id": 95,
-        "text": "Let's listen.",
-        "keywords": [
-            "listen",
-            "let"
-        ],
-        "summary": "Let's listen."
-    },
-    {
-        "segment_id": 96,
-        "text": "I now want to turn you to the transcripts.",
-        "keywords": [
-            "want",
-            "turn",
-            "transcripts"
-        ],
-        "summary": "I now want to turn you to the transcripts."
-    },
-    {
-        "segment_id": 97,
-        "text": "life.",
-        "keywords": [
-            "life"
-        ],
-        "summary": "life."
-    },
-    {
-        "segment_id": 98,
-        "text": "He is supposed to be unable to do literally anything and that he will do anything. He will he will appear to be a member of Human Race in Goodston and then Republicans are well he was loud. He was very loud. He seemed annoyed and at a certain point Maybe set your expectations for Joe Biden slightly above Comitose I think that that is the challenge here if you have Baked in this idea that Joe Biden is Seenile and then Joe Biden does things that make it obvious that he is not seen.",
+        "segment_id": 18,
+        "title": "Julian Zelizer: It Was Po",
+        "text": "Unfortunately, it was very polite to accept it. Just before the hearing has Democrats released the full transcript of her interview with Biden, which at one point showed the special counsel contradicting his own characterization of Biden's memory. Let's listen. I now want to turn you to the transcripts. life. He is supposed to be unable to do literally anything and that he will do anything. He will he will appear to be a member of Human Race in Goodston and then Republicans are well he was loud. He was very loud. He seemed annoyed and at a certain point Maybe set your expectations for Joe Biden slightly above Comitose I think that that is the challenge here if you have Baked in this idea that Joe Biden is Seenile and then Joe Biden does things that make it obvious that he is not seen. I think that You are ignoring your Republican things that are actually things you go after.",
         "keywords": [
             "certain point maybe set",
+            "one point showed",
+            "special counsel contradicting",
             "joe biden slightly",
-            "joe biden",
-            "joe biden",
-            "seemed annoyed"
+            "joe biden"
         ],
-        "summary": "Joe Biden is supposed to be unable to do anything and that he will do anything . he seems annoyed and at a certain point he was very loud ."
+        "summary": "julian zelizer: it was polite to accept the full transcript of her interview with Biden . he says he is supposed to be unable to do anything and that he will do anything . you are ignoring your Republican things that are actually things you go after, he writes ."
     },
     {
-        "segment_id": 99,
-        "text": "I think that You are ignoring your Republican things that are actually things you go after.",
-        "keywords": [
-            "republican things",
-            "actually things",
-            "think",
-            "ignoring",
-            "go"
-        ],
-        "summary": "I think that You are ignoring your Republican things that are actually things you go after."
-    },
-    {
-        "segment_id": 100,
-        "text": "So by then, you go after to buy not any number of subjects. You go after the withdrawal from Afghanistan or any number of actual policy issues. This is me trying to make the selection about policy. Well, it will not be about policy.",
-        "keywords": [
-            "actual policy issues",
-            "policy",
-            "policy",
-            "withdrawal",
-            "well"
-        ],
-        "summary": "you go after the withdrawal from Afghanistan or any number of actual policy issues . this is me trying to make the selection ."
-    },
-    {
-        "segment_id": 101,
-        "text": "I know that. I know that. But , I think that it just, it's so easy. It's so easy to just be , Oh, he's old and can't do anything. Whereas Donald Trump, not old, not weird, is, , this vital person, a Ben Garrison comic.",
+        "segment_id": 19,
+        "title": "Whereas Donald Trump",
+        "text": "So by then, you go after to buy not any number of subjects. You go after the withdrawal from Afghanistan or any number of actual policy issues. This is me trying to make the selection about policy. Well, it will not be about policy. I know that. I know that. But , I think that it just, it's so easy. It's so easy to just be , Oh, he's old and can't do anything. Whereas Donald Trump, not old, not weird, is, , this vital person, a Ben Garrison comic. And it keeps not working and they keep doing over and over and over again.",
         "keywords": [
             "whereas donald trump",
             "ben garrison comic",
+            "actual policy issues",
             "vital person",
-            "weird",
-            "think"
+            "policy"
         ],
-        "summary": "it's so easy to just be , Oh, he's old and can't do anything . he is a vital person, a Ben Garrison comic ."
+        "summary": "it's so easy to just be , Oh, he's old and can't do anything . it keeps not working and they keep doing over and over again ."
     },
     {
-        "segment_id": 102,
-        "text": "And it keeps not working and they keep doing over and over and over again.",
-        "keywords": [
-            "working",
-            "keeps",
-            "keep"
-        ],
-        "summary": "And it keeps not working and they keep doing over and over and over again."
-    },
-    {
-        "segment_id": 103,
-        "text": "I remember during the early months of the 2012 reelect. the Romney people tried out a line on Obama that was, , he's a decent man who was a historic president and we're so glad that he made history, but he just hasn't been able to turn the economy around and we were much more afraid of that line of attack than we were what they ended up with.",
-        "keywords": [
-            "romney people tried",
-            "made history",
-            "historic president",
-            "economy around",
-            "early months"
-        ],
-        "summary": "the people tried out a line on Obama that was, , he's a decent man who was a historic president . he just hasn't been able to turn the economy around and we were much more afraid of that line of attack than they ended up with ."
-    },
-    {
-        "segment_id": 104,
-        "text": "by the end, which is , , he did bend gossy.",
-        "keywords": [
-            "bend gossy",
-            "end"
-        ],
-        "summary": "by the end, which is , , he did bend gossy."
-    },
-    {
-        "segment_id": 105,
-        "text": "And because once again, the Republicans let the fringe take over the messaging.",
-        "keywords": [
-            "republicans let",
-            "fringe take",
-            "messaging"
-        ],
-        "summary": "And because once again, the Republicans let the fringe take over the messaging."
-    },
-    {
-        "segment_id": 106,
-        "text": "And it's just not as it's not the people had debts about Obama, but they didn't believe that he was some evil, whatever that they painted him up to be. And that is the same thing that Republicans would fight. Right. And I think that that's something, , 20s, Mitt Romney, why? to talk about the economy or the very specific issues that I think were were tethered to actual policies upon which you could actually criticize Barack Obama whose actual polling numbers were not that great in 2011-2012.",
+        "segment_id": 20,
+        "title": "Mitt Romney",
+        "text": "I remember during the early months of the 2012 reelect. the Romney people tried out a line on Obama that was, , he's a decent man who was a historic president and we're so glad that he made history, but he just hasn't been able to turn the economy around and we were much more afraid of that line of attack than we were what they ended up with. by the end, which is , , he did bend gossy. And because once again, the Republicans let the fringe take over the messaging. And it's just not as it's not the people had debts about Obama, but they didn't believe that he was some evil, whatever that they painted him up to be. And that is the same thing that Republicans would fight. Right. And I think that that's something, , 20s, Mitt Romney, why? to talk about the economy or the very specific issues that I think were were tethered to actual policies upon which you could actually criticize Barack Obama whose actual polling numbers were not that great in 2011-2012.",
         "keywords": [
             "could actually criticize barack obama whose actual polling numbers",
             "actual policies upon",
             "republicans would fight",
-            "obama",
-            "specific issues"
+            "romney people tried",
+            "republicans let"
         ],
-        "summary": "john avlon: i think that's something, 20s, Mitt Romney, why? he says he's tethered to actual policies on which you could criticize Barack Obama whose actual polling numbers were not that great in 2011-2012 ."
+        "summary": "john avlon: reelections were tethered to actual policies on which you could criticize Barack Obama . he says he's a decent man who was a historic president and we're so glad that he made history, but we were much more afraid of that line of attack than we were what they ended up with . and that's something, 20s, Mitt Romney, why?"
     },
     {
-        "segment_id": 107,
-        "text": "Right? No. Due to any number of things and the GOP media base was no! Benghazi Flash, orally takes flash. Oh, yeah, for God of life. Extremely strange. , oh, I've never, I will never forget about Orally Tates.",
+        "segment_id": 21,
+        "title": "Benghazi Flash",
+        "text": "Right? No. Due to any number of things and the GOP media base was no! Benghazi Flash, orally takes flash. Oh, yeah, for God of life. Extremely strange. , oh, I've never, I will never forget about Orally Tates. You can't take that away from me.",
         "keywords": [
             "gop media base",
             "orally takes flash",
@@ -1132,367 +273,100 @@
         "summary": "Benghazi Flash, orally takes flash. oh, yeah, for God of life. Extremely strange."
     },
     {
-        "segment_id": 108,
-        "text": "You can't take that away from me.",
-        "keywords": [
-            "take",
-            "away"
-        ],
-        "summary": "You can't take that away from me."
-    },
-    {
-        "segment_id": 109,
-        "text": "But , it is interesting how, I mean, this, I mean, it's a, it's a cultural discussion. His, Biden's age is an easier conversation to have that everyone makes sense of.",
-        "keywords": [
-            "everyone makes sense",
-            "easier conversation",
-            "cultural discussion",
-            "mean",
-            "mean"
-        ],
-        "summary": "Biden's age is an easier conversation to have that everyone makes sense of . his age is a, it's a cultural discussion ."
-    },
-    {
-        "segment_id": 110,
-        "text": "When talking about withdrawing from Afghanistan gets complicated because... a lot of people wanted to withdraw from Afghanistan and everyone was always going to be mad at the person who actually did. People to be mad about the economy or about economics or about inflation but all of that is a little challenging to talk about but he's old that's easy. And he's saying I'll never that's something that people understand. It just happens that it keeps not necessarily big.",
-        "keywords": [
-            "afghanistan gets complicated",
-            "necessarily big",
-            "little challenging",
-            "always going",
-            "people wanted"
-        ],
-        "summary": "a lot of people wanted to withdraw from Afghanistan and everyone was always going to be mad at the person who actually did . he's saying I'll never that's something people understand . it just happens that it keeps not necessarily big ."
-    },
-    {
-        "segment_id": 111,
-        "text": "right yeah and the truth is he's a well-meaning elder man true can remember just with mind-numbing detail all kinds of stories from his 81 years of this art and we'll tell those stories to you ad nausea yeah yeah and I have been it is the Joe Biden in that transcript is to Joe Biden anyone who and day one page 47. You said to President Biden you have appeared to have a photo graphic understanding and recalled the house. Did you say that to President Biden?",
+        "segment_id": 22,
+        "title": "Photo Graphic Understanding",
+        "text": "But , it is interesting how, I mean, this, I mean, it's a, it's a cultural discussion. His, Biden's age is an easier conversation to have that everyone makes sense of. When talking about withdrawing from Afghanistan gets complicated because... a lot of people wanted to withdraw from Afghanistan and everyone was always going to be mad at the person who actually did. People to be mad about the economy or about economics or about inflation but all of that is a little challenging to talk about but he's old that's easy. And he's saying I'll never that's something that people understand. It just happens that it keeps not necessarily big. right yeah and the truth is he's a well-meaning elder man true can remember just with mind-numbing detail all kinds of stories from his 81 years of this art and we'll tell those stories to you ad nausea yeah yeah and I have been it is the Joe Biden in that transcript is to Joe Biden anyone who and day one page 47. You said to President Biden you have appeared to have a photo graphic understanding and recalled the house. Did you say that to President Biden?",
         "keywords": [
             "meaning elder man true",
             "day one page 47",
             "ad nausea yeah yeah",
             "photo graphic understanding",
-            "joe biden anyone"
+            "everyone makes sense"
         ],
-        "summary": "you said to President Biden you have appeared to have a photo graphic understanding and recalled the house ."
+        "summary": "he's a well-meaning elder man true can remember just with mind-numbing detail all kinds of stories from his 81 years of this art and we'll tell those stories to you ad nausea yeah yeah and the truth is he is the Joe Biden in that transcript is to anyone who and day one page 47."
     },
     {
-        "segment_id": 112,
-        "text": "Those words do appear on page 47 of the transfer.",
+        "segment_id": 23,
+        "title": "Knows Joe Biden",
+        "text": "Those words do appear on page 47 of the transfer. Photo graphic is what you said, is that right? knows Joe Biden who has been in meetings with Joe Biden, who has talked to Joe Biden, we have all heard those stories where he has a, the mental acuity is sharp, right? And he remembers a lot. He goes on at length. Right. And he tells these stories and some of the stories are a little pookie, might make your roll your eyes time to time, but the guy is sharp. He's really sharp. So the house is on a real tear this week on the heels of that very successful special council hearing.",
         "keywords": [
-            "page 47",
-            "words",
-            "transfer",
-            "appear"
-        ],
-        "summary": "Those words do appear on page 47 of the transfer."
-    },
-    {
-        "segment_id": 113,
-        "text": "Photo graphic is what you said, is that right? knows Joe Biden who has been in meetings with Joe Biden, who has talked to Joe Biden, we have all heard those stories where he has a, the mental acuity is sharp, right? And he remembers a lot. He goes on at length.",
-        "keywords": [
+            "successful special council hearing",
             "knows joe biden",
             "joe biden",
             "joe biden",
-            "photo graphic",
-            "mental acuity"
+            "real tear"
         ],
-        "summary": "the mental acuity is sharp, right? knows Joe Biden who has been in meetings with him . we have all heard those stories where he has a ."
+        "summary": "the house is on a real tear this week on the heels of that very successful special council hearing . he tells the stories where he has a, the mental acuity is sharp, right?"
     },
     {
-        "segment_id": 114,
-        "text": "Right.",
-        "keywords": [
-            "right"
-        ],
-        "summary": "Right."
-    },
-    {
-        "segment_id": 115,
-        "text": "And he tells these stories and some of the stories are a little pookie, might make your roll your eyes time to time, but the guy is sharp. He's really sharp. So the house is on a real tear this week on the heels of that very successful special council hearing.",
-        "keywords": [
-            "successful special council hearing",
-            "real tear",
-            "might make",
-            "little pookie",
-            "really sharp"
-        ],
-        "summary": "the house is on a real tear this week on the heels of that very successful special council hearing."
-    },
-    {
-        "segment_id": 116,
-        "text": "They just passed a bill, 352 to 65, that would ban TikTok from all US app stores, unless by dance. The Chinese company their own social media. to sell TikTok to an American-based owner within 165 days.",
+        "segment_id": 24,
+        "title": "Overwhelmingly Bipartisan Support",
+        "text": "They just passed a bill, 352 to 65, that would ban TikTok from all US app stores, unless by dance. The Chinese company their own social media. to sell TikTok to an American-based owner within 165 days. The legislation has overwhelmingly bipartisan support. It also has support from President Biden. This is all based on assessments from the intelligence community and the FBI that TikTok closes a threat to national security. They believe the Chinese government will use or is using the app to spy on American users. Spread Pop Propaganda. and interfere in our elections. The bill may or may not pass the Senate, we don't know yet, but it does have one brand new opponent, Donald Trump, who tried to ban TikTok when he was president, but just changed his mind recently after a fierce lobbying campaign by people with financial ties to TikTok, including a billionaire donor, and Kellyanne Conway.",
         "keywords": [
             "based owner within 165 days",
-            "us app stores",
-            "would ban tiktok",
-            "sell tiktok",
-            "social media"
-        ],
-        "summary": "the bill would ban TikTok from all app stores unless by dance . to sell to an american-based owner within 165 days ."
-    },
-    {
-        "segment_id": 117,
-        "text": "The legislation has overwhelmingly bipartisan support. It also has support from President Biden. This is all based on assessments from the intelligence community and the FBI that TikTok closes a threat to national security. They believe the Chinese government will use or is using the app to spy on American users. Spread Pop Propaganda. and interfere in our elections. The bill may or may not pass the Senate, we don't know yet, but it does have one brand new opponent, Donald Trump, who tried to ban TikTok when he was president, but just changed his mind recently after a fierce lobbying campaign by people with financial ties to TikTok, including a billionaire donor, and Kellyanne Conway.",
-        "keywords": [
             "one brand new opponent",
             "spread pop propaganda",
             "fierce lobbying campaign",
-            "overwhelmingly bipartisan support",
-            "national security"
+            "us app stores"
         ],
-        "summary": "the bill may or may not pass the Senate, we don't know yet . it does have one brand new opponent, Donald Trump ."
+        "summary": "the bill would ban TikTok from all US app stores unless by dance . the bill has overwhelmingly bipartisan support . it also has support from president biden ."
     },
     {
-        "segment_id": 118,
-        "text": "Imagine that.",
-        "keywords": [
-            "imagine"
-        ],
-        "summary": "Imagine that."
-    },
-    {
-        "segment_id": 119,
-        "text": "All right, before we get to the Trump of it all, , What do you think of the band or the potential band?",
-        "keywords": [
-            "potential band",
-            "band",
-            "trump",
-            "think",
-            "right"
-        ],
-        "summary": "before we get to the Trump of it all, what do you think of the band or the potential band?"
-    },
-    {
-        "segment_id": 120,
-        "text": "So I think that there's in a normal objective conversation about this.",
+        "segment_id": 25,
+        "title": "Normal Objective Conversation",
+        "text": "Imagine that. All right, before we get to the Trump of it all, , What do you think of the band or the potential band? So I think that there's in a normal objective conversation about this. I think that the band that is not really a band to be quick. Yes. If we go back to 2020, there's another app that's very popular in the case of the controversial, the Hussies exact same issue. Grinder, which... Some of you might be extremely familiar with and some of you are , what's Grindr?",
         "keywords": [
             "normal objective conversation",
-            "think"
-        ],
-        "summary": "So I think that there's in a normal objective conversation about this."
-    },
-    {
-        "segment_id": 121,
-        "text": "I think that the band that is not really a band to be quick.",
-        "keywords": [
-            "think",
-            "really",
-            "quick",
-            "band",
-            "band"
-        ],
-        "summary": "I think that the band that is not really a band to be quick."
-    },
-    {
-        "segment_id": 122,
-        "text": "Yes.",
-        "keywords": [
-            "yes"
-        ],
-        "summary": "Yes."
-    },
-    {
-        "segment_id": 123,
-        "text": "If we go back to 2020, there's another app that's very popular in the case of the controversial, the Hussies exact same issue.",
-        "keywords": [
             "hussies exact",
             "go back",
-            "another app",
-            "popular",
-            "issue"
-        ],
-        "summary": "if we go back to 2020, there's another app that's popular in the case of the controversial, the Hussies exact same issue."
-    },
-    {
-        "segment_id": 124,
-        "text": "Grinder, which... Some of you might be extremely familiar with and some of you are , what's Grindr?",
-        "keywords": [
             "extremely familiar",
-            "might",
-            "grindr",
-            "grinder",
-            "..."
+            "another app"
         ],
-        "summary": "Grinder, which... Some of you might be extremely familiar with and some of you are , what's Grindr?"
+        "summary": "if we go back to 2020, there's another app that's very popular in the case of the controversial, the Hussies exact same issue . some of you might be extremely familiar with and some are, what's Grindr?"
     },
     {
-        "segment_id": 125,
-        "text": "And they're also lying.",
-        "keywords": [
-            "also lying"
-        ],
-        "summary": "And they're also lying."
-    },
-    {
-        "segment_id": 126,
-        "text": "You never know.",
-        "keywords": [
-            "never know"
-        ],
-        "summary": "You never know."
-    },
-    {
-        "segment_id": 127,
-        "text": "So Grindr, 2020 owned by a Chinese company, Poonland, US forces the sale of Grindr to stand Vicente acquisition because of security concerns. And people are still grinding.",
-        "keywords": [
-            "stand vicente acquisition",
-            "us forces",
-            "still grinding",
-            "security concerns",
-            "chinese company"
-        ],
-        "summary": "Grindr, 2020 owned by a Chinese company, Poonland, US forces the sale of the company to stand Vicente acquisition because of security concerns."
-    },
-    {
-        "segment_id": 128,
-        "text": "Is that what I'm not going to ask? Someone will email me to tell me.",
-        "keywords": [
-            "tell",
-            "someone",
-            "going",
-            "email",
-            "ask"
-        ],
-        "summary": "Is that what I'm not going to ask? Someone will email me to tell me."
-    },
-    {
-        "segment_id": 129,
-        "text": "What the purpose one uses is...",
-        "keywords": [
-            "purpose one uses",
-            "..."
-        ],
-        "summary": "What the purpose one uses is..."
-    },
-    {
-        "segment_id": 130,
-        "text": "Still grindin', still grindin', got the episode title. Oh. I, I'm, I'm leaving out that.",
+        "segment_id": 26,
+        "title": "Grindr 2020",
+        "text": "And they're also lying. You never know. So Grindr, 2020 owned by a Chinese company, Poonland, US forces the sale of Grindr to stand Vicente acquisition because of security concerns. And people are still grinding. Is that what I'm not going to ask? Someone will email me to tell me. What the purpose one uses is... Still grindin', still grindin', got the episode title. Oh. I, I'm, I'm leaving out that.",
         "keywords": [
             "still grindin ', still grindin ', got",
-            "episode title",
-            "oh",
-            "leaving"
+            "stand vicente acquisition",
+            "purpose one uses",
+            "still grinding",
+            "us forces"
         ],
-        "summary": "Still grindin', still grindin', got the episode title. Oh. I, I'm, I'm leaving out that."
+        "summary": "Grindr 2020 owned by a Chinese company, Poonland, US forces the sale of the company to stand Vicente acquisition because of security concerns . people are still grinding. I, I'm, I am leaving out that ."
     },
     {
-        "segment_id": 131,
-        "text": "So there are examples for this.",
-        "keywords": [
-            "examples"
-        ],
-        "summary": "So there are examples for this."
-    },
-    {
-        "segment_id": 132,
-        "text": "This is not, no, martyck talk ever.",
-        "keywords": [
-            "martyck talk ever"
-        ],
-        "summary": "This is not, no, martyck talk ever."
-    },
-    {
-        "segment_id": 133,
-        "text": "This is sell it to an American subsidiary, sell it to an American company. Which is, I think it seems to mean a reasonable... ask if you would to continue having TikTok in the United States.",
+        "segment_id": 27,
+        "title": "Reasonable ... Ask",
+        "text": "So there are examples for this. This is not, no, martyck talk ever. This is sell it to an American subsidiary, sell it to an American company. Which is, I think it seems to mean a reasonable... ask if you would to continue having TikTok in the United States. , it's a thing that you can do. But then it's not about objectively what TikTok actually is. It is about what TikTok means. If you're a former vice president, Mike Pence, you believe it is digital fentanyl? Which, I don't entirely understand what that means or what- pencil, pencil is, but that's neither here nor there.",
         "keywords": [
             "reasonable ... ask",
-            "united states",
-            "american subsidiary",
-            "american company",
-            "would"
-        ],
-        "summary": "this is sell it to an american subsidiary, sell it . ask if you would to continue having TikTok in the united states ."
-    },
-    {
-        "segment_id": 134,
-        "text": ", it's a thing that you can do.",
-        "keywords": [
-            "thing"
-        ],
-        "summary": ", it's a thing that you can do."
-    },
-    {
-        "segment_id": 135,
-        "text": "But then it's not about objectively what TikTok actually is. It is about what TikTok means.",
-        "keywords": [
-            "tiktok means",
-            "tiktok actually",
-            "objectively"
-        ],
-        "summary": "But then it's not about objectively what TikTok actually is. It is about what TikTok means."
-    },
-    {
-        "segment_id": 136,
-        "text": "If you're a former vice president, Mike Pence, you believe it is digital fentanyl? Which, I don't entirely understand what that means or what- pencil, pencil is, but that's neither here nor there.",
-        "keywords": [
+            "martyck talk ever",
             "former vice president",
-            "mike pence",
-            "entirely understand",
-            "digital fentanyl",
-            "pencil"
+            "united states",
+            "mike pence"
         ],
-        "summary": "if you're a former vice president, you believe it is digital fentanyl? I don't understand what that means or what- pencil, pencil is ."
+        "summary": "if you're a former vice president, you believe it is digital fentanyl . it's about what TikTok actually means, but that's neither here nor there ."
     },
     {
-        "segment_id": 137,
-        "text": "If you are Rand Paul, you believe that this is all deeply unfair. There are obviously a lot of libertarians with , I think on many issues I agree with them with regard to a time to ban TikTok or limit TikTok for some of the arguments against TikTok that I've seen from Republican seem to literally be , it's poisoning our children with liberal nonsense. , the idea that in China TikTok is , , they watch workstruck performances, but in America, they watch pornography on TikTok.",
-        "keywords": [
-            "watch workstruck performances",
-            "watch pornography",
-            "republican seem",
-            "rand paul",
-            "many issues"
-        ],
-        "summary": "ruben navarrette: if you are Rand Paul, you believe that this is all deeply unfair . he says the idea that in china TikTok is , they watch workstruck performances, but in americans, it's poisoning our children with liberal nonsense ."
-    },
-    {
-        "segment_id": 138,
-        "text": ", that's, no, that sounds stupid.",
-        "keywords": [
-            "sounds stupid"
-        ],
-        "summary": ", that's, no, that sounds stupid."
-    },
-    {
-        "segment_id": 139,
-        "text": "If you have actual security concerns, risk regard to the ownership of TikTok. That is different from TikTok is bad, and TikTok. No more TikTok for anyone.",
+        "segment_id": 28,
+        "title": "Ruben Navarrette: If",
+        "text": "If you are Rand Paul, you believe that this is all deeply unfair. There are obviously a lot of libertarians with , I think on many issues I agree with them with regard to a time to ban TikTok or limit TikTok for some of the arguments against TikTok that I've seen from Republican seem to literally be , it's poisoning our children with liberal nonsense. , the idea that in China TikTok is , , they watch workstruck performances, but in America, they watch pornography on TikTok. , that's, no, that sounds stupid. If you have actual security concerns, risk regard to the ownership of TikTok. That is different from TikTok is bad, and TikTok. No more TikTok for anyone. that work does appear on page 47 of the transfer. Never appeared in your report though. Is that correct? The word photograph that does not appear in our report. Attorney Herb Webster's Dictionary defines C-Nyle as exhibiting a decline of cognitive ability such as memory associated with old age. Mr. Herb, based on your report, did you find that the president was C-Nyle? those were two different things.",
         "keywords": [
             "actual security concerns",
-            "risk regard",
-            "tiktok",
-            "tiktok",
-            "tiktok"
-        ],
-        "summary": "no more TikTok for anyone . Tiktok is bad, and no more ."
-    },
-    {
-        "segment_id": 140,
-        "text": "that work does appear on page 47 of the transfer. Never appeared in your report though. Is that correct? The word photograph that does not appear in our report.",
-        "keywords": [
-            "word photograph",
-            "page 47",
-            "never appeared",
-            "report though",
-            "report"
-        ],
-        "summary": "the word photograph that does not appear on page 47 of the transfer . never appeared in your report ."
-    },
-    {
-        "segment_id": 141,
-        "text": "Attorney Herb Webster's Dictionary defines C-Nyle as exhibiting a decline of cognitive ability such as memory associated with old age. Mr. Herb, based on your report, did you find that the president was C-Nyle? those were two different things.",
-        "keywords": [
+            "watch workstruck performances",
             "two different things",
             "dictionary defines c",
-            "attorney herb webster",
-            "old age",
-            "memory associated"
+            "attorney herb webster"
         ],
-        "summary": "attorney Herb Webster's Dictionary defines C-Nyle as exhibiting a decline of cognitive ability such as memory associated with old age ."
+        "summary": "ruben navarrette: if you are Rand Paul, you believe that this is all deeply unfair . he says the idea that in China TikTok is , they watch workstruck performances, but in America they watch pornography on Tiktok . it's poisoning our children with liberal nonsense, he writes ."
     },
     {
-        "segment_id": 142,
-        "text": "So I think that how people are thinking about this app is actually how people are thinking about tech and this type of tech. On the one hand you have people who I think are a smidge and two in business. Some of them are being paid to be enthusiastic, are good friends of the Bowling Green Mascar, Kelly and Conway. Some people, , they're been a host of TikTok. influencers who have been on Capitol Hill to talk to people. I don't know if you may have seen others, may have seen TikTok has had a big ad campaign to the United States to being , , I'm able to support my family. I'm educating toddlers. I'm making soap.",
+        "segment_id": 29,
+        "title": "Bowling Green Mascar",
+        "text": "So I think that how people are thinking about this app is actually how people are thinking about tech and this type of tech. On the one hand you have people who I think are a smidge and two in business. Some of them are being paid to be enthusiastic, are good friends of the Bowling Green Mascar, Kelly and Conway. Some people, , they're been a host of TikTok. influencers who have been on Capitol Hill to talk to people. I don't know if you may have seen others, may have seen TikTok has had a big ad campaign to the United States to being , , I'm able to support my family. I'm educating toddlers. I'm making soap. I'm the nicest person in the entire world.",
         "keywords": [
             "bowling green mascar",
             "big ad campaign",
@@ -1500,183 +374,38 @@
             "seen others",
             "one hand"
         ],
-        "summary": "some people are being paid to be enthusiastic, are good friends of the Bowling Green Mascar, Kelly and Conway . some people, , they're been a host of TikTok. influencers on Capitol Hill to talk to people ."
+        "summary": "some people are being paid to be enthusiastic, are good friends of the Bowling Green Mascar, Kelly and Conway . some people, , they're been a host of TikTok. influencers who have been on Capitol Hill to talk to people."
     },
     {
-        "segment_id": 143,
-        "text": "I'm the nicest person in the entire world.",
-        "keywords": [
-            "nicest person",
-            "entire world"
-        ],
-        "summary": "I'm the nicest person in the entire world."
-    },
-    {
-        "segment_id": 144,
-        "text": "Not on TikTok.",
-        "keywords": [
-            "tiktok"
-        ],
-        "summary": "Not on TikTok."
-    },
-    {
-        "segment_id": 145,
-        "text": "Nothing bad could happen here, which I'm, fine.",
+        "segment_id": 30,
+        "title": "Really Bad Stuff",
+        "text": "Not on TikTok. Nothing bad could happen here, which I'm, fine. But I think that the conversation is less about what TikTok is and more about what TikTok means. Yeah. Which is about a social media platform that is confusing and loud and sometimes filled with really bad stuff and sometimes filled with really good stuff and it is currently seemingly out of control and a lot of people don't that and a lot of people don't that. Yeah, I mean look, my view on this is that most social media platforms, as currently designed, do more harm than good. That's my own bias here. I think that, , functional democracies require a shared reality and social media is not in the shared reality business. Perhaps there's some different realities where we only see in here now what we want to. It's not true. It makes rational debate possible. It makes it very easy. to ignore what's going on in the world altogether.",
         "keywords": [
             "nothing bad could happen",
-            "fine"
-        ],
-        "summary": "Nothing bad could happen here, which I'm, fine."
-    },
-    {
-        "segment_id": 146,
-        "text": "But I think that the conversation is less about what TikTok is and more about what TikTok means.",
-        "keywords": [
-            "tiktok means",
-            "tiktok",
-            "think",
-            "less",
-            "conversation"
-        ],
-        "summary": "But I think that the conversation is less about what TikTok is and more about what TikTok means."
-    },
-    {
-        "segment_id": 147,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 148,
-        "text": "Which is about a social media platform that is confusing and loud and sometimes filled with really bad stuff and sometimes filled with really good stuff and it is currently seemingly out of control and a lot of people don't that and a lot of people don't that. Yeah, I mean look, my view on this is that most social media platforms, as currently designed, do more harm than good.",
-        "keywords": [
-            "social media platforms",
-            "social media platform",
-            "really bad stuff",
-            "really good stuff",
-            "sometimes filled"
-        ],
-        "summary": "most social media platforms, as currently designed, do more harm than good . it is confusing and loud and sometimes filled with really bad stuff . a lot of people don't that ."
-    },
-    {
-        "segment_id": 149,
-        "text": "That's my own bias here.",
-        "keywords": [
-            "bias"
-        ],
-        "summary": "That's my own bias here."
-    },
-    {
-        "segment_id": 150,
-        "text": "I think that, , functional democracies require a shared reality and social media is not in the shared reality business. Perhaps there's some different realities where we only see in here now what we want to. It's not true. It makes rational debate possible. It makes it very easy.",
-        "keywords": [
             "makes rational debate possible",
+            "really bad stuff",
             "functional democracies require",
-            "shared reality business",
-            "shared reality",
-            "social media"
+            "social media platforms"
         ],
-        "summary": "functional democracies require a shared reality . social media is not in the shared reality business . it makes rational debate possible ."
+        "summary": "the conversation is less about what TikTok is and more about what it means . it's about a social media platform that is confusing and loud and sometimes filled with really bad stuff . that's my own bias here, but it makes rational debate possible ."
     },
     {
-        "segment_id": 151,
-        "text": "to ignore what's going on in the world altogether.",
+        "segment_id": 31,
+        "title": "Watch Alama Hopping",
+        "text": "I think TikTok is maybe one of the worst of all the platforms because the algorithm is more determinative, right? There's very little choice involved. You're just being fed. Video after video based on your own interests. But what if I really want to watch Alama hopping to party up by DMX? That's my right. I have the right to watch Alama hop to party up by... DMX don't take that away from me doesn't say it's so that all that aside I'm not I said no fan Twitter even though I use it and addicted to it. I also Spent an hour on TikTok and then where did the hour go right so but you're right If you want to if you want to do that great But operating in a country where the government is actively hostile to US interests In looking for ways to spy on us not good I don't think we would have accepted during the head of the Cold War, the Soviet Union owning NBC.",
         "keywords": [
-            "world altogether",
-            "ignore",
-            "going"
-        ],
-        "summary": "to ignore what's going on in the world altogether."
-    },
-    {
-        "segment_id": 152,
-        "text": "I think TikTok is maybe one of the worst of all the platforms because the algorithm is more determinative, right?",
-        "keywords": [
-            "think tiktok",
-            "maybe one",
-            "worst",
-            "right",
-            "platforms"
-        ],
-        "summary": "TikTok is maybe one of the worst of all the platforms because the algorithm is more determinative, right?"
-    },
-    {
-        "segment_id": 153,
-        "text": "There's very little choice involved.",
-        "keywords": [
-            "little choice involved"
-        ],
-        "summary": "There's very little choice involved."
-    },
-    {
-        "segment_id": 154,
-        "text": "You're just being fed.",
-        "keywords": [
-            "fed"
-        ],
-        "summary": "You're just being fed."
-    },
-    {
-        "segment_id": 155,
-        "text": "Video after video based on your own interests. But what if I really want to watch Alama hopping to party up by DMX? That's my right. I have the right to watch Alama hop to party up by... DMX don't take that away from me doesn't say it's so that all that aside I'm not I said no fan Twitter even though I use it and addicted to it.",
-        "keywords": [
+            "soviet union owning nbc",
             "fan twitter even though",
             "watch alama hopping",
             "watch alama hop",
-            "really want",
-            "video based"
+            "little choice involved"
         ],
-        "summary": "DMX don't say it's so that all that aside I'm not I said no fan Twitter even though I use it and addicted to it ."
+        "summary": "I have the right to watch Alama hopping to party up by DMX . I also Spent an hour on TikTok and then where did the hour go right so but you're right ."
     },
     {
-        "segment_id": 156,
-        "text": "I also Spent an hour on TikTok and then where did the hour go right so but you're right If you want to if you want to do that great But operating in a country where the government is actively hostile to US interests In looking for ways to spy on us not good I don't think we would have accepted during the head of the Cold War, the Soviet Union owning NBC.",
-        "keywords": [
-            "soviet union owning nbc",
-            "hour go right",
-            "cold war",
-            "also spent",
-            "actively hostile"
-        ],
-        "summary": "I also Spent an hour on TikTok and then where did the hour go right so but you're right In looking for ways to spy on us not good I don't think we would have accepted during the head of the Cold War ."
-    },
-    {
-        "segment_id": 157,
-        "text": "Right. That's something that would have been a problem for me. Right. Exactly.",
-        "keywords": [
-            "would",
-            "something",
-            "right",
-            "right",
-            "problem"
-        ],
-        "summary": "Right. That's something that would have been a problem for me. Right. Exactly."
-    },
-    {
-        "segment_id": 158,
-        "text": "And , I think that it's difficult for people to separate all of these pieces.",
-        "keywords": [
-            "think",
-            "separate",
-            "pieces",
-            "people",
-            "difficult"
-        ],
-        "summary": "And , I think that it's difficult for people to separate all of these pieces."
-    },
-    {
-        "segment_id": 159,
-        "text": "Yeah.",
-        "keywords": [
-            "yeah"
-        ],
-        "summary": "Yeah."
-    },
-    {
-        "segment_id": 160,
-        "text": "It's any hearing you have on these issues with regards to Chinese Communist Party The Chinese government obviously turns into rabid cytopobia, which no one needs. But there is an actual security concern here. There is a security concern that has been raised by many people of both parties.",
+        "segment_id": 32,
+        "title": "There'S A Security Concern",
+        "text": "Right. That's something that would have been a problem for me. Right. Exactly. And , I think that it's difficult for people to separate all of these pieces. Yeah. It's any hearing you have on these issues with regards to Chinese Communist Party The Chinese government obviously turns into rabid cytopobia, which no one needs. But there is an actual security concern here. There is a security concern that has been raised by many people of both parties. People who I do not think are completely insane.",
         "keywords": [
             "chinese government obviously turns",
             "chinese communist party",
@@ -1684,95 +413,37 @@
             "security concern",
             "rabid cytopobia"
         ],
-        "summary": "the Chinese government turns into rabid cytopobia . there is a security concern that has been raised by many people of both parties ."
+        "summary": "there's a security concern that has been raised by many people of both parties . people who I do not think are completely insane ."
     },
     {
-        "segment_id": 161,
-        "text": "People who I do not think are completely insane.",
-        "keywords": [
-            "completely insane",
-            "think",
-            "people"
-        ],
-        "summary": "People who I do not think are completely insane."
-    },
-    {
-        "segment_id": 162,
-        "text": "I think that that is worth hearing, especially because if Tik Tok is... owned by an American company, then you can continue to watch... Keep TikTok.",
-        "keywords": [
-            "watch ... keep tiktok",
-            "... owned",
-            "worth hearing",
-            "tik tok",
-            "american company"
-        ],
-        "summary": "Tik Tok is owned by an american company, then you can continue to watch Keep TikTok ."
-    },
-    {
-        "segment_id": 163,
-        "text": "Whatever.",
-        "keywords": [
-            "whatever"
-        ],
-        "summary": "Whatever."
-    },
-    {
-        "segment_id": 164,
-        "text": "Yeah, you can keep on TikToking or inventing TikTok dances and please just don't film your TikTok in public because you look insane. What is also of interest to me is that Donald Trump, on this particular issue who, as you mentioned, wanted to ban TikTok in 2020. Trump. Trump occasionally is accused or given the excuse is too negligent. He is admired for his ability to do three four five dimensional tests on any number of issues. But Donald Trump is actually the most easily influenced person in the history of time.",
+        "segment_id": 33,
+        "title": "Easily Influenced Person",
+        "text": "I think that that is worth hearing, especially because if Tik Tok is... owned by an American company, then you can continue to watch... Keep TikTok. Whatever. Yeah, you can keep on TikToking or inventing TikTok dances and please just don't film your TikTok in public because you look insane. What is also of interest to me is that Donald Trump, on this particular issue who, as you mentioned, wanted to ban TikTok in 2020. Trump. Trump occasionally is accused or given the excuse is too negligent. He is admired for his ability to do three four five dimensional tests on any number of issues. But Donald Trump is actually the most easily influenced person in the history of time.",
         "keywords": [
             "three four five dimensional tests",
+            "watch ... keep tiktok",
             "easily influenced person",
             "inventing tiktok dances",
-            "particular issue",
-            "look insane"
+            "... owned"
         ],
-        "summary": "Donald Trump wanted to ban TikTok in 2020 . he is admired for his ability to do three four five dimensional tests on any number of issues ."
+        "summary": "don't film your TikTok in public because you look insane . Donald Trump is the most easily influenced person in the history of time . he is admired for his ability to do three four five dimensional tests ."
     },
     {
-        "segment_id": 165,
-        "text": "Ever. What? I did not, that conclusion is not appeared in my report times.",
-        "keywords": [
-            "report times",
-            "ever",
-            "conclusion",
-            "appeared"
-        ],
-        "summary": "Ever. What? I did not, that conclusion is not appeared in my report times."
-    },
-    {
-        "segment_id": 166,
-        "text": "Democrats also use the hearing to remind everyone that Trump is much worse at both handling classified information and remembering important things. Let's listen.",
-        "keywords": [
-            "remembering important things",
-            "handling classified information",
-            "democrats also use",
-            "remind everyone",
-            "much worse"
-        ],
-        "summary": "the hearing reminds everyone that Trump is much worse at both handling classified information and remembering important things . let's listen to the hearing ."
-    },
-    {
-        "segment_id": 167,
-        "text": "Unlike President Biden, Trump did not alert the National Archives or DOJ of the documents nor did he turn over all the classified materials in his possession. He did not agree to sit down.",
+        "segment_id": 34,
+        "title": "Unlike President Biden",
+        "text": "Ever. What? I did not, that conclusion is not appeared in my report times. Democrats also use the hearing to remind everyone that Trump is much worse at both handling classified information and remembering important things. Let's listen. Unlike President Biden, Trump did not alert the National Archives or DOJ of the documents nor did he turn over all the classified materials in his possession. He did not agree to sit down. at any time.",
         "keywords": [
             "unlike president biden",
-            "national archives",
-            "classified materials",
-            "turn",
-            "trump"
+            "remembering important things",
+            "democrats also use",
+            "handling classified information",
+            "classified materials"
         ],
-        "summary": "president biden did not alert the National Archives or DOJ of the documents . he did not turn over all the classified materials in his possession ."
+        "summary": "the hearing reminds everyone that Trump is much worse at handling classified information and remembering important things . he did not alert the National Archives or DOJ of the documents nor did he turn over all the classified materials ."
     },
     {
-        "segment_id": 168,
-        "text": "at any time.",
-        "keywords": [
-            "time"
-        ],
-        "summary": "at any time."
-    },
-    {
-        "segment_id": 169,
+        "segment_id": 35,
+        "title": "Tiktok David Urban",
         "text": "And on this particular issue he has been effectively influenced because there is a person that he hates. That person's name is Mark Zuckerberg. That person runs Facebook and a host of other entities for years. Donald Trump has hated Mark Zuckerberg. Hated him brilliant people who are paid millions of dollars to do this very thing go to Donald Trump or hey Facebook page what your supporters love and your supporters are free on TikTok David Urban who's a lobbyist long time advisor to Trump I believe he brand the Pennsylvania campaign twice. Student for Trump said that for a voluntary interview with the special counsel, he never consented to a search of his home on the contrary. Trump suggests that his attorney hide will destroy evidence requested by the FBI in the grand jury. Trump carefully instructed his aide to move boxes of classified documents to hide them from the FBI. Trump tried to delete incriminating security tape footage from Mar-a-Lago and he got- That is attorney to provide a false certification. The FBI saying he had produced all the documents in his possession.",
         "keywords": [
             "delete incriminating security tape footage",
@@ -1784,61 +455,16 @@
         "summary": "he has been effectively influenced because there is a person that he hates . that person runs Facebook and a host of other entities for years . he says he never consented to a search of his home on the contrary ."
     },
     {
-        "segment_id": 170,
-        "text": "I'd have to get the exact date speed. I can do that.",
+        "segment_id": 36,
+        "title": "Exact Date Speed",
+        "text": "I'd have to get the exact date speed. I can do that. My correct that you married your current wife in January 2007. I don't know relative to that. What year is we doing as a pop-up talk? I don't know these. James Weber. I don't remember the names. I don't remember the names. So you don't remember saying that one of those names. I don't remember.",
         "keywords": [
             "exact date speed",
-            "get"
-        ],
-        "summary": "I'd have to get the exact date speed. I can do that."
-    },
-    {
-        "segment_id": 171,
-        "text": "My correct that you married your current wife in January 2007.",
-        "keywords": [
             "january 2007",
+            "james weber",
             "current wife",
-            "married",
-            "correct"
-        ],
-        "summary": "My correct that you married your current wife in January 2007."
-    },
-    {
-        "segment_id": 172,
-        "text": "I don't know relative to that.",
-        "keywords": [
             "know relative"
         ],
-        "summary": "I don't know relative to that."
-    },
-    {
-        "segment_id": 173,
-        "text": "What year is we doing as a pop-up talk?",
-        "keywords": [
-            "year",
-            "talk",
-            "pop"
-        ],
-        "summary": "What year is we doing as a pop-up talk?"
-    },
-    {
-        "segment_id": 174,
-        "text": "I don't know these.",
-        "keywords": [
-            "know"
-        ],
-        "summary": "I don't know these."
-    },
-    {
-        "segment_id": 175,
-        "text": "James Weber. I don't remember the names. I don't remember the names. So you don't remember saying that one of those names. I don't remember.",
-        "keywords": [
-            "james weber",
-            "remember saying",
-            "remember",
-            "remember",
-            "remember"
-        ],
-        "summary": "I don't remember the names . I don\u2019t remember saying that one of those names. ."
+        "summary": "my correct that you married your current wife in January 2007 . I don't remember the names ."
     }
 ]

@@ -41,14 +41,16 @@ def run_pipeline(transcript_path, output_dir):
     output_file = os.path.join(output_dir, f"{audio_id}_segmented.json")
     results = []
     
-    # Step 7 & 8: Keywords and Summaries
-    print(f"Extracting keywords and generating summaries for {len(final_segments)} segments...")
+    # Step 7 & 8: Titles, Keywords, and Summaries
+    print(f"Generating titles, keywords, and summaries for {len(final_segments)} segments...")
     for i, seg_text in enumerate(final_segments):
         keywords = summarizer.extract_keywords(seg_text)
         summary = summarizer.generate_summary(seg_text)
+        title = summarizer.generate_title(seg_text, summary=summary)
         
         results.append({
             "segment_id": i + 1,
+            "title": title,
             "text": seg_text,
             "keywords": keywords,
             "summary": summary
@@ -58,7 +60,7 @@ def run_pipeline(transcript_path, output_dir):
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(results, f, indent=4)
             
-        print(f"Processed Segment {i+1}/{len(final_segments)}")
+        print(f"Processed Segment {i+1}/{len(final_segments)}: {title}")
     
     print(f"\nWeek 3 results for {audio_id} complete. Saved to {output_file}")
     return results
