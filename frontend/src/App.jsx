@@ -10,8 +10,12 @@ import {
   Menu,
   X,
   AudioLines,
-  PlayCircle
+  PlayCircle,
+  TrendingUp,
+  TrendingDown,
+  Minus
 } from 'lucide-react';
+import Timeline from './components/Timeline';
 
 const API_BASE = 'http://localhost:5000/api';
 
@@ -240,6 +244,14 @@ const App = () => {
                     </span>
                   ))}
                 </div>
+
+                <div className="mt-8">
+                  <Timeline
+                    segments={segments}
+                    currentSegmentId={currentSegmentId}
+                    onSegmentClick={scrollToSegment}
+                  />
+                </div>
               </motion.div>
 
               {segments.map((seg) => (
@@ -264,9 +276,22 @@ const App = () => {
                         <div className="h-4 w-px bg-white/10" />
                         <h3 className="text-xl font-bold tracking-tight text-primary/90">{seg.title}</h3>
                       </div>
-                      <div className="flex items-center gap-2 text-accent">
-                        <Clock size={14} />
-                        <span className="text-xs font-mono">Chapter ID: {seg.segment_id}</span>
+                      <div className="flex items-center gap-3">
+                        {seg.sentiment && (
+                          <div className={`flex items-center gap-1.5 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border ${seg.sentiment.label === 'Positive' ? 'bg-emerald-500/10 text-emerald-500 border-emerald-500/20' :
+                            seg.sentiment.label === 'Negative' ? 'bg-rose-500/10 text-rose-500 border-rose-500/20' :
+                              'bg-accent/10 text-accent border-accent/20'
+                            }`}>
+                            {seg.sentiment.label === 'Positive' ? <TrendingUp size={12} /> :
+                              seg.sentiment.label === 'Negative' ? <TrendingDown size={12} /> :
+                                <Minus size={12} />}
+                            {seg.sentiment.label}
+                          </div>
+                        )}
+                        <div className="flex items-center gap-2 text-accent/50">
+                          <Clock size={14} />
+                          <span className="text-xs font-mono">ID: {seg.segment_id}</span>
+                        </div>
                       </div>
                     </div>
 
@@ -276,9 +301,9 @@ const App = () => {
 
                     <div className="space-y-4">
                       <div className="h-px w-full bg-white/5" />
-                      <div className="flex items-center gap-2">
+                      <div className="flex flex-wrap items-center gap-2">
                         {seg.keywords.map((kw, idx) => (
-                          <span key={idx} className="text-[10px] font-bold text-primary/80 bg-primary/5 px-2 py-0.5 rounded border border-primary/10">
+                          <span key={idx} className="text-[10px] font-bold text-accent bg-secondary px-3 py-1 rounded-full border border-white/5 hover:border-primary/30 transition-colors">
                             {kw}
                           </span>
                         ))}
