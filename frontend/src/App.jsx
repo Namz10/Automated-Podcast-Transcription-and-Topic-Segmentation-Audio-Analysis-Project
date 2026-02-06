@@ -115,8 +115,14 @@ const App = () => {
                         : 'hover:bg-secondary text-accent hover:text-foreground'
                         }`}
                     >
-                      <Mic2 size={18} className={selectedPodcastId === pod.id ? 'text-white' : 'text-primary group-hover:scale-110 transition-transform'} />
-                      <span className="text-sm font-medium truncate">{pod.title}</span>
+                      <div className="flex flex-col min-w-0">
+                        <span className="text-sm font-bold truncate">{pod.title}</span>
+                        {pod.domain && (
+                          <span className={`text-[9px] font-black uppercase tracking-tighter opacity-60 ${selectedPodcastId === pod.id ? 'text-white/80' : 'text-primary'}`}>
+                            {pod.domain}
+                          </span>
+                        )}
+                      </div>
                     </button>
                   ))}
                 </div>

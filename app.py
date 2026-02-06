@@ -8,6 +8,14 @@ CORS(app)
 
 SEGMENTED_DIR = "data/segmented"
 
+METADATA_FILE = "data/podcast_metadata.json"
+
+def load_metadata():
+    if os.path.exists(METADATA_FILE):
+        with open(METADATA_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
 def load_podcast_data(podcast_id):
     path = os.path.join(SEGMENTED_DIR, f"{podcast_id}_segmented.json")
     if os.path.exists(path):
@@ -18,27 +26,26 @@ def load_podcast_data(podcast_id):
 @app.route("/api/podcasts", methods=["GET"])
 def get_podcasts():
     """Returns a list of available podcasts with basic metadata."""
-    podcasts = []
-    # IDs we know exist and are processed
-    valid_ids = ["0", "1", "3"]
+    metadata = load_metadata()
+    processed_podcasts = []
     
-    # In a real app, we'd pull titles from the CSV, but here we use IDs
-    titles = {
-        "0": "Pod Save America: Episode 0",
-        "1": "Pod Save America: Episode 1",
-        "3": "Pod Save America: Episode 3"
-    }
+    # List all files in segmented dir to find what's ready
+    processed_files = os.listdir(SEGMENTED_DIR)
+    processed_ids = [f.split('_')[0] for f in processed_files if f.endswith('_segmented.json')]
     
-    for pid in valid_ids:
-        data = load_podcast_data(pid)
-        if data:
-            podcasts.append({
-                "id": pid,
-                "title": titles.get(pid, f"Podcast {pid}"),
-                "segment_count": len(data),
-                "preview_summary": data[0]["summary"] if data else ""
-            })
-    return jsonify(podcasts)
+    for item in metadata:
+        pid = str(item["id"])
+        if pid in processed_ids:
+            data = load_podcast_data(pid)
+            if data:
+                processed_podcasts.append({
+                    "id": pid,
+                    "title": item["title"],
+                    "domain": item["domain"],
+                    "segment_count": len(data),
+                    "preview_summary": data[0]["summary"] if data else ""
+                })
+    return jsonify(processed_podcasts)
 
 @app.route("/api/podcast/<podcast_id>", methods=["GET"])
 def get_podcast_details(podcast_id):
@@ -56,11 +63,16 @@ def search():
         return jsonify([])
     
     results = []
-    valid_ids = ["0", "1", "3"]
+    metadata = load_metadata()
+    processed_files = os.listdir(SEGMENTED_DIR)
+    processed_ids = [f.split('_')[0] for f in processed_files if f.endswith('_segmented.json')]
     
-    for pid in valid_ids:
+    metadata_map = {str(m["id"]): m for m in metadata}
+
+    for pid in processed_ids:
         data = load_podcast_data(pid)
         if data:
+            m_info = metadata_map.get(pid, {"title": f"Podcast {pid}"})
             for seg in data:
                 # Search in text, keywords, and summary
                 if (query in seg["text"].lower() or 
@@ -69,6 +81,7 @@ def search():
                     
                     results.append({
                         "podcast_id": pid,
+                        "podcast_title": m_info["title"],
                         "segment_id": seg["segment_id"],
                         "summary": seg["summary"],
                         "keywords": seg["keywords"],
