@@ -2,6 +2,9 @@ import os
 import json
 from flask import Flask, jsonify, request
 from flask_cors import CORS
+import shutil
+from datetime import datetime
+from src.pipeline_manager import start_background_processing
 
 app = Flask(__name__)
 CORS(app)
@@ -30,21 +33,32 @@ def get_podcasts():
     processed_podcasts = []
     
     # List all files in segmented dir to find what's ready
-    processed_files = os.listdir(SEGMENTED_DIR)
+    processed_files = os.listdir(SEGMENTED_DIR) if os.path.exists(SEGMENTED_DIR) else []
     processed_ids = [f.split('_')[0] for f in processed_files if f.endswith('_segmented.json')]
     
     for item in metadata:
         pid = str(item["id"])
+        # A podcast is "available" if it's either completed processing or is currently processing
+        # If it's in processed_ids, it has at least one segment file
+        status = item.get("status", "completed" if pid in processed_ids else "pending")
+        
+        pod_info = {
+            "id": pid,
+            "title": item["title"],
+            "domain": item["domain"],
+            "status": status,
+            "segment_count": 0,
+            "preview_summary": ""
+        }
+        
         if pid in processed_ids:
             data = load_podcast_data(pid)
             if data:
-                processed_podcasts.append({
-                    "id": pid,
-                    "title": item["title"],
-                    "domain": item["domain"],
-                    "segment_count": len(data),
-                    "preview_summary": data[0]["summary"] if data else ""
-                })
+                pod_info["segment_count"] = len(data)
+                pod_info["preview_summary"] = data[0]["summary"] if data else ""
+        
+        processed_podcasts.append(pod_info)
+        
     return jsonify(processed_podcasts)
 
 @app.route("/api/podcast/<podcast_id>", methods=["GET"])
@@ -57,36 +71,104 @@ def get_podcast_details(podcast_id):
 
 @app.route("/api/search", methods=["GET"])
 def search():
-    """Searches for segments containing the query string across all podcasts."""
-    query = request.args.get("q", "").lower()
-    if not query:
-        return jsonify([])
+    # ... (existing search logic remains same, just ensure it works with dynamic ids)
+    # [Same as before, no changes needed for search logic]
+    return search_logic() # Placeholder for multi-replace
+
+@app.route("/api/upload", methods=["POST"])
+def upload_podcast():
+    if "file" not in request.files:
+        return jsonify({"error": "No file part"}), 400
     
+    file = request.files["file"]
+    
+    if file.filename == "":
+        return jsonify({"error": "No selected file"}), 400
+    
+    # Auto-generate title and domain
+    filename_raw = file.filename
+    # Clean up filename for title
+    title = os.path.splitext(filename_raw)[0].replace('_', ' ').replace('-', ' ').title()
+    domain = "New Upload"
+    
+    if file and filename_raw.lower().endswith(".mp3"):
+        metadata = load_metadata()
+        # Generate new unique ID
+        existing_ids = [int(m["id"]) for m in metadata if str(m["id"]).isdigit()]
+        new_id = str(max(existing_ids) + 1 if existing_ids else 100)
+        
+        filename = f"{new_id}.mp3"
+        filepath = os.path.join("data/raw", filename)
+        os.makedirs("data/raw", exist_ok=True)
+        file.save(filepath)
+        
+        # Add to metadata
+        new_entry = {
+            "id": new_id,
+            "title": title,
+            "domain": domain,
+            "url": "upload",
+            "status": "processing",
+            "upload_date": datetime.now().isoformat()
+        }
+        metadata.append(new_entry)
+        with open(METADATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(metadata, f, indent=4)
+            
+        # Trigger processing pipeline in background
+        start_background_processing(new_id, filepath)
+        
+        return jsonify(new_entry), 201
+    
+    return jsonify({"error": "Only MP3 files are supported"}), 400
+
+@app.route("/api/podcast/<podcast_id>", methods=["DELETE"])
+def delete_podcast(podcast_id):
+    metadata = load_metadata()
+    updated_metadata = [m for m in metadata if str(m["id"]) != str(podcast_id)]
+    
+    if len(updated_metadata) == len(metadata):
+        return jsonify({"error": "Podcast not found"}), 404
+    
+    # 1. Update metadata file
+    with open(METADATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(updated_metadata, f, indent=4)
+    
+    # 2. Cleanup files
+    # Raw
+    raw_path = os.path.join("data/raw", f"{podcast_id}.mp3")
+    if os.path.exists(raw_path): os.remove(raw_path)
+    
+    # Processed (Chunks)
+    chunk_dir = os.path.join("data/processed/chunks", str(podcast_id))
+    if os.path.exists(chunk_dir): shutil.rmtree(chunk_dir)
+    
+    # Transcripts
+    transcript_path = os.path.join("data/transcripts", f"{podcast_id}_transcript.json")
+    if os.path.exists(transcript_path): os.remove(transcript_path)
+    
+    # Segmented
+    segmented_path = os.path.join("data/segmented", f"{podcast_id}_segmented.json")
+    if os.path.exists(segmented_path): os.remove(segmented_path)
+    
+    return jsonify({"message": f"Podcast {podcast_id} deleted successfully"}), 200
+
+def search_logic():
+    # Helper to keep original search logic intact
+    query = request.args.get("q", "").lower()
+    if not query: return jsonify([])
     results = []
     metadata = load_metadata()
-    processed_files = os.listdir(SEGMENTED_DIR)
+    processed_files = os.listdir(SEGMENTED_DIR) if os.path.exists(SEGMENTED_DIR) else []
     processed_ids = [f.split('_')[0] for f in processed_files if f.endswith('_segmented.json')]
-    
     metadata_map = {str(m["id"]): m for m in metadata}
-
     for pid in processed_ids:
         data = load_podcast_data(pid)
         if data:
             m_info = metadata_map.get(pid, {"title": f"Podcast {pid}"})
             for seg in data:
-                # Search in text, keywords, and summary
-                if (query in seg["text"].lower() or 
-                    any(query in kw.lower() for kw in seg["keywords"]) or 
-                    query in seg["summary"].lower()):
-                    
-                    results.append({
-                        "podcast_id": pid,
-                        "podcast_title": m_info["title"],
-                        "segment_id": seg["segment_id"],
-                        "summary": seg["summary"],
-                        "keywords": seg["keywords"],
-                        "text": seg["text"]
-                    })
+                if (query in seg["text"].lower() or any(query in kw.lower() for kw in seg["keywords"]) or query in seg["summary"].lower()):
+                    results.append({"podcast_id": pid, "podcast_title": m_info["title"], "segment_id": seg["segment_id"], "summary": seg["summary"], "keywords": seg["keywords"], "text": seg["text"]})
     return jsonify(results)
 
 if __name__ == "__main__":

@@ -1,4 +1,6 @@
 import os
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+os.environ["HF_HUB_DISABLE_SYMLINKS"] = "1"
 import glob
 from src.audio_processor import preprocess_audio
 from src.stt_service import transcribe_chunks
@@ -36,7 +38,7 @@ def run_scaling_pipeline():
         transcript_json = os.path.join(TRANSCRIPT_DIR, f"{audio_id}_transcript.json")
         if not os.path.exists(transcript_json):
             print("--- Transcribing ---")
-            transcribe_chunks(PROCESSED_DIR, audio_id, model_name="base", output_dir=TRANSCRIPT_DIR)
+            transcribe_chunks(PROCESSED_DIR, audio_id, model_size="large-v3", output_dir=TRANSCRIPT_DIR)
         else:
             print("--- Skipping Transcription (transcript exists) ---")
             
