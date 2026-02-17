@@ -43,6 +43,21 @@ const App = () => {
     fetchPodcasts();
   }, []);
 
+  // Polling logic for background processing
+  useEffect(() => {
+    const isProcessing = podcasts.some(p => p.status === 'processing');
+    let interval;
+
+    if (isProcessing) {
+      interval = setInterval(() => {
+        console.log("Polling for updates...");
+        fetchPodcasts();
+      }, 10000); // Poll every 10 seconds
+    }
+
+    return () => clearInterval(interval);
+  }, [podcasts]);
+
   const fetchPodcasts = async () => {
     try {
       const res = await axios.get(`${API_BASE}/podcasts`);

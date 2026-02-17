@@ -37,10 +37,10 @@ Lexara enhances **accessibility** for the hearing impaired, provides **education
 ```mermaid
 graph TD
     %% Define Styles
-    classDef storage fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef process fill:#bbf,stroke:#333,stroke-width:1px;
-    classDef nlp fill:#bfb,stroke:#333,stroke-width:1px;
-    classDef ui fill:#fbb,stroke:#333,stroke-width:1px;
+    classDef storage fill:#f9f,stroke:#333,stroke-width:2px,color:#000;
+    classDef process fill:#bbf,stroke:#333,stroke-width:1px,color:#000;
+    classDef nlp fill:#bfb,stroke:#333,stroke-width:1px,color:#000;
+    classDef ui fill:#fbb,stroke:#333,stroke-width:1px,color:#000;
 
     A[("Raw Audio (MP3/WAV)")]:::storage --> B["Audio Preprocessing"]:::process
     

@@ -12,8 +12,8 @@ TRANSCRIPT_DIR = "data/transcripts"
 SEGMENTED_DIR = "data/segmented"
 METADATA_FILE = "data/podcast_metadata.json"
 
-def update_metadata_status(audio_id, status):
-    """Updates the status of a podcast in the metadata file."""
+def update_metadata_status(audio_id, status, extra_data=None):
+    """Updates the status and optional metadata of a podcast."""
     if not os.path.exists(METADATA_FILE):
         return
     
@@ -23,6 +23,8 @@ def update_metadata_status(audio_id, status):
     for item in metadata:
         if str(item["id"]) == str(audio_id):
             item["status"] = status
+            if extra_data:
+                item.update(extra_data)
             break
             
     with open(METADATA_FILE, "w", encoding="utf-8") as f:
@@ -48,7 +50,19 @@ def process_single_podcast(audio_id, audio_path):
         if os.path.exists(transcript_json):
             print("--- Analyzing (NLP) ---")
             run_pipeline(transcript_json, SEGMENTED_DIR)
-            update_metadata_status(audio_id, "completed")
+            
+            # Extract preview info for instant loading
+            segmented_path = os.path.join(SEGMENTED_DIR, f"{audio_id}_segmented.json")
+            extra_data = {}
+            if os.path.exists(segmented_path):
+                with open(segmented_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    extra_data = {
+                        "segment_count": len(data),
+                        "preview_summary": data[0]["summary"] if data else ""
+                    }
+            
+            update_metadata_status(audio_id, "completed", extra_data)
             print(f">>>> PIPELINE COMPLETE FOR ID: {audio_id} <<<<")
         else:
             print(f"Error: Transcript for {audio_id} not found.")

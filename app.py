@@ -28,38 +28,8 @@ def load_podcast_data(podcast_id):
 
 @app.route("/api/podcasts", methods=["GET"])
 def get_podcasts():
-    """Returns a list of available podcasts with basic metadata."""
-    metadata = load_metadata()
-    processed_podcasts = []
-    
-    # List all files in segmented dir to find what's ready
-    processed_files = os.listdir(SEGMENTED_DIR) if os.path.exists(SEGMENTED_DIR) else []
-    processed_ids = [f.split('_')[0] for f in processed_files if f.endswith('_segmented.json')]
-    
-    for item in metadata:
-        pid = str(item["id"])
-        # A podcast is "available" if it's either completed processing or is currently processing
-        # If it's in processed_ids, it has at least one segment file
-        status = item.get("status", "completed" if pid in processed_ids else "pending")
-        
-        pod_info = {
-            "id": pid,
-            "title": item["title"],
-            "domain": item["domain"],
-            "status": status,
-            "segment_count": 0,
-            "preview_summary": ""
-        }
-        
-        if pid in processed_ids:
-            data = load_podcast_data(pid)
-            if data:
-                pod_info["segment_count"] = len(data)
-                pod_info["preview_summary"] = data[0]["summary"] if data else ""
-        
-        processed_podcasts.append(pod_info)
-        
-    return jsonify(processed_podcasts)
+    """Returns the list of podcasts directly from cached metadata (Instant)."""
+    return jsonify(load_metadata())
 
 @app.route("/api/podcast/<podcast_id>", methods=["GET"])
 def get_podcast_details(podcast_id):
