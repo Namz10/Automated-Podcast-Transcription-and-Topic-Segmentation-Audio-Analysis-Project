@@ -36,28 +36,43 @@ Lexara enhances **accessibility** for the hearing impaired, provides **education
 
 ```mermaid
 graph TD
-    A[Raw Audio (MP3/WAV)] --> B[Audio Preprocessing]
-    subgraph "Preprocessing (LibROSA/PyDub)"
-        B --> B1[16kHz Resampling]
-        B1 --> B2[Mono Conversion]
-        B2 --> B3[Noise Reduction]
-        B3 --> B4[RMS Normalization]
+    %% Define Styles
+    classDef storage fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef process fill:#bbf,stroke:#333,stroke-width:1px;
+    classDef nlp fill:#bfb,stroke:#333,stroke-width:1px;
+    classDef ui fill:#fbb,stroke:#333,stroke-width:1px;
+
+    A[("Raw Audio (MP3/WAV)")]:::storage --> B["Audio Preprocessing"]:::process
+    
+    subgraph "Preprocessing (LibROSA & PyDub)"
+        B --> B1["16kHz Resampling"]:::process
+        B1 --> B2["Mono Conversion"]:::process
+        B2 --> B3["Noise Reduction"]:::process
+        B3 --> B4["RMS Normalization"]:::process
     end
-    B4 --> C[Speech-to-Text]
+    
+    B4 --> C["Speech-to-Text Engine"]:::process
+    
     subgraph "ASR Engine (Faster-Whisper)"
-        C --> C1[High-Fidelity Transcription]
-        C1 --> C2[Word-Level Timestamps]
+        C --> C1["High-Fidelity Transcription"]:::process
+        C1 --> C2["Word-Level Timestamps"]:::process
     end
-    C2 --> D[NLP Analysis]
-    subgraph "NLP Pipeline (SBERT/T5/VADER)"
-        D --> D1[Topic Segmentation]
-        D1 --> D2[Chapter Titling]
-        D2 --> D3[Abstractive Summarization]
-        D3 --> D4[Sentiment Intensity]
+    
+    C2 --> D["NLP Intelligence Layer"]:::nlp
+    
+    subgraph "NLP Pipeline (SBERT & T5 & VADER)"
+        D --> D1["Topic Segmentation"]:::nlp
+        D1 --> D2["Chapter Titling"]:::nlp
+        D2 --> D3["Abstractive Summarization"]:::nlp
+        D3 --> D4["Sentiment Analysis"]:::nlp
     end
-    D4 --> E[Dashboard (React/Tailwind)]
-    E --> F[Interactive Timeline]
-    E --> G[Content Search]
+    
+    D4 --> E["Lexara Dashboard"]:::ui
+    
+    subgraph "Frontend Components (React & Tailwind)"
+        E --> F["Interactive Timeline"]:::ui
+        E --> G["Global Content Search"]:::ui
+    end
 ```
 
 ---
